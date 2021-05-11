@@ -1,0 +1,6750 @@
+State,Code,Day,daily_vaccinations_per_million
+Alabama,1,1/13/21,0.1205
+Alabama,1,1/14/21,0.1445
+Alabama,1,1/15/21,0.1525
+Alabama,1,1/16/21,0.1529
+Alabama,1,1/17/21,0.1531
+Alabama,1,1/18/21,0.1533
+Alabama,1,1/19/21,0.1534
+Alabama,1,1/20/21,0.1607
+Alabama,1,1/21/21,0.2145
+Alabama,1,1/22/21,0.2877
+Alabama,1,1/23/21,0.3304
+Alabama,1,1/24/21,0.3731
+Alabama,1,1/25/21,0.3711
+Alabama,1,1/26/21,0.3618
+Alabama,1,1/27/21,0.3707
+Alabama,1,1/28/21,0.3294
+Alabama,1,1/29/21,0.296
+Alabama,1,1/30/21,0.3522
+Alabama,1,1/31/21,0.3212
+Alabama,1,2/1/21,0.3137
+Alabama,1,2/2/21,0.3407
+Alabama,1,2/3/21,0.3552
+Alabama,1,2/4/21,0.3771
+Alabama,1,2/5/21,0.3778
+Alabama,1,2/6/21,0.3285
+Alabama,1,2/7/21,0.3157
+Alabama,1,2/8/21,0.3186
+Alabama,1,2/9/21,0.347
+Alabama,1,2/10/21,0.3714
+Alabama,1,2/11/21,0.3928
+Alabama,1,2/12/21,0.4094
+Alabama,1,2/13/21,0.4253
+Alabama,1,2/14/21,0.4368
+Alabama,1,2/15/21,0.4569
+Alabama,1,2/16/21,0.4245
+Alabama,1,2/17/21,0.3911
+Alabama,1,2/18/21,0.3753
+Alabama,1,2/19/21,0.4895
+Alabama,1,2/20/21,0.5121
+Alabama,1,2/21/21,0.5138
+Alabama,1,2/22/21,0.4928
+Alabama,1,2/23/21,0.5198
+Alabama,1,2/24/21,0.5527
+Alabama,1,2/25/21,0.5615
+Alabama,1,2/26/21,0.4508
+Alabama,1,2/27/21,0.4491
+Alabama,1,2/28/21,0.4484
+Alabama,1,3/1/21,0.451
+Alabama,1,3/2/21,0.4576
+Alabama,1,3/3/21,0.4671
+Alabama,1,3/4/21,0.4878
+Alabama,1,3/5/21,0.4974
+Alabama,1,3/6/21,0.4913
+Alabama,1,3/7/21,0.4884
+Alabama,1,3/8/21,0.4903
+Alabama,1,3/9/21,0.4919
+Alabama,1,3/10/21,0.5063
+Alabama,1,3/11/21,0.5175
+Alabama,1,3/12/21,0.5379
+Alabama,1,3/13/21,0.5493
+Alabama,1,3/14/21,0.5492
+Alabama,1,3/15/21,0.5528
+Alabama,1,3/16/21,0.5574
+Alabama,1,3/17/21,0.5541
+Alabama,1,3/18/21,0.5252
+Alabama,1,3/19/21,0.5171
+Alabama,1,3/20/21,0.5027
+Alabama,1,3/21/21,0.5071
+Alabama,1,3/22/21,0.5036
+Alabama,1,3/23/21,0.5161
+Alabama,1,3/24/21,0.5199
+Alabama,1,3/25/21,0.5507
+Alabama,1,3/26/21,0.5382
+Alabama,1,3/27/21,0.5392
+Alabama,1,3/28/21,0.5432
+Alabama,1,3/29/21,0.5457
+Alabama,1,3/30/21,0.5483
+Alabama,1,3/31/21,0.5429
+Alabama,1,4/1/21,0.562
+Alabama,1,4/2/21,0.5887
+Alabama,1,4/3/21,0.5867
+Alabama,1,4/4/21,0.5819
+Alabama,1,4/5/21,0.5777
+Alabama,1,4/6/21,0.5806
+Alabama,1,4/7/21,0.6016
+Alabama,1,4/8/21,0.5954
+Alabama,1,4/9/21,0.6056
+Alabama,1,4/10/21,0.6354
+Alabama,1,4/11/21,0.652
+Alabama,1,4/12/21,0.6632
+Alabama,1,4/13/21,0.6713
+Alabama,1,4/14/21,0.6808
+Alabama,1,4/15/21,0.6732
+Alabama,1,4/16/21,0.6533
+Alabama,1,4/17/21,0.6275
+Alabama,1,4/18/21,0.6109
+Alabama,1,4/19/21,0.5975
+Alabama,1,4/20/21,0.584
+Alabama,1,4/21/21,0.5584
+Alabama,1,4/22/21,0.5446
+Alabama,1,4/23/21,0.5363
+Alabama,1,4/24/21,0.5268
+Alabama,1,4/25/21,0.5219
+Alabama,1,4/26/21,0.5264
+Alabama,1,4/27/21,0.5009
+Alabama,1,4/28/21,0.4874
+Alabama,1,4/29/21,0.4826
+Alabama,1,4/30/21,0.4706
+Alabama,1,5/1/21,0.4542
+Alabama,1,5/2/21,0.4408
+Alabama,1,5/3/21,0.4344
+Alabama,1,5/4/21,0.4224
+Alabama,1,5/5/21,0.417
+Alabama,1,5/6/21,0.3299
+Alabama,1,5/7/21,0.3939
+Alabama,1,5/8/21,0.4097
+Alabama,1,5/9/21,0.4239
+Alabama,1,5/10/21,0.4262
+Alaska,2,1/13/21,0.3885
+Alaska,2,1/14/21,0.4619
+Alaska,2,1/15/21,0.6015
+Alaska,2,1/16/21,0.5989
+Alaska,2,1/17/21,0.5972
+Alaska,2,1/18/21,0.5963
+Alaska,2,1/19/21,0.5955
+Alaska,2,1/20/21,0.5782
+Alaska,2,1/21/21,0.5724
+Alaska,2,1/22/21,0.6261
+Alaska,2,1/23/21,0.6831
+Alaska,2,1/24/21,0.7142
+Alaska,2,1/25/21,0.6839
+Alaska,2,1/26/21,0.6213
+Alaska,2,1/27/21,0.6504
+Alaska,2,1/28/21,0.663
+Alaska,2,1/29/21,0.5722
+Alaska,2,1/30/21,0.5257
+Alaska,2,1/31/21,0.4947
+Alaska,2,2/1/21,0.488
+Alaska,2,2/2/21,0.4939
+Alaska,2,2/3/21,0.472
+Alaska,2,2/4/21,0.4702
+Alaska,2,2/5/21,0.4609
+Alaska,2,2/6/21,0.4663
+Alaska,2,2/7/21,0.5174
+Alaska,2,2/8/21,0.5647
+Alaska,2,2/9/21,0.5747
+Alaska,2,2/10/21,0.5955
+Alaska,2,2/11/21,0.6315
+Alaska,2,2/12/21,0.6529
+Alaska,2,2/13/21,0.7029
+Alaska,2,2/14/21,0.7372
+Alaska,2,2/15/21,0.7125
+Alaska,2,2/16/21,0.7447
+Alaska,2,2/17/21,0.7296
+Alaska,2,2/18/21,0.7201
+Alaska,2,2/19/21,0.9528
+Alaska,2,2/20/21,1.0206
+Alaska,2,2/21/21,1.002
+Alaska,2,2/22/21,0.9932
+Alaska,2,2/23/21,0.9552
+Alaska,2,2/24/21,0.9771
+Alaska,2,2/25/21,0.9844
+Alaska,2,2/26/21,0.7442
+Alaska,2,2/27/21,0.6276
+Alaska,2,2/28/21,0.5781
+Alaska,2,3/1/21,0.5883
+Alaska,2,3/2/21,0.5862
+Alaska,2,3/3/21,0.58
+Alaska,2,3/4/21,0.5338
+Alaska,2,3/5/21,0.5298
+Alaska,2,3/6/21,0.568
+Alaska,2,3/7/21,0.5918
+Alaska,2,3/8/21,0.5807
+Alaska,2,3/9/21,0.6395
+Alaska,2,3/10/21,0.6721
+Alaska,2,3/11/21,0.7123
+Alaska,2,3/12/21,0.7237
+Alaska,2,3/13/21,0.6961
+Alaska,2,3/14/21,0.7481
+Alaska,2,3/15/21,0.7615
+Alaska,2,3/16/21,0.7218
+Alaska,2,3/17/21,0.7464
+Alaska,2,3/18/21,0.7368
+Alaska,2,3/19/21,0.7328
+Alaska,2,3/20/21,0.7505
+Alaska,2,3/21/21,0.7632
+Alaska,2,3/22/21,0.7509
+Alaska,2,3/23/21,0.7208
+Alaska,2,3/24/21,0.6504
+Alaska,2,3/25/21,0.6525
+Alaska,2,3/26/21,0.6585
+Alaska,2,3/27/21,0.6434
+Alaska,2,3/28/21,0.5676
+Alaska,2,3/29/21,0.5408
+Alaska,2,3/30/21,0.5426
+Alaska,2,3/31/21,0.5456
+Alaska,2,4/1/21,0.5278
+Alaska,2,4/2/21,0.5061
+Alaska,2,4/3/21,0.4802
+Alaska,2,4/4/21,0.5283
+Alaska,2,4/5/21,0.5498
+Alaska,2,4/6/21,0.5536
+Alaska,2,4/7/21,0.5751
+Alaska,2,4/8/21,0.6202
+Alaska,2,4/9/21,0.6376
+Alaska,2,4/10/21,0.6929
+Alaska,2,4/11/21,0.6392
+Alaska,2,4/12/21,0.6604
+Alaska,2,4/13/21,1.2366
+Alaska,2,4/14/21,1.2315
+Alaska,2,4/15/21,1.1038
+Alaska,2,4/16/21,1.1038
+Alaska,2,4/17/21,1.0569
+Alaska,2,4/18/21,1.0587
+Alaska,2,4/19/21,1.0207
+Alaska,2,4/20/21,0.4495
+Alaska,2,4/21/21,0.4886
+Alaska,2,4/22/21,0.592
+Alaska,2,4/23/21,0.5602
+Alaska,2,4/24/21,0.5296
+Alaska,2,4/25/21,0.4712
+Alaska,2,4/26/21,0.45
+Alaska,2,4/27/21,0.4406
+Alaska,2,4/28/21,0.3616
+Alaska,2,4/29/21,0.3982
+Alaska,2,4/30/21,0.3758
+Alaska,2,5/1/21,0.4629
+Alaska,2,5/2/21,0.4455
+Alaska,2,5/3/21,0.4357
+Alaska,2,5/4/21,0.4216
+Alaska,2,5/5/21,0.4188
+Alaska,2,5/6/21,0.3223
+Alaska,2,5/7/21,0.3173
+Alaska,2,5/8/21,0.2082
+Alaska,2,5/9/21,0.1743
+Alaska,2,5/10/21,0.2402
+American Samoa,60,1/13/21,0.8134
+American Samoa,60,1/14/21,0.7614
+American Samoa,60,1/15/21,1.0523
+American Samoa,60,1/16/21,0.8871
+American Samoa,60,1/17/21,0.7883
+American Samoa,60,1/18/21,0.7219
+American Samoa,60,1/19/21,0.6752
+American Samoa,60,1/20/21,0.7021
+American Samoa,60,1/21/21,0.6913
+American Samoa,60,1/22/21,0.6895
+American Samoa,60,1/23/21,0.7003
+American Samoa,60,1/24/21,0.9553
+American Samoa,60,1/25/21,0.8996
+American Samoa,60,1/26/21,0.9122
+American Samoa,60,1/27/21,0.9679
+American Samoa,60,1/28/21,0.8781
+American Samoa,60,1/29/21,0.8601
+American Samoa,60,1/30/21,0.7937
+American Samoa,60,1/31/21,0.4812
+American Samoa,60,2/1/21,0.6967
+American Samoa,60,2/2/21,0.6267
+American Samoa,60,2/3/21,0.5082
+American Samoa,60,2/4/21,0.5567
+American Samoa,60,2/5/21,0.5405
+American Samoa,60,2/6/21,0.598
+American Samoa,60,2/7/21,0.598
+American Samoa,60,2/8/21,0.3843
+American Samoa,60,2/9/21,0.492
+American Samoa,60,2/10/21,0.5782
+American Samoa,60,2/11/21,0.5782
+American Samoa,60,2/12/21,0.7703
+American Samoa,60,2/13/21,0.8009
+American Samoa,60,2/14/21,0.8009
+American Samoa,60,2/15/21,0.8943
+American Samoa,60,2/16/21,0.8799
+American Samoa,60,2/17/21,0.7578
+American Samoa,60,2/18/21,0.7075
+American Samoa,60,2/19/21,0.3178
+American Samoa,60,2/20/21,0.6051
+American Samoa,60,2/21/21,0.8709
+American Samoa,60,2/22/21,0.7883
+American Samoa,60,2/23/21,0.6949
+American Samoa,60,2/24/21,0.8907
+American Samoa,60,2/25/21,0.8907
+American Samoa,60,2/26/21,1.0433
+American Samoa,60,2/27/21,0.6662
+American Samoa,60,2/28/21,0.4004
+American Samoa,60,3/1/21,0.3897
+American Samoa,60,3/2/21,0.58
+American Samoa,60,3/3/21,0.343
+American Samoa,60,3/4/21,0.483
+American Samoa,60,3/5/21,0.3304
+American Samoa,60,3/6/21,0.3304
+American Samoa,60,3/7/21,0.3304
+American Samoa,60,3/8/21,0.3304
+American Samoa,60,3/9/21,0.1401
+American Samoa,60,3/10/21,0.6716
+American Samoa,60,3/11/21,0.5315
+American Samoa,60,3/12/21,0.5315
+American Samoa,60,3/13/21,0.5315
+American Samoa,60,3/14/21,0.5315
+American Samoa,60,3/15/21,0.686
+American Samoa,60,3/16/21,0.686
+American Samoa,60,3/17/21,0.1544
+American Samoa,60,3/18/21,0.1544
+American Samoa,60,3/19/21,0.1544
+American Samoa,60,3/20/21,0.1544
+American Samoa,60,3/21/21,0.1544
+American Samoa,60,3/22/21,0.6967
+American Samoa,60,3/23/21,0.7596
+American Samoa,60,3/24/21,0.9068
+American Samoa,60,3/25/21,0.914
+American Samoa,60,3/26/21,1.0774
+American Samoa,60,3/27/21,1.0846
+American Samoa,60,3/28/21,1.0846
+American Samoa,60,3/29/21,0.3879
+American Samoa,60,3/30/21,0.4651
+American Samoa,60,3/31/21,0.8547
+American Samoa,60,4/1/21,0.8476
+American Samoa,60,4/2/21,0.835
+American Samoa,60,4/3/21,0.8296
+American Samoa,60,4/4/21,0.8332
+American Samoa,60,4/5/21,0.8332
+American Samoa,60,4/6/21,0.6913
+American Samoa,60,4/7/21,0.4328
+American Samoa,60,4/8/21,0.4453
+American Samoa,60,4/9/21,0.4579
+American Samoa,60,4/10/21,0.4579
+American Samoa,60,4/11/21,0.6123
+American Samoa,60,4/12/21,0.6123
+American Samoa,60,4/13/21,0.6123
+American Samoa,60,4/14/21,0.4956
+American Samoa,60,4/15/21,0.483
+American Samoa,60,4/16/21,0.6231
+American Samoa,60,4/17/21,0.6231
+American Samoa,60,4/18/21,0.4633
+American Samoa,60,4/19/21,0.4633
+American Samoa,60,4/20/21,0.4633
+American Samoa,60,4/21/21,0.3358
+American Samoa,60,4/22/21,0.3358
+American Samoa,60,4/23/21,0.3232
+American Samoa,60,4/24/21,0.3232
+American Samoa,60,4/25/21,0.4148
+American Samoa,60,4/26/21,0.4148
+American Samoa,60,4/27/21,0.4705
+American Samoa,60,4/28/21,0.4399
+American Samoa,60,4/29/21,0.5764
+American Samoa,60,4/30/21,0.3879
+American Samoa,60,5/1/21,0.3879
+American Samoa,60,5/2/21,0.2963
+American Samoa,60,5/3/21,0.2963
+American Samoa,60,5/4/21,0.3376
+American Samoa,60,5/5/21,0.3753
+American Samoa,60,5/6/21,0.2388
+American Samoa,60,5/7/21,0.237
+American Samoa,60,5/8/21,0.237
+American Samoa,60,5/9/21,0.237
+American Samoa,60,5/10/21,0.237
+Arizona,4,1/13/21,0.184
+Arizona,4,1/14/21,0.2219
+Arizona,4,1/15/21,0.2552
+Arizona,4,1/16/21,0.2508
+Arizona,4,1/17/21,0.2482
+Arizona,4,1/18/21,0.2464
+Arizona,4,1/19/21,0.2452
+Arizona,4,1/20/21,0.2495
+Arizona,4,1/21/21,0.2556
+Arizona,4,1/22/21,0.2596
+Arizona,4,1/23/21,0.2877
+Arizona,4,1/24/21,0.312
+Arizona,4,1/25/21,0.3232
+Arizona,4,1/26/21,0.3231
+Arizona,4,1/27/21,0.3462
+Arizona,4,1/28/21,0.3597
+Arizona,4,1/29/21,0.3763
+Arizona,4,1/30/21,0.3855
+Arizona,4,1/31/21,0.3994
+Arizona,4,2/1/21,0.4062
+Arizona,4,2/2/21,0.394
+Arizona,4,2/3/21,0.3882
+Arizona,4,2/4/21,0.3905
+Arizona,4,2/5/21,0.3893
+Arizona,4,2/6/21,0.411
+Arizona,4,2/7/21,0.4222
+Arizona,4,2/8/21,0.4326
+Arizona,4,2/9/21,0.4556
+Arizona,4,2/10/21,0.4744
+Arizona,4,2/11/21,0.5014
+Arizona,4,2/12/21,0.5316
+Arizona,4,2/13/21,0.5382
+Arizona,4,2/14/21,0.5494
+Arizona,4,2/15/21,0.5512
+Arizona,4,2/16/21,0.5707
+Arizona,4,2/17/21,0.5243
+Arizona,4,2/18/21,0.5126
+Arizona,4,2/19/21,0.7578
+Arizona,4,2/20/21,0.7542
+Arizona,4,2/21/21,0.7468
+Arizona,4,2/22/21,0.7551
+Arizona,4,2/23/21,0.7286
+Arizona,4,2/24/21,0.7675
+Arizona,4,2/25/21,0.7944
+Arizona,4,2/26/21,0.5788
+Arizona,4,2/27/21,0.5946
+Arizona,4,2/28/21,0.6335
+Arizona,4,3/1/21,0.6726
+Arizona,4,3/2/21,0.7143
+Arizona,4,3/3/21,0.7361
+Arizona,4,3/4/21,0.7309
+Arizona,4,3/5/21,0.721
+Arizona,4,3/6/21,0.6192
+Arizona,4,3/7/21,0.7265
+Arizona,4,3/8/21,0.7183
+Arizona,4,3/9/21,0.6989
+Arizona,4,3/10/21,0.7116
+Arizona,4,3/11/21,0.7271
+Arizona,4,3/12/21,0.7451
+Arizona,4,3/13/21,0.8653
+Arizona,4,3/14/21,0.7753
+Arizona,4,3/15/21,0.7662
+Arizona,4,3/16/21,0.8036
+Arizona,4,3/17/21,0.7928
+Arizona,4,3/18/21,0.795
+Arizona,4,3/19/21,0.6725
+Arizona,4,3/20/21,0.6699
+Arizona,4,3/21/21,0.6583
+Arizona,4,3/22/21,0.662
+Arizona,4,3/23/21,0.6188
+Arizona,4,3/24/21,0.6134
+Arizona,4,3/25/21,0.6892
+Arizona,4,3/26/21,0.8011
+Arizona,4,3/27/21,0.8118
+Arizona,4,3/28/21,0.8158
+Arizona,4,3/29/21,0.8246
+Arizona,4,3/30/21,0.8416
+Arizona,4,3/31/21,0.8666
+Arizona,4,4/1/21,0.7968
+Arizona,4,4/2/21,0.8094
+Arizona,4,4/3/21,0.8126
+Arizona,4,4/4/21,0.8078
+Arizona,4,4/5/21,0.8035
+Arizona,4,4/6/21,0.8041
+Arizona,4,4/7/21,0.792
+Arizona,4,4/8/21,0.7627
+Arizona,4,4/9/21,0.7736
+Arizona,4,4/10/21,0.7859
+Arizona,4,4/11/21,0.7945
+Arizona,4,4/12/21,0.7782
+Arizona,4,4/13/21,0.7751
+Arizona,4,4/14/21,0.7767
+Arizona,4,4/15/21,0.7957
+Arizona,4,4/16/21,0.7672
+Arizona,4,4/17/21,0.7587
+Arizona,4,4/18/21,0.7473
+Arizona,4,4/19/21,0.7483
+Arizona,4,4/20/21,0.7408
+Arizona,4,4/21/21,0.748
+Arizona,4,4/22/21,0.7497
+Arizona,4,4/23/21,0.7529
+Arizona,4,4/24/21,0.7351
+Arizona,4,4/25/21,0.7199
+Arizona,4,4/26/21,0.7106
+Arizona,4,4/27/21,0.7056
+Arizona,4,4/28/21,0.685
+Arizona,4,4/29/21,0.659
+Arizona,4,4/30/21,0.6286
+Arizona,4,5/1/21,0.6058
+Arizona,4,5/2/21,0.5694
+Arizona,4,5/3/21,0.5191
+Arizona,4,5/4/21,0.4963
+Arizona,4,5/5/21,0.4624
+Arizona,4,5/6/21,0.462
+Arizona,4,5/7/21,0.4527
+Arizona,4,5/8/21,0.4193
+Arizona,4,5/9/21,0.4121
+Arizona,4,5/10/21,0.4611
+Arkansas,5,1/13/21,1.7886
+Arkansas,5,1/14/21,1.1173
+Arkansas,5,1/15/21,0.8556
+Arkansas,5,1/16/21,0.6914
+Arkansas,5,1/17/21,0.5929
+Arkansas,5,1/18/21,0.5272
+Arkansas,5,1/19/21,0.4803
+Arkansas,5,1/20/21,0.3714
+Arkansas,5,1/21/21,0.3077
+Arkansas,5,1/22/21,0.3945
+Arkansas,5,1/23/21,0.3661
+Arkansas,5,1/24/21,0.3972
+Arkansas,5,1/25/21,0.4012
+Arkansas,5,1/26/21,0.4448
+Arkansas,5,1/27/21,0.3764
+Arkansas,5,1/28/21,0.3764
+Arkansas,5,1/29/21,0.3234
+Arkansas,5,1/30/21,0.4117
+Arkansas,5,1/31/21,0.4239
+Arkansas,5,2/1/21,0.4267
+Arkansas,5,2/2/21,0.3701
+Arkansas,5,2/3/21,0.3296
+Arkansas,5,2/4/21,0.4043
+Arkansas,5,2/5/21,0.3843
+Arkansas,5,2/6/21,0.4072
+Arkansas,5,2/7/21,0.4244
+Arkansas,5,2/8/21,0.4281
+Arkansas,5,2/9/21,0.4244
+Arkansas,5,2/10/21,0.4526
+Arkansas,5,2/11/21,0.4382
+Arkansas,5,2/12/21,0.4543
+Arkansas,5,2/13/21,0.3915
+Arkansas,5,2/14/21,0.3744
+Arkansas,5,2/15/21,0.3613
+Arkansas,5,2/16/21,0.3754
+Arkansas,5,2/17/21,0.3261
+Arkansas,5,2/18/21,0.2837
+Arkansas,5,2/19/21,0.332
+Arkansas,5,2/20/21,0.3007
+Arkansas,5,2/21/21,0.2648
+Arkansas,5,2/22/21,0.2719
+Arkansas,5,2/23/21,0.2687
+Arkansas,5,2/24/21,0.3196
+Arkansas,5,2/25/21,0.3873
+Arkansas,5,2/26/21,0.3821
+Arkansas,5,2/27/21,0.4817
+Arkansas,5,2/28/21,0.572
+Arkansas,5,3/1/21,0.5972
+Arkansas,5,3/2/21,0.6183
+Arkansas,5,3/3/21,0.6294
+Arkansas,5,3/4/21,0.624
+Arkansas,5,3/5/21,0.5954
+Arkansas,5,3/6/21,0.575
+Arkansas,5,3/7/21,0.5489
+Arkansas,5,3/8/21,0.5292
+Arkansas,5,3/9/21,0.5299
+Arkansas,5,3/10/21,0.529
+Arkansas,5,3/11/21,0.4531
+Arkansas,5,3/12/21,0.5342
+Arkansas,5,3/13/21,0.6556
+Arkansas,5,3/14/21,0.5556
+Arkansas,5,3/15/21,0.5644
+Arkansas,5,3/16/21,0.5411
+Arkansas,5,3/17/21,0.5372
+Arkansas,5,3/18/21,0.6143
+Arkansas,5,3/19/21,0.5506
+Arkansas,5,3/20/21,0.4371
+Arkansas,5,3/21/21,0.5532
+Arkansas,5,3/22/21,0.5491
+Arkansas,5,3/23/21,0.5461
+Arkansas,5,3/24/21,0.5673
+Arkansas,5,3/25/21,0.5986
+Arkansas,5,3/26/21,0.6308
+Arkansas,5,3/27/21,0.6602
+Arkansas,5,3/28/21,0.6836
+Arkansas,5,3/29/21,0.6872
+Arkansas,5,3/30/21,0.6944
+Arkansas,5,3/31/21,0.7138
+Arkansas,5,4/1/21,0.7274
+Arkansas,5,4/2/21,0.7475
+Arkansas,5,4/3/21,0.9046
+Arkansas,5,4/4/21,0.7712
+Arkansas,5,4/5/21,0.7684
+Arkansas,5,4/6/21,0.786
+Arkansas,5,4/7/21,0.7949
+Arkansas,5,4/8/21,0.803
+Arkansas,5,4/9/21,0.7653
+Arkansas,5,4/10/21,0.6373
+Arkansas,5,4/11/21,0.7691
+Arkansas,5,4/12/21,0.7702
+Arkansas,5,4/13/21,0.753
+Arkansas,5,4/14/21,0.7436
+Arkansas,5,4/15/21,0.7363
+Arkansas,5,4/16/21,0.7385
+Arkansas,5,4/17/21,0.6892
+Arkansas,5,4/18/21,0.6746
+Arkansas,5,4/19/21,0.6608
+Arkansas,5,4/20/21,0.6663
+Arkansas,5,4/21/21,0.649
+Arkansas,5,4/22/21,0.6244
+Arkansas,5,4/23/21,0.5988
+Arkansas,5,4/24/21,0.5758
+Arkansas,5,4/25/21,0.5347
+Arkansas,5,4/26/21,0.5493
+Arkansas,5,4/27/21,0.5329
+Arkansas,5,4/28/21,0.5112
+Arkansas,5,4/29/21,0.4973
+Arkansas,5,4/30/21,0.4689
+Arkansas,5,5/1/21,0.4563
+Arkansas,5,5/2/21,0.4706
+Arkansas,5,5/3/21,0.4521
+Arkansas,5,5/4/21,0.4588
+Arkansas,5,5/5/21,0.4361
+Arkansas,5,5/6/21,0.4186
+Arkansas,5,5/7/21,0.4027
+Arkansas,5,5/8/21,0.3876
+Arkansas,5,5/9/21,0.359
+Arkansas,5,5/10/21,0.3567
+California,6,1/13/21,0.1903
+California,6,1/14/21,0.2012
+California,6,1/15/21,0.2165
+California,6,1/16/21,0.2237
+California,6,1/17/21,0.228
+California,6,1/18/21,0.2308
+California,6,1/19/21,0.2329
+California,6,1/20/21,0.2317
+California,6,1/21/21,0.2381
+California,6,1/22/21,0.2642
+California,6,1/23/21,0.3031
+California,6,1/24/21,0.3374
+California,6,1/25/21,0.3496
+California,6,1/26/21,0.3565
+California,6,1/27/21,0.3787
+California,6,1/28/21,0.4024
+California,6,1/29/21,0.4002
+California,6,1/30/21,0.3932
+California,6,1/31/21,0.3924
+California,6,2/1/21,0.4059
+California,6,2/2/21,0.3967
+California,6,2/3/21,0.3947
+California,6,2/4/21,0.3532
+California,6,2/5/21,0.3652
+California,6,2/6/21,0.3767
+California,6,2/7/21,0.4338
+California,6,2/8/21,0.4446
+California,6,2/9/21,0.4486
+California,6,2/10/21,0.4649
+California,6,2/11/21,0.5102
+California,6,2/12/21,0.5136
+California,6,2/13/21,0.5152
+California,6,2/14/21,0.4828
+California,6,2/15/21,0.4819
+California,6,2/16/21,0.5158
+California,6,2/17/21,0.4938
+California,6,2/18/21,0.4922
+California,6,2/19/21,0.587
+California,6,2/20/21,0.5926
+California,6,2/21/21,0.5904
+California,6,2/22/21,0.5745
+California,6,2/23/21,0.5485
+California,6,2/24/21,0.5615
+California,6,2/25/21,0.5669
+California,6,2/26/21,0.4868
+California,6,2/27/21,0.4934
+California,6,2/28/21,0.4944
+California,6,3/1/21,0.5428
+California,6,3/2/21,0.6396
+California,6,3/3/21,0.6707
+California,6,3/4/21,0.6494
+California,6,3/5/21,0.6365
+California,6,3/6/21,0.6683
+California,6,3/7/21,0.6557
+California,6,3/8/21,0.6144
+California,6,3/9/21,0.5165
+California,6,3/10/21,0.4813
+California,6,3/11/21,0.4918
+California,6,3/12/21,0.4905
+California,6,3/13/21,0.5303
+California,6,3/14/21,0.4514
+California,6,3/15/21,0.5427
+California,6,3/16/21,0.6366
+California,6,3/17/21,0.7587
+California,6,3/18/21,0.847
+California,6,3/19/21,0.8876
+California,6,3/20/21,0.8657
+California,6,3/21/21,1.0213
+California,6,3/22/21,0.9921
+California,6,3/23/21,0.9627
+California,6,3/24/21,0.915
+California,6,3/25/21,0.9036
+California,6,3/26/21,0.9561
+California,6,3/27/21,0.9649
+California,6,3/28/21,0.9497
+California,6,3/29/21,0.9592
+California,6,3/30/21,0.9303
+California,6,3/31/21,0.9153
+California,6,4/1/21,0.919
+California,6,4/2/21,0.8889
+California,6,4/3/21,0.9056
+California,6,4/4/21,0.9499
+California,6,4/5/21,0.9421
+California,6,4/6/21,0.9269
+California,6,4/7/21,0.9554
+California,6,4/8/21,0.9543
+California,6,4/9/21,0.9906
+California,6,4/10/21,1.0239
+California,6,4/11/21,1.0094
+California,6,4/12/21,0.9841
+California,6,4/13/21,0.9912
+California,6,4/14/21,1.0324
+California,6,4/15/21,1.0842
+California,6,4/16/21,1.2011
+California,6,4/17/21,1.1888
+California,6,4/18/21,1.2068
+California,6,4/19/21,1.2308
+California,6,4/20/21,1.2517
+California,6,4/21/21,1.1903
+California,6,4/22/21,1.1363
+California,6,4/23/21,0.9688
+California,6,4/24/21,0.9879
+California,6,4/25/21,0.9786
+California,6,4/26/21,0.9819
+California,6,4/27/21,0.9703
+California,6,4/28/21,0.9496
+California,6,4/29/21,0.9301
+California,6,4/30/21,0.9026
+California,6,5/1/21,0.9107
+California,6,5/2/21,0.8628
+California,6,5/3/21,0.8066
+California,6,5/4/21,0.7578
+California,6,5/5/21,0.7342
+California,6,5/6/21,0.7375
+California,6,5/7/21,0.7753
+California,6,5/8/21,0.7011
+California,6,5/9/21,0.6959
+California,6,5/10/21,0.7433
+Colorado,8,1/13/21,0.2646
+Colorado,8,1/14/21,0.2629
+Colorado,8,1/15/21,0.2767
+Colorado,8,1/16/21,0.2705
+Colorado,8,1/17/21,0.2668
+Colorado,8,1/18/21,0.2644
+Colorado,8,1/19/21,0.2626
+Colorado,8,1/20/21,0.25
+Colorado,8,1/21/21,0.2443
+Colorado,8,1/22/21,0.2606
+Colorado,8,1/23/21,0.2246
+Colorado,8,1/24/21,0.3305
+Colorado,8,1/25/21,0.3277
+Colorado,8,1/26/21,0.3162
+Colorado,8,1/27/21,0.3326
+Colorado,8,1/28/21,0.3535
+Colorado,8,1/29/21,0.3587
+Colorado,8,1/30/21,0.4169
+Colorado,8,1/31/21,0.3342
+Colorado,8,2/1/21,0.352
+Colorado,8,2/2/21,0.3562
+Colorado,8,2/3/21,0.3537
+Colorado,8,2/4/21,0.3553
+Colorado,8,2/5/21,0.3469
+Colorado,8,2/6/21,0.3709
+Colorado,8,2/7/21,0.3986
+Colorado,8,2/8/21,0.4023
+Colorado,8,2/9/21,0.3875
+Colorado,8,2/10/21,0.4215
+Colorado,8,2/11/21,0.4371
+Colorado,8,2/12/21,0.4538
+Colorado,8,2/13/21,0.4731
+Colorado,8,2/14/21,0.4885
+Colorado,8,2/15/21,0.5253
+Colorado,8,2/16/21,0.6029
+Colorado,8,2/17/21,0.5882
+Colorado,8,2/18/21,0.5902
+Colorado,8,2/19/21,0.714
+Colorado,8,2/20/21,0.7003
+Colorado,8,2/21/21,0.6831
+Colorado,8,2/22/21,0.6648
+Colorado,8,2/23/21,0.5777
+Colorado,8,2/24/21,0.6056
+Colorado,8,2/25/21,0.5983
+Colorado,8,2/26/21,0.4732
+Colorado,8,2/27/21,0.389
+Colorado,8,2/28/21,0.4203
+Colorado,8,3/1/21,0.4495
+Colorado,8,3/2/21,0.4847
+Colorado,8,3/3/21,0.4806
+Colorado,8,3/4/21,0.4978
+Colorado,8,3/5/21,0.5102
+Colorado,8,3/6/21,0.6337
+Colorado,8,3/7/21,0.6324
+Colorado,8,3/8/21,0.5322
+Colorado,8,3/9/21,0.5504
+Colorado,8,3/10/21,0.5766
+Colorado,8,3/11/21,0.6677
+Colorado,8,3/12/21,0.7149
+Colorado,8,3/13/21,0.7402
+Colorado,8,3/14/21,0.6255
+Colorado,8,3/15/21,0.7597
+Colorado,8,3/16/21,0.7383
+Colorado,8,3/17/21,0.727
+Colorado,8,3/18/21,0.6577
+Colorado,8,3/19/21,0.653
+Colorado,8,3/20/21,0.7681
+Colorado,8,3/21/21,0.9222
+Colorado,8,3/22/21,0.8507
+Colorado,8,3/23/21,0.8982
+Colorado,8,3/24/21,0.8845
+Colorado,8,3/25/21,0.8923
+Colorado,8,3/26/21,0.9007
+Colorado,8,3/27/21,0.7758
+Colorado,8,3/28/21,0.7906
+Colorado,8,3/29/21,0.809
+Colorado,8,3/30/21,0.8307
+Colorado,8,3/31/21,0.8612
+Colorado,8,4/1/21,0.8859
+Colorado,8,4/2/21,0.8946
+Colorado,8,4/3/21,0.9359
+Colorado,8,4/4/21,0.9554
+Colorado,8,4/5/21,0.935
+Colorado,8,4/6/21,0.9243
+Colorado,8,4/7/21,0.9625
+Colorado,8,4/8/21,0.9518
+Colorado,8,4/9/21,0.9446
+Colorado,8,4/10/21,0.9627
+Colorado,8,4/11/21,0.9477
+Colorado,8,4/12/21,1.0616
+Colorado,8,4/13/21,1.1067
+Colorado,8,4/14/21,1.1127
+Colorado,8,4/15/21,1.1259
+Colorado,8,4/16/21,1.1456
+Colorado,8,4/17/21,1.1125
+Colorado,8,4/18/21,1.1269
+Colorado,8,4/19/21,1.0884
+Colorado,8,4/20/21,1.0588
+Colorado,8,4/21/21,1.028
+Colorado,8,4/22/21,1.043
+Colorado,8,4/23/21,1.0464
+Colorado,8,4/24/21,0.8872
+Colorado,8,4/25/21,1.0424
+Colorado,8,4/26/21,0.979
+Colorado,8,4/27/21,0.9625
+Colorado,8,4/28/21,0.9471
+Colorado,8,4/29/21,0.9539
+Colorado,8,4/30/21,0.9289
+Colorado,8,5/1/21,1.0767
+Colorado,8,5/2/21,0.8395
+Colorado,8,5/3/21,0.8186
+Colorado,8,5/4/21,0.802
+Colorado,8,5/5/21,0.8084
+Colorado,8,5/6/21,0.8019
+Colorado,8,5/7/21,0.8069
+Colorado,8,5/8/21,0.7747
+Colorado,8,5/9/21,0.8231
+Colorado,8,5/10/21,0.8749
+Connecticut,9,1/13/21,0.2939
+Connecticut,9,1/14/21,0.2875
+Connecticut,9,1/15/21,0.3223
+Connecticut,9,1/16/21,0.3182
+Connecticut,9,1/17/21,0.3158
+Connecticut,9,1/18/21,0.3142
+Connecticut,9,1/19/21,0.313
+Connecticut,9,1/20/21,0.3256
+Connecticut,9,1/21/21,0.3719
+Connecticut,9,1/22/21,0.407
+Connecticut,9,1/23/21,0.4408
+Connecticut,9,1/24/21,0.457
+Connecticut,9,1/25/21,0.4514
+Connecticut,9,1/26/21,0.4533
+Connecticut,9,1/27/21,0.4722
+Connecticut,9,1/28/21,0.4666
+Connecticut,9,1/29/21,0.4645
+Connecticut,9,1/30/21,0.4584
+Connecticut,9,1/31/21,0.4612
+Connecticut,9,2/1/21,0.4728
+Connecticut,9,2/2/21,0.4546
+Connecticut,9,2/3/21,0.4168
+Connecticut,9,2/4/21,0.4034
+Connecticut,9,2/5/21,0.3966
+Connecticut,9,2/6/21,0.3935
+Connecticut,9,2/7/21,0.3891
+Connecticut,9,2/8/21,0.3733
+Connecticut,9,2/9/21,0.3936
+Connecticut,9,2/10/21,0.4397
+Connecticut,9,2/11/21,0.4745
+Connecticut,9,2/12/21,0.4982
+Connecticut,9,2/13/21,0.5424
+Connecticut,9,2/14/21,0.564
+Connecticut,9,2/15/21,0.6031
+Connecticut,9,2/16/21,0.6284
+Connecticut,9,2/17/21,0.6549
+Connecticut,9,2/18/21,0.6689
+Connecticut,9,2/19/21,0.7851
+Connecticut,9,2/20/21,0.7735
+Connecticut,9,2/21/21,0.7446
+Connecticut,9,2/22/21,0.7607
+Connecticut,9,2/23/21,0.7282
+Connecticut,9,2/24/21,0.6966
+Connecticut,9,2/25/21,0.6361
+Connecticut,9,2/26/21,0.5271
+Connecticut,9,2/27/21,0.5305
+Connecticut,9,2/28/21,0.5767
+Connecticut,9,3/1/21,0.5951
+Connecticut,9,3/2/21,0.5901
+Connecticut,9,3/3/21,0.5984
+Connecticut,9,3/4/21,0.6466
+Connecticut,9,3/5/21,0.6706
+Connecticut,9,3/6/21,0.7088
+Connecticut,9,3/7/21,0.7659
+Connecticut,9,3/8/21,0.7916
+Connecticut,9,3/9/21,0.8236
+Connecticut,9,3/10/21,0.8463
+Connecticut,9,3/11/21,0.8694
+Connecticut,9,3/12/21,0.8969
+Connecticut,9,3/13/21,1.0194
+Connecticut,9,3/14/21,0.8651
+Connecticut,9,3/15/21,0.8558
+Connecticut,9,3/16/21,0.8601
+Connecticut,9,3/17/21,0.8455
+Connecticut,9,3/18/21,0.844
+Connecticut,9,3/19/21,0.8259
+Connecticut,9,3/20/21,0.701
+Connecticut,9,3/21/21,0.8477
+Connecticut,9,3/22/21,0.8651
+Connecticut,9,3/23/21,0.8678
+Connecticut,9,3/24/21,0.8724
+Connecticut,9,3/25/21,0.8904
+Connecticut,9,3/26/21,0.8918
+Connecticut,9,3/27/21,0.911
+Connecticut,9,3/28/21,0.9264
+Connecticut,9,3/29/21,0.9347
+Connecticut,9,3/30/21,0.9925
+Connecticut,9,3/31/21,1.0136
+Connecticut,9,4/1/21,1.0247
+Connecticut,9,4/2/21,1.0478
+Connecticut,9,4/3/21,1.1154
+Connecticut,9,4/4/21,1.1388
+Connecticut,9,4/5/21,1.1504
+Connecticut,9,4/6/21,1.0481
+Connecticut,9,4/7/21,1.0929
+Connecticut,9,4/8/21,1.1484
+Connecticut,9,4/9/21,1.2237
+Connecticut,9,4/10/21,1.2005
+Connecticut,9,4/11/21,1.2549
+Connecticut,9,4/12/21,1.2819
+Connecticut,9,4/13/21,1.3843
+Connecticut,9,4/14/21,1.3824
+Connecticut,9,4/15/21,1.3344
+Connecticut,9,4/16/21,1.3245
+Connecticut,9,4/17/21,1.3188
+Connecticut,9,4/18/21,1.2773
+Connecticut,9,4/19/21,1.2425
+Connecticut,9,4/20/21,1.2138
+Connecticut,9,4/21/21,1.1946
+Connecticut,9,4/22/21,1.2062
+Connecticut,9,4/23/21,1.1446
+Connecticut,9,4/24/21,1.146
+Connecticut,9,4/25/21,1.1445
+Connecticut,9,4/26/21,1.1439
+Connecticut,9,4/27/21,1.112
+Connecticut,9,4/28/21,1.1094
+Connecticut,9,4/29/21,1.0857
+Connecticut,9,4/30/21,1.056
+Connecticut,9,5/1/21,1.0312
+Connecticut,9,5/2/21,0.9783
+Connecticut,9,5/3/21,0.9117
+Connecticut,9,5/4/21,0.8974
+Connecticut,9,5/5/21,0.8578
+Connecticut,9,5/6/21,0.8571
+Connecticut,9,5/7/21,0.8674
+Connecticut,9,5/8/21,0.8442
+Connecticut,9,5/9/21,0.8491
+Connecticut,9,5/10/21,0.891
+Delaware,10,1/13/21,0.2057
+Delaware,10,1/14/21,0.2403
+Delaware,10,1/15/21,0.1602
+Delaware,10,1/16/21,0.1938
+Delaware,10,1/17/21,0.2139
+Delaware,10,1/18/21,0.2273
+Delaware,10,1/19/21,0.2369
+Delaware,10,1/20/21,0.2527
+Delaware,10,1/21/21,0.2681
+Delaware,10,1/22/21,0.3399
+Delaware,10,1/23/21,0.3824
+Delaware,10,1/24/21,0.4014
+Delaware,10,1/25/21,0.3994
+Delaware,10,1/26/21,0.3807
+Delaware,10,1/27/21,0.4666
+Delaware,10,1/28/21,0.483
+Delaware,10,1/29/21,0.4847
+Delaware,10,1/30/21,0.4766
+Delaware,10,1/31/21,0.5248
+Delaware,10,2/1/21,0.525
+Delaware,10,2/2/21,0.5174
+Delaware,10,2/3/21,0.4415
+Delaware,10,2/4/21,0.4181
+Delaware,10,2/5/21,0.3951
+Delaware,10,2/6/21,0.3809
+Delaware,10,2/7/21,0.3443
+Delaware,10,2/8/21,0.3514
+Delaware,10,2/9/21,0.3484
+Delaware,10,2/10/21,0.3312
+Delaware,10,2/11/21,0.3314
+Delaware,10,2/12/21,0.3281
+Delaware,10,2/13/21,0.3466
+Delaware,10,2/14/21,0.3376
+Delaware,10,2/15/21,0.334
+Delaware,10,2/16/21,0.3648
+Delaware,10,2/17/21,0.3667
+Delaware,10,2/18/21,0.3884
+Delaware,10,2/19/21,0.568
+Delaware,10,2/20/21,0.5648
+Delaware,10,2/21/21,0.5062
+Delaware,10,2/22/21,0.506
+Delaware,10,2/23/21,0.5022
+Delaware,10,2/24/21,0.5095
+Delaware,10,2/25/21,0.5235
+Delaware,10,2/26/21,0.4172
+Delaware,10,2/27/21,0.4715
+Delaware,10,2/28/21,0.563
+Delaware,10,3/1/21,0.6085
+Delaware,10,3/2/21,0.5692
+Delaware,10,3/3/21,0.7017
+Delaware,10,3/4/21,0.7432
+Delaware,10,3/5/21,0.7524
+Delaware,10,3/6/21,0.7609
+Delaware,10,3/7/21,0.8238
+Delaware,10,3/8/21,0.8113
+Delaware,10,3/9/21,0.8756
+Delaware,10,3/10/21,0.6982
+Delaware,10,3/11/21,0.7849
+Delaware,10,3/12/21,0.7768
+Delaware,10,3/13/21,0.7803
+Delaware,10,3/14/21,0.6209
+Delaware,10,3/15/21,0.7808
+Delaware,10,3/16/21,0.7823
+Delaware,10,3/17/21,0.8936
+Delaware,10,3/18/21,0.805
+Delaware,10,3/19/21,0.7928
+Delaware,10,3/20/21,0.7977
+Delaware,10,3/21/21,0.947
+Delaware,10,3/22/21,0.8107
+Delaware,10,3/23/21,0.7442
+Delaware,10,3/24/21,0.7485
+Delaware,10,3/25/21,0.7638
+Delaware,10,3/26/21,0.8149
+Delaware,10,3/27/21,0.8211
+Delaware,10,3/28/21,0.8278
+Delaware,10,3/29/21,0.8569
+Delaware,10,3/30/21,0.9431
+Delaware,10,3/31/21,0.9722
+Delaware,10,4/1/21,0.987
+Delaware,10,4/2/21,1.0038
+Delaware,10,4/3/21,1.0355
+Delaware,10,4/4/21,1.0244
+Delaware,10,4/5/21,1.0103
+Delaware,10,4/6/21,0.9627
+Delaware,10,4/7/21,0.9474
+Delaware,10,4/8/21,0.92
+Delaware,10,4/9/21,0.937
+Delaware,10,4/10/21,0.9215
+Delaware,10,4/11/21,0.9906
+Delaware,10,4/12/21,0.9681
+Delaware,10,4/13/21,1.0096
+Delaware,10,4/14/21,1.0509
+Delaware,10,4/15/21,1.1087
+Delaware,10,4/16/21,1.1126
+Delaware,10,4/17/21,1.1104
+Delaware,10,4/18/21,1.0628
+Delaware,10,4/19/21,1.0957
+Delaware,10,4/20/21,1.0932
+Delaware,10,4/21/21,1.0678
+Delaware,10,4/22/21,1.0388
+Delaware,10,4/23/21,1.0127
+Delaware,10,4/24/21,0.9942
+Delaware,10,4/25/21,1.0072
+Delaware,10,4/26/21,0.9766
+Delaware,10,4/27/21,0.9783
+Delaware,10,4/28/21,0.9838
+Delaware,10,4/29/21,0.9594
+Delaware,10,4/30/21,0.9503
+Delaware,10,5/1/21,0.9728
+Delaware,10,5/2/21,0.9382
+Delaware,10,5/3/21,0.8822
+Delaware,10,5/4/21,0.8505
+Delaware,10,5/5/21,0.7901
+Delaware,10,5/6/21,0.6612
+Delaware,10,5/7/21,0.7447
+Delaware,10,5/8/21,0.6809
+Delaware,10,5/9/21,0.6482
+Delaware,10,5/10/21,0.6987
+District of Columbia,11,1/13/21,0.4587
+District of Columbia,11,1/14/21,0.4866
+District of Columbia,11,1/15/21,0.4781
+District of Columbia,11,1/16/21,0.4476
+District of Columbia,11,1/17/21,0.4293
+District of Columbia,11,1/18/21,0.4171
+District of Columbia,11,1/19/21,0.4084
+District of Columbia,11,1/20/21,0.3782
+District of Columbia,11,1/21/21,0.3731
+District of Columbia,11,1/22/21,0.3428
+District of Columbia,11,1/23/21,0.3511
+District of Columbia,11,1/24/21,0.3528
+District of Columbia,11,1/25/21,0.3384
+District of Columbia,11,1/26/21,0.2988
+District of Columbia,11,1/27/21,0.331
+District of Columbia,11,1/28/21,0.3184
+District of Columbia,11,1/29/21,0.3333
+District of Columbia,11,1/30/21,0.3416
+District of Columbia,11,1/31/21,0.3671
+District of Columbia,11,2/1/21,0.371
+District of Columbia,11,2/2/21,0.3806
+District of Columbia,11,2/3/21,0.3437
+District of Columbia,11,2/4/21,0.4707
+District of Columbia,11,2/5/21,0.5169
+District of Columbia,11,2/6/21,0.5134
+District of Columbia,11,2/7/21,0.5119
+District of Columbia,11,2/8/21,0.5254
+District of Columbia,11,2/9/21,0.5044
+District of Columbia,11,2/10/21,0.4738
+District of Columbia,11,2/11/21,0.3568
+District of Columbia,11,2/12/21,0.3086
+District of Columbia,11,2/13/21,0.2881
+District of Columbia,11,2/14/21,0.3136
+District of Columbia,11,2/15/21,0.3123
+District of Columbia,11,2/16/21,0.3649
+District of Columbia,11,2/17/21,0.4045
+District of Columbia,11,2/18/21,0.3789
+District of Columbia,11,2/19/21,0.8704
+District of Columbia,11,2/20/21,0.8781
+District of Columbia,11,2/21/21,0.8373
+District of Columbia,11,2/22/21,0.8157
+District of Columbia,11,2/23/21,0.8142
+District of Columbia,11,2/24/21,0.8478
+District of Columbia,11,2/25/21,0.8622
+District of Columbia,11,2/26/21,0.3833
+District of Columbia,11,2/27/21,0.5083
+District of Columbia,11,2/28/21,0.6492
+District of Columbia,11,3/1/21,0.6849
+District of Columbia,11,3/2/21,0.6576
+District of Columbia,11,3/3/21,0.6426
+District of Columbia,11,3/4/21,0.6961
+District of Columbia,11,3/5/21,0.7225
+District of Columbia,11,3/6/21,0.7265
+District of Columbia,11,3/7/21,0.6301
+District of Columbia,11,3/8/21,0.649
+District of Columbia,11,3/9/21,0.6772
+District of Columbia,11,3/10/21,0.7307
+District of Columbia,11,3/11/21,0.7416
+District of Columbia,11,3/12/21,0.7763
+District of Columbia,11,3/13/21,0.7266
+District of Columbia,11,3/14/21,0.7819
+District of Columbia,11,3/15/21,0.8316
+District of Columbia,11,3/16/21,0.8452
+District of Columbia,11,3/17/21,0.8775
+District of Columbia,11,3/18/21,0.8398
+District of Columbia,11,3/19/21,0.8285
+District of Columbia,11,3/20/21,0.812
+District of Columbia,11,3/21/21,0.7731
+District of Columbia,11,3/22/21,0.7248
+District of Columbia,11,3/23/21,0.7072
+District of Columbia,11,3/24/21,0.6437
+District of Columbia,11,3/25/21,0.701
+District of Columbia,11,3/26/21,0.7284
+District of Columbia,11,3/27/21,0.7719
+District of Columbia,11,3/28/21,0.8554
+District of Columbia,11,3/29/21,0.9458
+District of Columbia,11,3/30/21,1.006
+District of Columbia,11,3/31/21,1.2339
+District of Columbia,11,4/1/21,1.2383
+District of Columbia,11,4/2/21,1.247
+District of Columbia,11,4/3/21,1.2571
+District of Columbia,11,4/4/21,1.1863
+District of Columbia,11,4/5/21,1.0857
+District of Columbia,11,4/6/21,1.0794
+District of Columbia,11,4/7/21,0.786
+District of Columbia,11,4/8/21,0.9203
+District of Columbia,11,4/9/21,0.937
+District of Columbia,11,4/10/21,0.9798
+District of Columbia,11,4/11/21,1.0218
+District of Columbia,11,4/12/21,1.1174
+District of Columbia,11,4/13/21,1.097
+District of Columbia,11,4/14/21,1.1899
+District of Columbia,11,4/15/21,1.1154
+District of Columbia,11,4/16/21,1.1377
+District of Columbia,11,4/17/21,1.1252
+District of Columbia,11,4/18/21,1.1671
+District of Columbia,11,4/19/21,1.1938
+District of Columbia,11,4/20/21,1.1858
+District of Columbia,11,4/21/21,1.2207
+District of Columbia,11,4/22/21,1.1605
+District of Columbia,11,4/23/21,1.168
+District of Columbia,11,4/24/21,1.1622
+District of Columbia,11,4/25/21,1.1399
+District of Columbia,11,4/26/21,1.1129
+District of Columbia,11,4/27/21,1.1304
+District of Columbia,11,4/28/21,1.1382
+District of Columbia,11,4/29/21,1.1422
+District of Columbia,11,4/30/21,1.0725
+District of Columbia,11,5/1/21,1.0206
+District of Columbia,11,5/2/21,0.9618
+District of Columbia,11,5/3/21,0.8842
+District of Columbia,11,5/4/21,0.8125
+District of Columbia,11,5/5/21,0.7617
+District of Columbia,11,5/6/21,0.7215
+District of Columbia,11,5/7/21,0.73
+District of Columbia,11,5/8/21,0.7878
+District of Columbia,11,5/9/21,0.8103
+District of Columbia,11,5/10/21,0.9074
+Florida,12,1/13/21,0.335
+Florida,12,1/14/21,0.3283
+Florida,12,1/15/21,0.3409
+Florida,12,1/16/21,0.3492
+Florida,12,1/17/21,0.3543
+Florida,12,1/18/21,0.3576
+Florida,12,1/19/21,0.36
+Florida,12,1/20/21,0.3556
+Florida,12,1/21/21,0.3096
+Florida,12,1/22/21,0.3068
+Florida,12,1/23/21,0.3695
+Florida,12,1/24/21,0.3531
+Florida,12,1/25/21,0.2997
+Florida,12,1/26/21,0.2666
+Florida,12,1/27/21,0.2611
+Florida,12,1/28/21,0.3108
+Florida,12,1/29/21,0.3205
+Florida,12,1/30/21,0.2669
+Florida,12,1/31/21,0.2759
+Florida,12,2/1/21,0.3064
+Florida,12,2/2/21,0.3144
+Florida,12,2/3/21,0.333
+Florida,12,2/4/21,0.3435
+Florida,12,2/5/21,0.309
+Florida,12,2/6/21,0.3297
+Florida,12,2/7/21,0.4309
+Florida,12,2/8/21,0.4005
+Florida,12,2/9/21,0.4544
+Florida,12,2/10/21,0.4672
+Florida,12,2/11/21,0.4882
+Florida,12,2/12/21,0.6354
+Florida,12,2/13/21,0.6423
+Florida,12,2/14/21,0.5722
+Florida,12,2/15/21,0.6159
+Florida,12,2/16/21,0.5771
+Florida,12,2/17/21,0.5767
+Florida,12,2/18/21,0.573
+Florida,12,2/19/21,0.6534
+Florida,12,2/20/21,0.5683
+Florida,12,2/21/21,0.6114
+Florida,12,2/22/21,0.5702
+Florida,12,2/23/21,0.5368
+Florida,12,2/24/21,0.5322
+Florida,12,2/25/21,0.5228
+Florida,12,2/26/21,0.3366
+Florida,12,2/27/21,0.41
+Florida,12,2/28/21,0.4372
+Florida,12,3/1/21,0.4372
+Florida,12,3/2/21,0.4469
+Florida,12,3/3/21,0.4421
+Florida,12,3/4/21,0.4716
+Florida,12,3/5/21,0.4949
+Florida,12,3/6/21,0.576
+Florida,12,3/7/21,0.5694
+Florida,12,3/8/21,0.5699
+Florida,12,3/9/21,0.5877
+Florida,12,3/10/21,0.6005
+Florida,12,3/11/21,0.677
+Florida,12,3/12/21,0.7747
+Florida,12,3/13/21,0.8776
+Florida,12,3/14/21,0.8034
+Florida,12,3/15/21,0.8058
+Florida,12,3/16/21,0.8224
+Florida,12,3/17/21,0.8397
+Florida,12,3/18/21,0.7919
+Florida,12,3/19/21,0.7122
+Florida,12,3/20/21,0.6452
+Florida,12,3/21/21,0.7174
+Florida,12,3/22/21,0.715
+Florida,12,3/23/21,0.7003
+Florida,12,3/24/21,0.7078
+Florida,12,3/25/21,0.7186
+Florida,12,3/26/21,0.7498
+Florida,12,3/27/21,0.699
+Florida,12,3/28/21,0.7211
+Florida,12,3/29/21,0.722
+Florida,12,3/30/21,0.768
+Florida,12,3/31/21,0.776
+Florida,12,4/1/21,0.784
+Florida,12,4/2/21,0.7827
+Florida,12,4/3/21,0.7818
+Florida,12,4/4/21,0.8612
+Florida,12,4/5/21,0.8584
+Florida,12,4/6/21,0.825
+Florida,12,4/7/21,0.8267
+Florida,12,4/8/21,0.8777
+Florida,12,4/9/21,0.9177
+Florida,12,4/10/21,0.955
+Florida,12,4/11/21,0.8956
+Florida,12,4/12/21,1.0085
+Florida,12,4/13/21,1.0262
+Florida,12,4/14/21,0.9952
+Florida,12,4/15/21,0.9642
+Florida,12,4/16/21,0.9312
+Florida,12,4/17/21,0.9243
+Florida,12,4/18/21,0.9879
+Florida,12,4/19/21,0.8757
+Florida,12,4/20/21,0.8634
+Florida,12,4/21/21,0.8982
+Florida,12,4/22/21,0.8687
+Florida,12,4/23/21,0.8608
+Florida,12,4/24/21,0.8136
+Florida,12,4/25/21,0.7086
+Florida,12,4/26/21,0.804
+Florida,12,4/27/21,0.8062
+Florida,12,4/28/21,0.797
+Florida,12,4/29/21,0.7695
+Florida,12,4/30/21,0.7302
+Florida,12,5/1/21,0.8217
+Florida,12,5/2/21,0.6843
+Florida,12,5/3/21,0.637
+Florida,12,5/4/21,0.6036
+Florida,12,5/5/21,0.5791
+Florida,12,5/6/21,0.5849
+Florida,12,5/7/21,0.615
+Florida,12,5/8/21,0.5081
+Florida,12,5/9/21,0.6248
+Florida,12,5/10/21,0.6867
+Georgia,13,1/13/21,0.2655
+Georgia,13,1/14/21,0.286
+Georgia,13,1/15/21,0.1907
+Georgia,13,1/16/21,0.1907
+Georgia,13,1/17/21,0.1907
+Georgia,13,1/18/21,0.1907
+Georgia,13,1/19/21,0.1907
+Georgia,13,1/20/21,0.2668
+Georgia,13,1/21/21,0.2995
+Georgia,13,1/22/21,0.5008
+Georgia,13,1/23/21,0.4743
+Georgia,13,1/24/21,0.447
+Georgia,13,1/25/21,0.4198
+Georgia,13,1/26/21,0.4793
+Georgia,13,1/27/21,0.4249
+Georgia,13,1/28/21,0.4176
+Georgia,13,1/29/21,0.2783
+Georgia,13,1/30/21,0.34
+Georgia,13,1/31/21,0.4065
+Georgia,13,2/1/21,0.4392
+Georgia,13,2/2/21,0.3653
+Georgia,13,2/3/21,0.3528
+Georgia,13,2/4/21,0.3281
+Georgia,13,2/5/21,0.3247
+Georgia,13,2/6/21,0.3258
+Georgia,13,2/7/21,0.3227
+Georgia,13,2/8/21,0.3192
+Georgia,13,2/9/21,0.3228
+Georgia,13,2/10/21,0.3348
+Georgia,13,2/11/21,0.3565
+Georgia,13,2/12/21,0.2979
+Georgia,13,2/13/21,0.3094
+Georgia,13,2/14/21,0.3925
+Georgia,13,2/15/21,0.3873
+Georgia,13,2/16/21,0.3949
+Georgia,13,2/17/21,0.3358
+Georgia,13,2/18/21,0.3985
+Georgia,13,2/19/21,0.6025
+Georgia,13,2/20/21,0.6162
+Georgia,13,2/21/21,0.5559
+Georgia,13,2/22/21,0.5626
+Georgia,13,2/23/21,0.5476
+Georgia,13,2/24/21,0.5999
+Georgia,13,2/25/21,0.5283
+Georgia,13,2/26/21,0.3942
+Georgia,13,2/27/21,0.3812
+Georgia,13,2/28/21,0.2982
+Georgia,13,3/1/21,0.2677
+Georgia,13,3/2/21,0.2753
+Georgia,13,3/3/21,0.2883
+Georgia,13,3/4/21,0.3033
+Georgia,13,3/5/21,0.3219
+Georgia,13,3/6/21,0.3202
+Georgia,13,3/7/21,0.3957
+Georgia,13,3/8/21,0.4297
+Georgia,13,3/9/21,0.4321
+Georgia,13,3/10/21,0.3707
+Georgia,13,3/11/21,0.3991
+Georgia,13,3/12/21,0.4648
+Georgia,13,3/13/21,0.5023
+Georgia,13,3/14/21,0.5217
+Georgia,13,3/15/21,0.5356
+Georgia,13,3/16/21,0.5437
+Georgia,13,3/17/21,0.5451
+Georgia,13,3/18/21,0.5687
+Georgia,13,3/19/21,0.4203
+Georgia,13,3/20/21,0.5812
+Georgia,13,3/21/21,0.6102
+Georgia,13,3/22/21,0.6605
+Georgia,13,3/23/21,0.6335
+Georgia,13,3/24/21,0.7378
+Georgia,13,3/25/21,0.7108
+Georgia,13,3/26/21,0.8344
+Georgia,13,3/27/21,0.6833
+Georgia,13,3/28/21,0.6782
+Georgia,13,3/29/21,0.6504
+Georgia,13,3/30/21,0.6798
+Georgia,13,3/31/21,0.6638
+Georgia,13,4/1/21,0.694
+Georgia,13,4/2/21,0.7058
+Georgia,13,4/3/21,0.7125
+Georgia,13,4/4/21,0.5941
+Georgia,13,4/5/21,0.6358
+Georgia,13,4/6/21,0.6662
+Georgia,13,4/7/21,0.8172
+Georgia,13,4/8/21,0.7952
+Georgia,13,4/9/21,0.8134
+Georgia,13,4/10/21,0.6915
+Georgia,13,4/11/21,0.6916
+Georgia,13,4/12/21,0.5803
+Georgia,13,4/13/21,1.0799
+Georgia,13,4/14/21,0.805
+Georgia,13,4/15/21,0.8287
+Georgia,13,4/16/21,0.8103
+Georgia,13,4/17/21,0.9448
+Georgia,13,4/18/21,1.0694
+Georgia,13,4/19/21,1.177
+Georgia,13,4/20/21,0.6721
+Georgia,13,4/21/21,0.7987
+Georgia,13,4/22/21,0.7839
+Georgia,13,4/23/21,0.7625
+Georgia,13,4/24/21,0.7469
+Georgia,13,4/25/21,0.6216
+Georgia,13,4/26/21,0.6304
+Georgia,13,4/27/21,0.6419
+Georgia,13,4/28/21,0.6457
+Georgia,13,4/29/21,0.6429
+Georgia,13,4/30/21,0.642
+Georgia,13,5/1/21,0.6255
+Georgia,13,5/2/21,0.7212
+Georgia,13,5/3/21,0.6058
+Georgia,13,5/4/21,0.5965
+Georgia,13,5/5/21,0.5593
+Georgia,13,5/6/21,0.4503
+Georgia,13,5/7/21,0.5044
+Georgia,13,5/8/21,0.4762
+Georgia,13,5/9/21,0.4564
+Georgia,13,5/10/21,0.5063
+Guam,66,1/13/21,0
+Guam,66,1/14/21,0
+Guam,66,1/15/21,0
+Guam,66,1/16/21,0
+Guam,66,1/17/21,0
+Guam,66,1/18/21,0
+Guam,66,1/19/21,0
+Guam,66,1/20/21,0
+Guam,66,1/21/21,0
+Guam,66,1/22/21,0
+Guam,66,1/23/21,0
+Guam,66,1/24/21,0
+Guam,66,1/25/21,0
+Guam,66,1/26/21,1.1649
+Guam,66,1/27/21,1.2469
+Guam,66,1/28/21,1.3555
+Guam,66,1/29/21,1.5051
+Guam,66,1/30/21,1.6083
+Guam,66,1/31/21,1.6083
+Guam,66,2/1/21,1.6939
+Guam,66,2/2/21,0.6467
+Guam,66,2/3/21,0.6726
+Guam,66,2/4/21,0.564
+Guam,66,2/5/21,0.5272
+Guam,66,2/6/21,0.5604
+Guam,66,2/7/21,0.6135
+Guam,66,2/8/21,0.5405
+Guam,66,2/9/21,0.5266
+Guam,66,2/10/21,0.5496
+Guam,66,2/11/21,0.6829
+Guam,66,2/12/21,0.7366
+Guam,66,2/13/21,0.7577
+Guam,66,2/14/21,0.78
+Guam,66,2/15/21,0.8053
+Guam,66,2/16/21,0.7396
+Guam,66,2/17/21,0.7378
+Guam,66,2/18/21,0.748
+Guam,66,2/19/21,0.9465
+Guam,66,2/20/21,0.9169
+Guam,66,2/21/21,0.8494
+Guam,66,2/22/21,0.9067
+Guam,66,2/23/21,0.9477
+Guam,66,2/24/21,0.9055
+Guam,66,2/25/21,0.8608
+Guam,66,2/26/21,0.5001
+Guam,66,2/27/21,0.5049
+Guam,66,2/28/21,0.5803
+Guam,66,3/1/21,0.4886
+Guam,66,3/2/21,0.4223
+Guam,66,3/3/21,0.3378
+Guam,66,3/4/21,0.2992
+Guam,66,3/5/21,0.3191
+Guam,66,3/6/21,0.1924
+Guam,66,3/7/21,0.1098
+Guam,66,3/8/21,0.1146
+Guam,66,3/9/21,0.2582
+Guam,66,3/10/21,0.4259
+Guam,66,3/11/21,0.511
+Guam,66,3/12/21,0.628
+Guam,66,3/13/21,0.7673
+Guam,66,3/14/21,0.8645
+Guam,66,3/15/21,0.8633
+Guam,66,3/16/21,0.7486
+Guam,66,3/17/21,0.6956
+Guam,66,3/18/21,0.6889
+Guam,66,3/19/21,0.7106
+Guam,66,3/20/21,0.5761
+Guam,66,3/21/21,0.4808
+Guam,66,3/22/21,0.6346
+Guam,66,3/23/21,0.745
+Guam,66,3/24/21,0.7915
+Guam,66,3/25/21,0.8011
+Guam,66,3/26/21,0.815
+Guam,66,3/27/21,0.8259
+Guam,66,3/28/21,0.9543
+Guam,66,3/29/21,0.9417
+Guam,66,3/30/21,0.7999
+Guam,66,3/31/21,0.8536
+Guam,66,4/1/21,0.7963
+Guam,66,4/2/21,0.751
+Guam,66,4/3/21,0.8602
+Guam,66,4/4/21,0.736
+Guam,66,4/5/21,0.6033
+Guam,66,4/6/21,0.5996
+Guam,66,4/7/21,0.6847
+Guam,66,4/8/21,0.7408
+Guam,66,4/9/21,0.7691
+Guam,66,4/10/21,0.6563
+Guam,66,4/11/21,0.7323
+Guam,66,4/12/21,0.7221
+Guam,66,4/13/21,0.9803
+Guam,66,4/14/21,0.8627
+Guam,66,4/15/21,0.9055
+Guam,66,4/16/21,0.8747
+Guam,66,4/17/21,1.0539
+Guam,66,4/18/21,0.9718
+Guam,66,4/19/21,1.1064
+Guam,66,4/20/21,0.9911
+Guam,66,4/21/21,1.0026
+Guam,66,4/22/21,0.9749
+Guam,66,4/23/21,0.9948
+Guam,66,4/24/21,0.9278
+Guam,66,4/25/21,0.9356
+Guam,66,4/26/21,0.894
+Guam,66,4/27/21,0.8669
+Guam,66,4/28/21,0.7927
+Guam,66,4/29/21,0.8337
+Guam,66,4/30/21,0.8403
+Guam,66,5/1/21,0.7185
+Guam,66,5/2/21,0.8252
+Guam,66,5/3/21,0.8289
+Guam,66,5/4/21,0.786
+Guam,66,5/5/21,0.672
+Guam,66,5/6/21,0.4766
+Guam,66,5/7/21,0.745
+Guam,66,5/8/21,0.85
+Guam,66,5/9/21,0.7812
+Guam,66,5/10/21,0.6895
+Hawaii,15,1/13/21,0.2205
+Hawaii,15,1/14/21,0.5121
+Hawaii,15,1/15/21,0.3173
+Hawaii,15,1/16/21,0.313
+Hawaii,15,1/17/21,0.3104
+Hawaii,15,1/18/21,0.3086
+Hawaii,15,1/19/21,0.3074
+Hawaii,15,1/20/21,0.3565
+Hawaii,15,1/21/21,0.3171
+Hawaii,15,1/22/21,0.3817
+Hawaii,15,1/23/21,0.3389
+Hawaii,15,1/24/21,0.296
+Hawaii,15,1/25/21,0.3268
+Hawaii,15,1/26/21,0.3007
+Hawaii,15,1/27/21,0.2598
+Hawaii,15,1/28/21,0.2475
+Hawaii,15,1/29/21,0.2661
+Hawaii,15,1/30/21,0.3603
+Hawaii,15,1/31/21,0.4488
+Hawaii,15,2/1/21,0.4414
+Hawaii,15,2/2/21,0.4455
+Hawaii,15,2/3/21,0.4641
+Hawaii,15,2/4/21,0.4759
+Hawaii,15,2/5/21,0.5907
+Hawaii,15,2/6/21,0.5908
+Hawaii,15,2/7/21,0.583
+Hawaii,15,2/8/21,0.5872
+Hawaii,15,2/9/21,0.5662
+Hawaii,15,2/10/21,0.508
+Hawaii,15,2/11/21,0.4996
+Hawaii,15,2/12/21,0.3945
+Hawaii,15,2/13/21,0.3907
+Hawaii,15,2/14/21,0.3849
+Hawaii,15,2/15/21,0.3748
+Hawaii,15,2/16/21,0.4352
+Hawaii,15,2/17/21,0.471
+Hawaii,15,2/18/21,0.4719
+Hawaii,15,2/19/21,0.9339
+Hawaii,15,2/20/21,0.958
+Hawaii,15,2/21/21,0.9865
+Hawaii,15,2/22/21,1.0104
+Hawaii,15,2/23/21,0.9729
+Hawaii,15,2/24/21,0.9995
+Hawaii,15,2/25/21,1.0242
+Hawaii,15,2/26/21,0.5825
+Hawaii,15,2/27/21,0.5854
+Hawaii,15,2/28/21,0.6037
+Hawaii,15,3/1/21,0.5885
+Hawaii,15,3/2/21,0.597
+Hawaii,15,3/3/21,0.5996
+Hawaii,15,3/4/21,0.6293
+Hawaii,15,3/5/21,0.6345
+Hawaii,15,3/6/21,0.6417
+Hawaii,15,3/7/21,0.5371
+Hawaii,15,3/8/21,0.6391
+Hawaii,15,3/9/21,0.7197
+Hawaii,15,3/10/21,0.7735
+Hawaii,15,3/11/21,0.7872
+Hawaii,15,3/12/21,0.8222
+Hawaii,15,3/13/21,0.8346
+Hawaii,15,3/14/21,0.9283
+Hawaii,15,3/15/21,0.8601
+Hawaii,15,3/16/21,0.8276
+Hawaii,15,3/17/21,0.84
+Hawaii,15,3/18/21,0.8418
+Hawaii,15,3/19/21,0.8474
+Hawaii,15,3/20/21,0.8332
+Hawaii,15,3/21/21,0.8322
+Hawaii,15,3/22/21,0.7665
+Hawaii,15,3/23/21,0.7628
+Hawaii,15,3/24/21,0.7362
+Hawaii,15,3/25/21,0.7055
+Hawaii,15,3/26/21,0.7279
+Hawaii,15,3/27/21,0.6181
+Hawaii,15,3/28/21,0.5206
+Hawaii,15,3/29/21,0.7189
+Hawaii,15,3/30/21,0.7162
+Hawaii,15,3/31/21,0.7414
+Hawaii,15,4/1/21,0.7582
+Hawaii,15,4/2/21,0.7318
+Hawaii,15,4/3/21,0.821
+Hawaii,15,4/4/21,0.9637
+Hawaii,15,4/5/21,0.7901
+Hawaii,15,4/6/21,0.7888
+Hawaii,15,4/7/21,0.7936
+Hawaii,15,4/8/21,0.8188
+Hawaii,15,4/9/21,0.851
+Hawaii,15,4/10/21,0.7621
+Hawaii,15,4/11/21,0.7788
+Hawaii,15,4/12/21,0.9066
+Hawaii,15,4/13/21,0.9413
+Hawaii,15,4/14/21,0.9807
+Hawaii,15,4/15/21,0.9709
+Hawaii,15,4/16/21,0.96
+Hawaii,15,4/17/21,1.0702
+Hawaii,15,4/18/21,1.0338
+Hawaii,15,4/19/21,0.9026
+Hawaii,15,4/20/21,2.1347
+Hawaii,15,4/21/21,2.096
+Hawaii,15,4/22/21,2.1161
+Hawaii,15,4/23/21,2.0851
+Hawaii,15,4/24/21,2.1392
+Hawaii,15,4/25/21,2.2048
+Hawaii,15,4/26/21,2.2621
+Hawaii,15,4/27/21,1.0538
+Hawaii,15,4/28/21,1.068
+Hawaii,15,4/29/21,1.0522
+Hawaii,15,4/30/21,1.0786
+Hawaii,15,5/1/21,1.0484
+Hawaii,15,5/2/21,0.974
+Hawaii,15,5/3/21,0.9124
+Hawaii,15,5/4/21,0.803
+Hawaii,15,5/5/21,0.6975
+Hawaii,15,5/6/21,0.5586
+Hawaii,15,5/7/21,1.4558
+Hawaii,15,5/8/21,1.3816
+Hawaii,15,5/9/21,1.3497
+Hawaii,15,5/10/21,1.2955
+Idaho,16,1/13/21,0.1694
+Idaho,16,1/14/21,0.1886
+Idaho,16,1/15/21,0.2013
+Idaho,16,1/16/21,0.2116
+Idaho,16,1/17/21,0.2178
+Idaho,16,1/18/21,0.2219
+Idaho,16,1/19/21,0.2249
+Idaho,16,1/20/21,0.243
+Idaho,16,1/21/21,0.2461
+Idaho,16,1/22/21,0.2506
+Idaho,16,1/23/21,0.2532
+Idaho,16,1/24/21,0.2544
+Idaho,16,1/25/21,0.2529
+Idaho,16,1/26/21,0.2382
+Idaho,16,1/27/21,0.2216
+Idaho,16,1/28/21,0.2352
+Idaho,16,1/29/21,0.2469
+Idaho,16,1/30/21,0.2565
+Idaho,16,1/31/21,0.2698
+Idaho,16,2/1/21,0.2646
+Idaho,16,2/2/21,0.2628
+Idaho,16,2/3/21,0.2829
+Idaho,16,2/4/21,0.3125
+Idaho,16,2/5/21,0.4038
+Idaho,16,2/6/21,0.4915
+Idaho,16,2/7/21,0.518
+Idaho,16,2/8/21,0.5693
+Idaho,16,2/9/21,0.577
+Idaho,16,2/10/21,0.5835
+Idaho,16,2/11/21,0.5769
+Idaho,16,2/12/21,0.437
+Idaho,16,2/13/21,0.3627
+Idaho,16,2/14/21,0.4526
+Idaho,16,2/15/21,0.4586
+Idaho,16,2/16/21,0.518
+Idaho,16,2/17/21,0.5179
+Idaho,16,2/18/21,0.5149
+Idaho,16,2/19/21,0.7241
+Idaho,16,2/20/21,0.7345
+Idaho,16,2/21/21,0.6718
+Idaho,16,2/22/21,0.6658
+Idaho,16,2/23/21,0.6141
+Idaho,16,2/24/21,0.6104
+Idaho,16,2/25/21,0.6276
+Idaho,16,2/26/21,0.4994
+Idaho,16,2/27/21,0.5191
+Idaho,16,2/28/21,0.5278
+Idaho,16,3/1/21,0.5436
+Idaho,16,3/2/21,0.5531
+Idaho,16,3/3/21,0.5789
+Idaho,16,3/4/21,0.5693
+Idaho,16,3/5/21,0.6026
+Idaho,16,3/6/21,0.6318
+Idaho,16,3/7/21,0.6289
+Idaho,16,3/8/21,0.6237
+Idaho,16,3/9/21,0.6361
+Idaho,16,3/10/21,0.6281
+Idaho,16,3/11/21,0.6377
+Idaho,16,3/12/21,0.6397
+Idaho,16,3/13/21,0.6296
+Idaho,16,3/14/21,0.6325
+Idaho,16,3/15/21,0.6186
+Idaho,16,3/16/21,0.6144
+Idaho,16,3/17/21,0.5535
+Idaho,16,3/18/21,0.6278
+Idaho,16,3/19/21,0.6438
+Idaho,16,3/20/21,0.6887
+Idaho,16,3/21/21,0.7149
+Idaho,16,3/22/21,0.7257
+Idaho,16,3/23/21,0.7263
+Idaho,16,3/24/21,0.7963
+Idaho,16,3/25/21,0.7375
+Idaho,16,3/26/21,0.7342
+Idaho,16,3/27/21,0.7078
+Idaho,16,3/28/21,0.707
+Idaho,16,3/29/21,0.6915
+Idaho,16,3/30/21,0.6716
+Idaho,16,3/31/21,0.6873
+Idaho,16,4/1/21,0.7031
+Idaho,16,4/2/21,0.701
+Idaho,16,4/3/21,0.7116
+Idaho,16,4/4/21,0.7129
+Idaho,16,4/5/21,0.7172
+Idaho,16,4/6/21,0.7024
+Idaho,16,4/7/21,0.7168
+Idaho,16,4/8/21,0.7061
+Idaho,16,4/9/21,0.7246
+Idaho,16,4/10/21,0.7193
+Idaho,16,4/11/21,0.7415
+Idaho,16,4/12/21,0.7492
+Idaho,16,4/13/21,0.7689
+Idaho,16,4/14/21,0.6014
+Idaho,16,4/15/21,0.5927
+Idaho,16,4/16/21,0.5687
+Idaho,16,4/17/21,0.5536
+Idaho,16,4/18/21,0.5165
+Idaho,16,4/19/21,0.4868
+Idaho,16,4/20/21,0.4786
+Idaho,16,4/21/21,0.615
+Idaho,16,4/22/21,0.5994
+Idaho,16,4/23/21,0.584
+Idaho,16,4/24/21,0.5635
+Idaho,16,4/25/21,0.5492
+Idaho,16,4/26/21,0.5397
+Idaho,16,4/27/21,0.529
+Idaho,16,4/28/21,0.5178
+Idaho,16,4/29/21,0.5019
+Idaho,16,4/30/21,0.4728
+Idaho,16,5/1/21,0.4603
+Idaho,16,5/2/21,0.4448
+Idaho,16,5/3/21,0.4206
+Idaho,16,5/4/21,0.4148
+Idaho,16,5/5/21,0.397
+Idaho,16,5/6/21,0.3976
+Idaho,16,5/7/21,0.3882
+Idaho,16,5/8/21,0.3601
+Idaho,16,5/9/21,0.2674
+Idaho,16,5/10/21,0.2479
+Illinois,17,1/13/21,0.1488
+Illinois,17,1/14/21,0.2236
+Illinois,17,1/15/21,0.2387
+Illinois,17,1/16/21,0.2222
+Illinois,17,1/17/21,0.2123
+Illinois,17,1/18/21,0.2057
+Illinois,17,1/19/21,0.201
+Illinois,17,1/20/21,0.1962
+Illinois,17,1/21/21,0.1881
+Illinois,17,1/22/21,0.1914
+Illinois,17,1/23/21,0.22
+Illinois,17,1/24/21,0.2453
+Illinois,17,1/25/21,0.2478
+Illinois,17,1/26/21,0.2398
+Illinois,17,1/27/21,0.2556
+Illinois,17,1/28/21,0.285
+Illinois,17,1/29/21,0.3123
+Illinois,17,1/30/21,0.3315
+Illinois,17,1/31/21,0.3522
+Illinois,17,2/1/21,0.3738
+Illinois,17,2/2/21,0.3778
+Illinois,17,2/3/21,0.3855
+Illinois,17,2/4/21,0.4003
+Illinois,17,2/5/21,0.4093
+Illinois,17,2/6/21,0.4297
+Illinois,17,2/7/21,0.4398
+Illinois,17,2/8/21,0.4542
+Illinois,17,2/9/21,0.4562
+Illinois,17,2/10/21,0.4861
+Illinois,17,2/11/21,0.4808
+Illinois,17,2/12/21,0.4819
+Illinois,17,2/13/21,0.499
+Illinois,17,2/14/21,0.5103
+Illinois,17,2/15/21,0.5035
+Illinois,17,2/16/21,0.5373
+Illinois,17,2/17/21,0.5144
+Illinois,17,2/18/21,0.4876
+Illinois,17,2/19/21,0.5632
+Illinois,17,2/20/21,0.5512
+Illinois,17,2/21/21,0.5471
+Illinois,17,2/22/21,0.5074
+Illinois,17,2/23/21,0.5204
+Illinois,17,2/24/21,0.5245
+Illinois,17,2/25/21,0.5435
+Illinois,17,2/26/21,0.5245
+Illinois,17,2/27/21,0.5341
+Illinois,17,2/28/21,0.5464
+Illinois,17,3/1/21,0.6225
+Illinois,17,3/2/21,0.6121
+Illinois,17,3/3/21,0.6325
+Illinois,17,3/4/21,0.6632
+Illinois,17,3/5/21,0.6365
+Illinois,17,3/6/21,0.6829
+Illinois,17,3/7/21,0.7322
+Illinois,17,3/8/21,0.75
+Illinois,17,3/9/21,0.7239
+Illinois,17,3/10/21,0.733
+Illinois,17,3/11/21,0.7554
+Illinois,17,3/12/21,0.8127
+Illinois,17,3/13/21,0.9654
+Illinois,17,3/14/21,0.816
+Illinois,17,3/15/21,0.8186
+Illinois,17,3/16/21,0.8771
+Illinois,17,3/17/21,0.8987
+Illinois,17,3/18/21,0.9095
+Illinois,17,3/19/21,0.8546
+Illinois,17,3/20/21,0.709
+Illinois,17,3/21/21,0.8605
+Illinois,17,3/22/21,0.8494
+Illinois,17,3/23/21,0.809
+Illinois,17,3/24/21,0.7978
+Illinois,17,3/25/21,0.7929
+Illinois,17,3/26/21,0.8217
+Illinois,17,3/27/21,0.8071
+Illinois,17,3/28/21,0.8131
+Illinois,17,3/29/21,0.837
+Illinois,17,3/30/21,0.8421
+Illinois,17,3/31/21,0.8516
+Illinois,17,4/1/21,0.8856
+Illinois,17,4/2/21,0.8793
+Illinois,17,4/3/21,0.9004
+Illinois,17,4/4/21,0.9092
+Illinois,17,4/5/21,0.9008
+Illinois,17,4/6/21,0.8841
+Illinois,17,4/7/21,0.8939
+Illinois,17,4/8/21,0.8878
+Illinois,17,4/9/21,0.9308
+Illinois,17,4/10/21,0.9516
+Illinois,17,4/11/21,0.9862
+Illinois,17,4/12/21,1.018
+Illinois,17,4/13/21,1.1259
+Illinois,17,4/14/21,0.9654
+Illinois,17,4/15/21,0.9727
+Illinois,17,4/16/21,0.9448
+Illinois,17,4/17/21,0.9499
+Illinois,17,4/18/21,0.9317
+Illinois,17,4/19/21,0.9136
+Illinois,17,4/20/21,0.8402
+Illinois,17,4/21/21,0.9846
+Illinois,17,4/22/21,0.9951
+Illinois,17,4/23/21,0.9988
+Illinois,17,4/24/21,0.9612
+Illinois,17,4/25/21,0.9267
+Illinois,17,4/26/21,0.887
+Illinois,17,4/27/21,0.8703
+Illinois,17,4/28/21,0.8699
+Illinois,17,4/29/21,0.8222
+Illinois,17,4/30/21,0.7931
+Illinois,17,5/1/21,0.7565
+Illinois,17,5/2/21,0.7108
+Illinois,17,5/3/21,0.6707
+Illinois,17,5/4/21,0.6325
+Illinois,17,5/5/21,0.5883
+Illinois,17,5/6/21,0.5911
+Illinois,17,5/7/21,0.5821
+Illinois,17,5/8/21,0.5473
+Illinois,17,5/9/21,0.5688
+Illinois,17,5/10/21,0.6091
+Indiana,18,1/13/21,0.2895
+Indiana,18,1/14/21,0.3093
+Indiana,18,1/15/21,0.339
+Indiana,18,1/16/21,0.3233
+Indiana,18,1/17/21,0.3139
+Indiana,18,1/18/21,0.3076
+Indiana,18,1/19/21,0.3031
+Indiana,18,1/20/21,0.3078
+Indiana,18,1/21/21,0.326
+Indiana,18,1/22/21,0.3264
+Indiana,18,1/23/21,0.3546
+Indiana,18,1/24/21,0.3152
+Indiana,18,1/25/21,0.373
+Indiana,18,1/26/21,0.3483
+Indiana,18,1/27/21,0.3561
+Indiana,18,1/28/21,0.3501
+Indiana,18,1/29/21,0.3548
+Indiana,18,1/30/21,0.342
+Indiana,18,1/31/21,0.342
+Indiana,18,2/1/21,0.2447
+Indiana,18,2/2/21,0.2408
+Indiana,18,2/3/21,0.241
+Indiana,18,2/4/21,0.2526
+Indiana,18,2/5/21,0.2749
+Indiana,18,2/6/21,0.3026
+Indiana,18,2/7/21,0.3026
+Indiana,18,2/8/21,0.3026
+Indiana,18,2/9/21,0.3157
+Indiana,18,2/10/21,0.3352
+Indiana,18,2/11/21,0.3413
+Indiana,18,2/12/21,0.3452
+Indiana,18,2/13/21,0.5708
+Indiana,18,2/14/21,0.6559
+Indiana,18,2/15/21,0.6908
+Indiana,18,2/16/21,0.7017
+Indiana,18,2/17/21,0.6742
+Indiana,18,2/18/21,0.6237
+Indiana,18,2/19/21,0.6801
+Indiana,18,2/20/21,0.4576
+Indiana,18,2/21/21,0.4477
+Indiana,18,2/22/21,0.4605
+Indiana,18,2/23/21,0.4395
+Indiana,18,2/24/21,0.5255
+Indiana,18,2/25/21,0.7073
+Indiana,18,2/26/21,0.6598
+Indiana,18,2/27/21,0.6738
+Indiana,18,2/28/21,0.6801
+Indiana,18,3/1/21,0.685
+Indiana,18,3/2/21,0.6911
+Indiana,18,3/3/21,0.6294
+Indiana,18,3/4/21,0.5055
+Indiana,18,3/5/21,0.5169
+Indiana,18,3/6/21,0.5281
+Indiana,18,3/7/21,0.5397
+Indiana,18,3/8/21,0.5613
+Indiana,18,3/9/21,0.5693
+Indiana,18,3/10/21,0.5873
+Indiana,18,3/11/21,0.5974
+Indiana,18,3/12/21,0.5977
+Indiana,18,3/13/21,0.6925
+Indiana,18,3/14/21,0.5996
+Indiana,18,3/15/21,0.5956
+Indiana,18,3/16/21,0.5895
+Indiana,18,3/17/21,0.5784
+Indiana,18,3/18/21,0.5801
+Indiana,18,3/19/21,0.5817
+Indiana,18,3/20/21,0.4961
+Indiana,18,3/21/21,0.5934
+Indiana,18,3/22/21,0.5882
+Indiana,18,3/23/21,0.5871
+Indiana,18,3/24/21,0.5982
+Indiana,18,3/25/21,0.6117
+Indiana,18,3/26/21,0.6244
+Indiana,18,3/27/21,0.6243
+Indiana,18,3/28/21,0.6229
+Indiana,18,3/29/21,0.6309
+Indiana,18,3/30/21,0.6299
+Indiana,18,3/31/21,0.6329
+Indiana,18,4/1/21,0.6362
+Indiana,18,4/2/21,0.6478
+Indiana,18,4/3/21,0.6733
+Indiana,18,4/4/21,0.6714
+Indiana,18,4/5/21,0.6658
+Indiana,18,4/6/21,0.6641
+Indiana,18,4/7/21,0.6636
+Indiana,18,4/8/21,0.6743
+Indiana,18,4/9/21,0.6905
+Indiana,18,4/10/21,0.6976
+Indiana,18,4/11/21,0.7323
+Indiana,18,4/12/21,0.7715
+Indiana,18,4/13/21,0.794
+Indiana,18,4/14/21,0.7281
+Indiana,18,4/15/21,0.7451
+Indiana,18,4/16/21,0.7352
+Indiana,18,4/17/21,0.7075
+Indiana,18,4/18/21,0.6868
+Indiana,18,4/19/21,0.64
+Indiana,18,4/20/21,0.6272
+Indiana,18,4/21/21,0.6814
+Indiana,18,4/22/21,0.6411
+Indiana,18,4/23/21,0.6108
+Indiana,18,4/24/21,0.5933
+Indiana,18,4/25/21,0.5741
+Indiana,18,4/26/21,0.577
+Indiana,18,4/27/21,0.5847
+Indiana,18,4/28/21,0.5888
+Indiana,18,4/29/21,0.5898
+Indiana,18,4/30/21,0.5968
+Indiana,18,5/1/21,0.6105
+Indiana,18,5/2/21,0.6196
+Indiana,18,5/3/21,0.5984
+Indiana,18,5/4/21,0.5846
+Indiana,18,5/5/21,0.5733
+Indiana,18,5/6/21,0.5756
+Indiana,18,5/7/21,0.5862
+Indiana,18,5/8/21,0.5556
+Indiana,18,5/9/21,0.5476
+Indiana,18,5/10/21,0.5675
+Iowa,19,1/13/21,0.4248
+Iowa,19,1/14/21,0.2124
+Iowa,19,1/15/21,0.2355
+Iowa,19,1/16/21,0.2241
+Iowa,19,1/17/21,0.2173
+Iowa,19,1/18/21,0.2127
+Iowa,19,1/19/21,0.2095
+Iowa,19,1/20/21,0.171
+Iowa,19,1/21/21,0.2112
+Iowa,19,1/22/21,0.2247
+Iowa,19,1/23/21,0.2406
+Iowa,19,1/24/21,0.2636
+Iowa,19,1/25/21,0.2592
+Iowa,19,1/26/21,0.2401
+Iowa,19,1/27/21,0.2461
+Iowa,19,1/28/21,0.2434
+Iowa,19,1/29/21,0.2433
+Iowa,19,1/30/21,0.2615
+Iowa,19,1/31/21,0.2763
+Iowa,19,2/1/21,0.2774
+Iowa,19,2/2/21,0.2786
+Iowa,19,2/3/21,0.2834
+Iowa,19,2/4/21,0.3022
+Iowa,19,2/5/21,0.3125
+Iowa,19,2/6/21,0.3199
+Iowa,19,2/7/21,0.3451
+Iowa,19,2/8/21,0.3979
+Iowa,19,2/9/21,0.4178
+Iowa,19,2/10/21,0.4618
+Iowa,19,2/11/21,0.4895
+Iowa,19,2/12/21,0.5216
+Iowa,19,2/13/21,0.5612
+Iowa,19,2/14/21,0.58
+Iowa,19,2/15/21,0.5694
+Iowa,19,2/16/21,0.6063
+Iowa,19,2/17/21,0.5738
+Iowa,19,2/18/21,0.5446
+Iowa,19,2/19/21,0.6526
+Iowa,19,2/20/21,0.6561
+Iowa,19,2/21/21,0.6474
+Iowa,19,2/22/21,0.6342
+Iowa,19,2/23/21,0.5851
+Iowa,19,2/24/21,0.5716
+Iowa,19,2/25/21,0.5592
+Iowa,19,2/26/21,0.459
+Iowa,19,2/27/21,0.4855
+Iowa,19,2/28/21,0.5142
+Iowa,19,3/1/21,0.5599
+Iowa,19,3/2/21,0.5695
+Iowa,19,3/3/21,0.5983
+Iowa,19,3/4/21,0.6437
+Iowa,19,3/5/21,0.6658
+Iowa,19,3/6/21,0.7999
+Iowa,19,3/7/21,0.8758
+Iowa,19,3/8/21,0.9291
+Iowa,19,3/9/21,0.9584
+Iowa,19,3/10/21,0.9781
+Iowa,19,3/11/21,1.0237
+Iowa,19,3/12/21,1.0558
+Iowa,19,3/13/21,1.1468
+Iowa,19,3/14/21,0.9422
+Iowa,19,3/15/21,0.9283
+Iowa,19,3/16/21,0.9175
+Iowa,19,3/17/21,0.8399
+Iowa,19,3/18/21,0.8294
+Iowa,19,3/19/21,0.8678
+Iowa,19,3/20/21,0.6848
+Iowa,19,3/21/21,0.8505
+Iowa,19,3/22/21,0.8141
+Iowa,19,3/23/21,0.8093
+Iowa,19,3/24/21,0.8638
+Iowa,19,3/25/21,0.8455
+Iowa,19,3/26/21,0.7995
+Iowa,19,3/27/21,0.8125
+Iowa,19,3/28/21,0.8441
+Iowa,19,3/29/21,0.8585
+Iowa,19,3/30/21,0.8664
+Iowa,19,3/31/21,0.8762
+Iowa,19,4/1/21,0.8993
+Iowa,19,4/2/21,0.918
+Iowa,19,4/3/21,1.0979
+Iowa,19,4/4/21,0.9021
+Iowa,19,4/5/21,0.8709
+Iowa,19,4/6/21,0.8654
+Iowa,19,4/7/21,0.8717
+Iowa,19,4/8/21,0.894
+Iowa,19,4/9/21,0.9134
+Iowa,19,4/10/21,0.7531
+Iowa,19,4/11/21,0.9839
+Iowa,19,4/12/21,0.9969
+Iowa,19,4/13/21,1.0062
+Iowa,19,4/14/21,1.0778
+Iowa,19,4/15/21,1.0703
+Iowa,19,4/16/21,1.0304
+Iowa,19,4/17/21,0.9785
+Iowa,19,4/18/21,0.8948
+Iowa,19,4/19/21,0.9008
+Iowa,19,4/20/21,0.8765
+Iowa,19,4/21/21,0.8134
+Iowa,19,4/22/21,0.7931
+Iowa,19,4/23/21,0.7867
+Iowa,19,4/24/21,0.7794
+Iowa,19,4/25/21,0.7881
+Iowa,19,4/26/21,0.7674
+Iowa,19,4/27/21,0.79
+Iowa,19,4/28/21,0.7689
+Iowa,19,4/29/21,0.7893
+Iowa,19,4/30/21,0.77
+Iowa,19,5/1/21,0.7548
+Iowa,19,5/2/21,0.7101
+Iowa,19,5/3/21,0.7163
+Iowa,19,5/4/21,0.7022
+Iowa,19,5/5/21,0.697
+Iowa,19,5/6/21,0.6542
+Iowa,19,5/7/21,0.6311
+Iowa,19,5/8/21,0.5994
+Iowa,19,5/9/21,0.592
+Iowa,19,5/10/21,0.5781
+Kansas,20,1/13/21,0.2534
+Kansas,20,1/14/21,0.2282
+Kansas,20,1/15/21,0.2233
+Kansas,20,1/16/21,0.2118
+Kansas,20,1/17/21,0.2049
+Kansas,20,1/18/21,0.2003
+Kansas,20,1/19/21,0.197
+Kansas,20,1/20/21,0.1817
+Kansas,20,1/21/21,0.1906
+Kansas,20,1/22/21,0.1928
+Kansas,20,1/23/21,0.2058
+Kansas,20,1/24/21,0.2115
+Kansas,20,1/25/21,0.2032
+Kansas,20,1/26/21,0.1976
+Kansas,20,1/27/21,0.224
+Kansas,20,1/28/21,0.2935
+Kansas,20,1/29/21,0.2621
+Kansas,20,1/30/21,0.3021
+Kansas,20,1/31/21,0.3443
+Kansas,20,2/1/21,0.3539
+Kansas,20,2/2/21,0.3553
+Kansas,20,2/3/21,0.3568
+Kansas,20,2/4/21,0.2997
+Kansas,20,2/5/21,0.3584
+Kansas,20,2/6/21,0.3615
+Kansas,20,2/7/21,0.3669
+Kansas,20,2/8/21,0.3737
+Kansas,20,2/9/21,0.3647
+Kansas,20,2/10/21,0.385
+Kansas,20,2/11/21,0.3996
+Kansas,20,2/12/21,0.4272
+Kansas,20,2/13/21,0.4298
+Kansas,20,2/14/21,0.4595
+Kansas,20,2/15/21,0.4439
+Kansas,20,2/16/21,0.4495
+Kansas,20,2/17/21,0.4193
+Kansas,20,2/18/21,0.4163
+Kansas,20,2/19/21,0.5687
+Kansas,20,2/20/21,0.5926
+Kansas,20,2/21/21,0.5852
+Kansas,20,2/22/21,0.5939
+Kansas,20,2/23/21,0.5891
+Kansas,20,2/24/21,0.6166
+Kansas,20,2/25/21,0.611
+Kansas,20,2/26/21,0.4612
+Kansas,20,2/27/21,0.4647
+Kansas,20,2/28/21,0.4925
+Kansas,20,3/1/21,0.5208
+Kansas,20,3/2/21,0.55
+Kansas,20,3/3/21,0.5591
+Kansas,20,3/4/21,0.5821
+Kansas,20,3/5/21,0.5996
+Kansas,20,3/6/21,0.61
+Kansas,20,3/7/21,0.6109
+Kansas,20,3/8/21,0.5983
+Kansas,20,3/9/21,0.5987
+Kansas,20,3/10/21,0.6115
+Kansas,20,3/11/21,0.6625
+Kansas,20,3/12/21,0.8052
+Kansas,20,3/13/21,0.7
+Kansas,20,3/14/21,0.8148
+Kansas,20,3/15/21,0.8171
+Kansas,20,3/16/21,0.8113
+Kansas,20,3/17/21,0.7926
+Kansas,20,3/18/21,0.8001
+Kansas,20,3/19/21,0.7384
+Kansas,20,3/20/21,0.9085
+Kansas,20,3/21/21,0.8452
+Kansas,20,3/22/21,0.8419
+Kansas,20,3/23/21,0.8428
+Kansas,20,3/24/21,0.9051
+Kansas,20,3/25/21,0.888
+Kansas,20,3/26/21,0.8475
+Kansas,20,3/27/21,0.8903
+Kansas,20,3/28/21,0.8682
+Kansas,20,3/29/21,0.886
+Kansas,20,3/30/21,0.8841
+Kansas,20,3/31/21,0.8588
+Kansas,20,4/1/21,0.8378
+Kansas,20,4/2/21,0.9645
+Kansas,20,4/3/21,0.9351
+Kansas,20,4/4/21,0.9644
+Kansas,20,4/5/21,0.9516
+Kansas,20,4/6/21,0.938
+Kansas,20,4/7/21,1.0055
+Kansas,20,4/8/21,1.0417
+Kansas,20,4/9/21,0.9373
+Kansas,20,4/10/21,0.9428
+Kansas,20,4/11/21,0.9455
+Kansas,20,4/12/21,0.9613
+Kansas,20,4/13/21,0.9916
+Kansas,20,4/14/21,0.9443
+Kansas,20,4/15/21,0.9641
+Kansas,20,4/16/21,0.9786
+Kansas,20,4/17/21,0.9298
+Kansas,20,4/18/21,0.8654
+Kansas,20,4/19/21,0.8595
+Kansas,20,4/20/21,0.8294
+Kansas,20,4/21/21,0.7921
+Kansas,20,4/22/21,0.7825
+Kansas,20,4/23/21,0.7372
+Kansas,20,4/24/21,0.7027
+Kansas,20,4/25/21,0.6885
+Kansas,20,4/26/21,0.6605
+Kansas,20,4/27/21,0.6562
+Kansas,20,4/28/21,0.639
+Kansas,20,4/29/21,0.5744
+Kansas,20,4/30/21,0.5242
+Kansas,20,5/1/21,0.5048
+Kansas,20,5/2/21,0.4772
+Kansas,20,5/3/21,0.4613
+Kansas,20,5/4/21,0.4605
+Kansas,20,5/5/21,0.4411
+Kansas,20,5/6/21,0.4327
+Kansas,20,5/7/21,0.4918
+Kansas,20,5/8/21,0.457
+Kansas,20,5/9/21,0.4543
+Kansas,20,5/10/21,0.4681
+Kentucky,21,1/13/21,0.231
+Kentucky,21,1/14/21,0.263
+Kentucky,21,1/15/21,0.3181
+Kentucky,21,1/16/21,0.2963
+Kentucky,21,1/17/21,0.2833
+Kentucky,21,1/18/21,0.2746
+Kentucky,21,1/19/21,0.2683
+Kentucky,21,1/20/21,0.2606
+Kentucky,21,1/21/21,0.2543
+Kentucky,21,1/22/21,0.2539
+Kentucky,21,1/23/21,0.2746
+Kentucky,21,1/24/21,0.3329
+Kentucky,21,1/25/21,0.3253
+Kentucky,21,1/26/21,0.3075
+Kentucky,21,1/27/21,0.3176
+Kentucky,21,1/28/21,0.3423
+Kentucky,21,1/29/21,0.3597
+Kentucky,21,1/30/21,0.3678
+Kentucky,21,1/31/21,0.3364
+Kentucky,21,2/1/21,0.3456
+Kentucky,21,2/2/21,0.3433
+Kentucky,21,2/3/21,0.3586
+Kentucky,21,2/4/21,0.3632
+Kentucky,21,2/5/21,0.3745
+Kentucky,21,2/6/21,0.4194
+Kentucky,21,2/7/21,0.4593
+Kentucky,21,2/8/21,0.4769
+Kentucky,21,2/9/21,0.4767
+Kentucky,21,2/10/21,0.4782
+Kentucky,21,2/11/21,0.4874
+Kentucky,21,2/12/21,0.4884
+Kentucky,21,2/13/21,0.4241
+Kentucky,21,2/14/21,0.417
+Kentucky,21,2/15/21,0.4173
+Kentucky,21,2/16/21,0.457
+Kentucky,21,2/17/21,0.4314
+Kentucky,21,2/18/21,0.3772
+Kentucky,21,2/19/21,0.4559
+Kentucky,21,2/20/21,0.4705
+Kentucky,21,2/21/21,0.4644
+Kentucky,21,2/22/21,0.4615
+Kentucky,21,2/23/21,0.4472
+Kentucky,21,2/24/21,0.4956
+Kentucky,21,2/25/21,0.5809
+Kentucky,21,2/26/21,0.531
+Kentucky,21,2/27/21,0.5876
+Kentucky,21,2/28/21,0.6268
+Kentucky,21,3/1/21,0.6629
+Kentucky,21,3/2/21,0.6708
+Kentucky,21,3/3/21,0.6631
+Kentucky,21,3/4/21,0.67
+Kentucky,21,3/5/21,0.6956
+Kentucky,21,3/6/21,0.7317
+Kentucky,21,3/7/21,0.7486
+Kentucky,21,3/8/21,0.7579
+Kentucky,21,3/9/21,0.7438
+Kentucky,21,3/10/21,0.7565
+Kentucky,21,3/11/21,0.7665
+Kentucky,21,3/12/21,0.7626
+Kentucky,21,3/13/21,0.9039
+Kentucky,21,3/14/21,0.7762
+Kentucky,21,3/15/21,0.795
+Kentucky,21,3/16/21,0.8113
+Kentucky,21,3/17/21,0.8425
+Kentucky,21,3/18/21,0.8392
+Kentucky,21,3/19/21,0.8536
+Kentucky,21,3/20/21,0.7061
+Kentucky,21,3/21/21,0.8501
+Kentucky,21,3/22/21,0.8477
+Kentucky,21,3/23/21,0.8513
+Kentucky,21,3/24/21,0.8195
+Kentucky,21,3/25/21,0.8221
+Kentucky,21,3/26/21,0.8201
+Kentucky,21,3/27/21,0.8417
+Kentucky,21,3/28/21,0.8201
+Kentucky,21,3/29/21,0.835
+Kentucky,21,3/30/21,0.8351
+Kentucky,21,3/31/21,0.8371
+Kentucky,21,4/1/21,0.8516
+Kentucky,21,4/2/21,0.8562
+Kentucky,21,4/3/21,0.8844
+Kentucky,21,4/4/21,0.9002
+Kentucky,21,4/5/21,0.8592
+Kentucky,21,4/6/21,0.8276
+Kentucky,21,4/7/21,0.8575
+Kentucky,21,4/8/21,0.8698
+Kentucky,21,4/9/21,0.8914
+Kentucky,21,4/10/21,0.8708
+Kentucky,21,4/11/21,0.8673
+Kentucky,21,4/12/21,0.831
+Kentucky,21,4/13/21,0.8323
+Kentucky,21,4/14/21,0.9115
+Kentucky,21,4/15/21,0.9252
+Kentucky,21,4/16/21,0.9095
+Kentucky,21,4/17/21,0.8852
+Kentucky,21,4/18/21,0.8867
+Kentucky,21,4/19/21,0.8994
+Kentucky,21,4/20/21,0.9063
+Kentucky,21,4/21/21,0.7889
+Kentucky,21,4/22/21,0.7373
+Kentucky,21,4/23/21,0.7085
+Kentucky,21,4/24/21,0.6703
+Kentucky,21,4/25/21,0.6071
+Kentucky,21,4/26/21,0.6008
+Kentucky,21,4/27/21,0.597
+Kentucky,21,4/28/21,0.5902
+Kentucky,21,4/29/21,0.561
+Kentucky,21,4/30/21,0.5287
+Kentucky,21,5/1/21,0.5
+Kentucky,21,5/2/21,0.4717
+Kentucky,21,5/3/21,0.4269
+Kentucky,21,5/4/21,0.4232
+Kentucky,21,5/5/21,0.4118
+Kentucky,21,5/6/21,0.4178
+Kentucky,21,5/7/21,0.3866
+Kentucky,21,5/8/21,0.3731
+Kentucky,21,5/9/21,0.3927
+Kentucky,21,5/10/21,0.4367
+Louisiana,22,1/13/21,0.2886
+Louisiana,22,1/14/21,0.3554
+Louisiana,22,1/15/21,0.3958
+Louisiana,22,1/16/21,0.3743
+Louisiana,22,1/17/21,0.3614
+Louisiana,22,1/18/21,0.3528
+Louisiana,22,1/19/21,0.3467
+Louisiana,22,1/20/21,0.3325
+Louisiana,22,1/21/21,0.3183
+Louisiana,22,1/22/21,0.3063
+Louisiana,22,1/23/21,0.3154
+Louisiana,22,1/24/21,0.3298
+Louisiana,22,1/25/21,0.3081
+Louisiana,22,1/26/21,0.2768
+Louisiana,22,1/27/21,0.2899
+Louisiana,22,1/28/21,0.2965
+Louisiana,22,1/29/21,0.3093
+Louisiana,22,1/30/21,0.3254
+Louisiana,22,1/31/21,0.3369
+Louisiana,22,2/1/21,0.3741
+Louisiana,22,2/2/21,0.4005
+Louisiana,22,2/3/21,0.4001
+Louisiana,22,2/4/21,0.412
+Louisiana,22,2/5/21,0.4243
+Louisiana,22,2/6/21,0.4604
+Louisiana,22,2/7/21,0.4801
+Louisiana,22,2/8/21,0.4636
+Louisiana,22,2/9/21,0.4416
+Louisiana,22,2/10/21,0.4611
+Louisiana,22,2/11/21,0.3965
+Louisiana,22,2/12/21,0.5061
+Louisiana,22,2/13/21,0.5067
+Louisiana,22,2/14/21,0.52
+Louisiana,22,2/15/21,0.501
+Louisiana,22,2/16/21,0.5078
+Louisiana,22,2/17/21,0.4688
+Louisiana,22,2/18/21,0.4809
+Louisiana,22,2/19/21,0.4869
+Louisiana,22,2/20/21,0.4365
+Louisiana,22,2/21/21,0.3852
+Louisiana,22,2/22/21,0.3877
+Louisiana,22,2/23/21,0.376
+Louisiana,22,2/24/21,0.3971
+Louisiana,22,2/25/21,0.4545
+Louisiana,22,2/26/21,0.3647
+Louisiana,22,2/27/21,0.4354
+Louisiana,22,2/28/21,0.4992
+Louisiana,22,3/1/21,0.5327
+Louisiana,22,3/2/21,0.5444
+Louisiana,22,3/3/21,0.5741
+Louisiana,22,3/4/21,0.6012
+Louisiana,22,3/5/21,0.6174
+Louisiana,22,3/6/21,0.4933
+Louisiana,22,3/7/21,0.381
+Louisiana,22,3/8/21,0.6186
+Louisiana,22,3/9/21,0.6203
+Louisiana,22,3/10/21,0.6197
+Louisiana,22,3/11/21,0.6194
+Louisiana,22,3/12/21,0.6172
+Louisiana,22,3/13/21,0.8738
+Louisiana,22,3/14/21,0.871
+Louisiana,22,3/15/21,0.6348
+Louisiana,22,3/16/21,0.6396
+Louisiana,22,3/17/21,0.6446
+Louisiana,22,3/18/21,0.5502
+Louisiana,22,3/19/21,0.6372
+Louisiana,22,3/20/21,0.5076
+Louisiana,22,3/21/21,0.6148
+Louisiana,22,3/22/21,0.6274
+Louisiana,22,3/23/21,0.6186
+Louisiana,22,3/24/21,0.6331
+Louisiana,22,3/25/21,0.7278
+Louisiana,22,3/26/21,0.6319
+Louisiana,22,3/27/21,0.6411
+Louisiana,22,3/28/21,0.6691
+Louisiana,22,3/29/21,0.6837
+Louisiana,22,3/30/21,0.6898
+Louisiana,22,3/31/21,0.7331
+Louisiana,22,4/1/21,0.7581
+Louisiana,22,4/2/21,0.7827
+Louisiana,22,4/3/21,0.7862
+Louisiana,22,4/4/21,0.7215
+Louisiana,22,4/5/21,0.6771
+Louisiana,22,4/6/21,0.658
+Louisiana,22,4/7/21,0.6066
+Louisiana,22,4/8/21,0.6028
+Louisiana,22,4/9/21,0.5891
+Louisiana,22,4/10/21,0.5703
+Louisiana,22,4/11/21,0.6151
+Louisiana,22,4/12/21,0.6242
+Louisiana,22,4/13/21,0.6488
+Louisiana,22,4/14/21,0.5977
+Louisiana,22,4/15/21,0.5991
+Louisiana,22,4/16/21,0.5793
+Louisiana,22,4/17/21,0.5562
+Louisiana,22,4/18/21,0.5301
+Louisiana,22,4/19/21,0.5298
+Louisiana,22,4/20/21,0.5271
+Louisiana,22,4/21/21,0.5678
+Louisiana,22,4/22/21,0.5324
+Louisiana,22,4/23/21,0.5219
+Louisiana,22,4/24/21,0.5026
+Louisiana,22,4/25/21,0.4879
+Louisiana,22,4/26/21,0.4717
+Louisiana,22,4/27/21,0.4599
+Louisiana,22,4/28/21,0.4491
+Louisiana,22,4/29/21,0.4322
+Louisiana,22,4/30/21,0.3414
+Louisiana,22,5/1/21,0.2636
+Louisiana,22,5/2/21,0.1894
+Louisiana,22,5/3/21,0.2153
+Louisiana,22,5/4/21,0.2047
+Louisiana,22,5/5/21,0.1455
+Louisiana,22,5/6/21,0.3206
+Louisiana,22,5/7/21,0.3729
+Louisiana,22,5/8/21,0.3718
+Louisiana,22,5/9/21,0.4659
+Louisiana,22,5/10/21,0.4311
+Maine,23,1/13/21,0.1713
+Maine,23,1/14/21,0.23
+Maine,23,1/15/21,0.1533
+Maine,23,1/16/21,0.1747
+Maine,23,1/17/21,0.1876
+Maine,23,1/18/21,0.1962
+Maine,23,1/19/21,0.2023
+Maine,23,1/20/21,0.2011
+Maine,23,1/21/21,0.2059
+Maine,23,1/22/21,0.2685
+Maine,23,1/23/21,0.3046
+Maine,23,1/24/21,0.3429
+Maine,23,1/25/21,0.354
+Maine,23,1/26/21,0.3289
+Maine,23,1/27/21,0.3509
+Maine,23,1/28/21,0.3687
+Maine,23,1/29/21,0.3912
+Maine,23,1/30/21,0.4152
+Maine,23,1/31/21,0.4308
+Maine,23,2/1/21,0.4434
+Maine,23,2/2/21,0.4342
+Maine,23,2/3/21,0.389
+Maine,23,2/4/21,0.4065
+Maine,23,2/5/21,0.3829
+Maine,23,2/6/21,0.3886
+Maine,23,2/7/21,0.4048
+Maine,23,2/8/21,0.3471
+Maine,23,2/9/21,0.4435
+Maine,23,2/10/21,0.5044
+Maine,23,2/11/21,0.4231
+Maine,23,2/12/21,0.3615
+Maine,23,2/13/21,0.2616
+Maine,23,2/14/21,0.1573
+Maine,23,2/15/21,0.3958
+Maine,23,2/16/21,0.538
+Maine,23,2/17/21,0.5228
+Maine,23,2/18/21,0.5228
+Maine,23,2/19/21,0.7962
+Maine,23,2/20/21,0.7979
+Maine,23,2/21/21,0.8018
+Maine,23,2/22/21,0.8653
+Maine,23,2/23/21,0.6514
+Maine,23,2/24/21,0.6686
+Maine,23,2/25/21,0.669
+Maine,23,2/26/21,0.3966
+Maine,23,2/27/21,0.6805
+Maine,23,2/28/21,0.6834
+Maine,23,3/1/21,0.3921
+Maine,23,3/2/21,0.3708
+Maine,23,3/3/21,0.3091
+Maine,23,3/4/21,0.3096
+Maine,23,3/5/21,0.8145
+Maine,23,3/6/21,0.703
+Maine,23,3/7/21,0.7071
+Maine,23,3/8/21,0.993
+Maine,23,3/9/21,1.0404
+Maine,23,3/10/21,1.1371
+Maine,23,3/11/21,1.1485
+Maine,23,3/12/21,1.0034
+Maine,23,3/13/21,0.8396
+Maine,23,3/14/21,1.1782
+Maine,23,3/15/21,1.0184
+Maine,23,3/16/21,1.0191
+Maine,23,3/17/21,0.9237
+Maine,23,3/18/21,0.9181
+Maine,23,3/19/21,0.8602
+Maine,23,3/20/21,0.8534
+Maine,23,3/21/21,0.5097
+Maine,23,3/22/21,0.7713
+Maine,23,3/23/21,0.7607
+Maine,23,3/24/21,0.7596
+Maine,23,3/25/21,0.9733
+Maine,23,3/26/21,0.8747
+Maine,23,3/27/21,1.0499
+Maine,23,3/28/21,1.2232
+Maine,23,3/29/21,0.9361
+Maine,23,3/30/21,0.9384
+Maine,23,3/31/21,1.0396
+Maine,23,4/1/21,1.0041
+Maine,23,4/2/21,1.0213
+Maine,23,4/3/21,1.0644
+Maine,23,4/4/21,1.1132
+Maine,23,4/5/21,1.1884
+Maine,23,4/6/21,1.1713
+Maine,23,4/7/21,1.1881
+Maine,23,4/8/21,1.2124
+Maine,23,4/9/21,1.2786
+Maine,23,4/10/21,1.3421
+Maine,23,4/11/21,1.1295
+Maine,23,4/12/21,0.9647
+Maine,23,4/13/21,1.9428
+Maine,23,4/14/21,1.4664
+Maine,23,4/15/21,1.4646
+Maine,23,4/16/21,1.3941
+Maine,23,4/17/21,1.3125
+Maine,23,4/18/21,1.3102
+Maine,23,4/19/21,1.5882
+Maine,23,4/20/21,0.6445
+Maine,23,4/21/21,1.0736
+Maine,23,4/22/21,1.0769
+Maine,23,4/23/21,1.0701
+Maine,23,4/24/21,1.0546
+Maine,23,4/25/21,1.0571
+Maine,23,4/26/21,0.7744
+Maine,23,4/27/21,1.0195
+Maine,23,4/28/21,1.0863
+Maine,23,4/29/21,1.0341
+Maine,23,4/30/21,1.0126
+Maine,23,5/1/21,1.007
+Maine,23,5/2/21,0.9944
+Maine,23,5/3/21,0.9832
+Maine,23,5/4/21,0.9264
+Maine,23,5/5/21,0.8883
+Maine,23,5/6/21,0.8688
+Maine,23,5/7/21,0.8514
+Maine,23,5/8/21,0.8083
+Maine,23,5/9/21,0.8083
+Maine,23,5/10/21,0.8134
+Maryland,24,1/13/21,0.5264
+Maryland,24,1/14/21,0.2632
+Maryland,24,1/15/21,0.2673
+Maryland,24,1/16/21,0.2551
+Maryland,24,1/17/21,0.2478
+Maryland,24,1/18/21,0.243
+Maryland,24,1/19/21,0.2395
+Maryland,24,1/20/21,0.1892
+Maryland,24,1/21/21,0.2218
+Maryland,24,1/22/21,0.2193
+Maryland,24,1/23/21,0.2351
+Maryland,24,1/24/21,0.2774
+Maryland,24,1/25/21,0.2752
+Maryland,24,1/26/21,0.2786
+Maryland,24,1/27/21,0.3098
+Maryland,24,1/28/21,0.3315
+Maryland,24,1/29/21,0.3664
+Maryland,24,1/30/21,0.3979
+Maryland,24,1/31/21,0.3944
+Maryland,24,2/1/21,0.4193
+Maryland,24,2/2/21,0.4053
+Maryland,24,2/3/21,0.3714
+Maryland,24,2/4/21,0.363
+Maryland,24,2/5/21,0.3594
+Maryland,24,2/6/21,0.3569
+Maryland,24,2/7/21,0.3771
+Maryland,24,2/8/21,0.3663
+Maryland,24,2/9/21,0.3684
+Maryland,24,2/10/21,0.4129
+Maryland,24,2/11/21,0.4245
+Maryland,24,2/12/21,0.4351
+Maryland,24,2/13/21,0.4381
+Maryland,24,2/14/21,0.4394
+Maryland,24,2/15/21,0.4399
+Maryland,24,2/16/21,0.4607
+Maryland,24,2/17/21,0.4301
+Maryland,24,2/18/21,0.4374
+Maryland,24,2/19/21,0.5495
+Maryland,24,2/20/21,0.5724
+Maryland,24,2/21/21,0.5595
+Maryland,24,2/22/21,0.572
+Maryland,24,2/23/21,0.5778
+Maryland,24,2/24/21,0.6068
+Maryland,24,2/25/21,0.6346
+Maryland,24,2/26/21,0.5395
+Maryland,24,2/27/21,0.5345
+Maryland,24,2/28/21,0.5629
+Maryland,24,3/1/21,0.5969
+Maryland,24,3/2/21,0.6094
+Maryland,24,3/3/21,0.6959
+Maryland,24,3/4/21,0.7051
+Maryland,24,3/5/21,0.7295
+Maryland,24,3/6/21,0.7696
+Maryland,24,3/7/21,0.7553
+Maryland,24,3/8/21,0.7269
+Maryland,24,3/9/21,0.7672
+Maryland,24,3/10/21,0.7245
+Maryland,24,3/11/21,0.7438
+Maryland,24,3/12/21,0.735
+Maryland,24,3/13/21,0.7462
+Maryland,24,3/14/21,0.7476
+Maryland,24,3/15/21,0.7548
+Maryland,24,3/16/21,0.7524
+Maryland,24,3/17/21,0.7606
+Maryland,24,3/18/21,0.753
+Maryland,24,3/19/21,0.7833
+Maryland,24,3/20/21,0.6437
+Maryland,24,3/21/21,0.7703
+Maryland,24,3/22/21,0.7771
+Maryland,24,3/23/21,0.7651
+Maryland,24,3/24/21,0.7721
+Maryland,24,3/25/21,0.7889
+Maryland,24,3/26/21,0.8074
+Maryland,24,3/27/21,0.9451
+Maryland,24,3/28/21,0.8512
+Maryland,24,3/29/21,0.8541
+Maryland,24,3/30/21,0.897
+Maryland,24,3/31/21,0.9446
+Maryland,24,4/1/21,0.9862
+Maryland,24,4/2/21,1.013
+Maryland,24,4/3/21,1.0613
+Maryland,24,4/4/21,1.0748
+Maryland,24,4/5/21,1.0503
+Maryland,24,4/6/21,1.034
+Maryland,24,4/7/21,1.0434
+Maryland,24,4/8/21,1.0587
+Maryland,24,4/9/21,1.0711
+Maryland,24,4/10/21,1.1112
+Maryland,24,4/11/21,1.1317
+Maryland,24,4/12/21,1.0793
+Maryland,24,4/13/21,1.216
+Maryland,24,4/14/21,1.2146
+Maryland,24,4/15/21,1.1986
+Maryland,24,4/16/21,1.198
+Maryland,24,4/17/21,0.9713
+Maryland,24,4/18/21,1.1368
+Maryland,24,4/19/21,1.2468
+Maryland,24,4/20/21,1.1273
+Maryland,24,4/21/21,1.1198
+Maryland,24,4/22/21,1.1304
+Maryland,24,4/23/21,1.1166
+Maryland,24,4/24/21,1.2555
+Maryland,24,4/25/21,1.0932
+Maryland,24,4/26/21,1.049
+Maryland,24,4/27/21,1.0625
+Maryland,24,4/28/21,1.0249
+Maryland,24,4/29/21,0.9875
+Maryland,24,4/30/21,0.9711
+Maryland,24,5/1/21,0.9531
+Maryland,24,5/2/21,0.8533
+Maryland,24,5/3/21,0.8451
+Maryland,24,5/4/21,0.781
+Maryland,24,5/5/21,0.7859
+Maryland,24,5/6/21,0.6442
+Maryland,24,5/7/21,0.7119
+Maryland,24,5/8/21,0.7358
+Maryland,24,5/9/21,0.7903
+Maryland,24,5/10/21,0.8412
+Massachusetts,25,1/13/21,0.1938
+Massachusetts,25,1/14/21,0.2132
+Massachusetts,25,1/15/21,0.2568
+Massachusetts,25,1/16/21,0.2485
+Massachusetts,25,1/17/21,0.2436
+Massachusetts,25,1/18/21,0.2403
+Massachusetts,25,1/19/21,0.2379
+Massachusetts,25,1/20/21,0.2343
+Massachusetts,25,1/21/21,0.248
+Massachusetts,25,1/22/21,0.2351
+Massachusetts,25,1/23/21,0.2495
+Massachusetts,25,1/24/21,0.2731
+Massachusetts,25,1/25/21,0.2698
+Massachusetts,25,1/26/21,0.2566
+Massachusetts,25,1/27/21,0.2773
+Massachusetts,25,1/28/21,0.2844
+Massachusetts,25,1/29/21,0.3106
+Massachusetts,25,1/30/21,0.3194
+Massachusetts,25,1/31/21,0.3303
+Massachusetts,25,2/1/21,0.3634
+Massachusetts,25,2/2/21,0.3788
+Massachusetts,25,2/3/21,0.3341
+Massachusetts,25,2/4/21,0.337
+Massachusetts,25,2/5/21,0.3411
+Massachusetts,25,2/6/21,0.3732
+Massachusetts,25,2/7/21,0.4168
+Massachusetts,25,2/8/21,0.4092
+Massachusetts,25,2/9/21,0.4286
+Massachusetts,25,2/10/21,0.5357
+Massachusetts,25,2/11/21,0.5631
+Massachusetts,25,2/12/21,0.5754
+Massachusetts,25,2/13/21,0.5854
+Massachusetts,25,2/14/21,0.6328
+Massachusetts,25,2/15/21,0.6422
+Massachusetts,25,2/16/21,0.6521
+Massachusetts,25,2/17/21,0.5937
+Massachusetts,25,2/18/21,0.6015
+Massachusetts,25,2/19/21,0.7331
+Massachusetts,25,2/20/21,0.7583
+Massachusetts,25,2/21/21,0.7066
+Massachusetts,25,2/22/21,0.7312
+Massachusetts,25,2/23/21,0.7321
+Massachusetts,25,2/24/21,0.7527
+Massachusetts,25,2/25/21,0.75
+Massachusetts,25,2/26/21,0.6406
+Massachusetts,25,2/27/21,0.6402
+Massachusetts,25,2/28/21,0.6413
+Massachusetts,25,3/1/21,0.6934
+Massachusetts,25,3/2/21,0.7
+Massachusetts,25,3/3/21,0.7267
+Massachusetts,25,3/4/21,0.7552
+Massachusetts,25,3/5/21,0.7881
+Massachusetts,25,3/6/21,0.8243
+Massachusetts,25,3/7/21,0.8548
+Massachusetts,25,3/8/21,0.8198
+Massachusetts,25,3/9/21,0.8049
+Massachusetts,25,3/10/21,0.8908
+Massachusetts,25,3/11/21,0.9022
+Massachusetts,25,3/12/21,0.9072
+Massachusetts,25,3/13/21,0.9942
+Massachusetts,25,3/14/21,0.8568
+Massachusetts,25,3/15/21,0.8738
+Massachusetts,25,3/16/21,0.8443
+Massachusetts,25,3/17/21,0.8214
+Massachusetts,25,3/18/21,0.8233
+Massachusetts,25,3/19/21,0.8177
+Massachusetts,25,3/20/21,0.7202
+Massachusetts,25,3/21/21,0.852
+Massachusetts,25,3/22/21,0.8546
+Massachusetts,25,3/23/21,0.8967
+Massachusetts,25,3/24/21,0.873
+Massachusetts,25,3/25/21,0.8757
+Massachusetts,25,3/26/21,0.8971
+Massachusetts,25,3/27/21,0.9037
+Massachusetts,25,3/28/21,0.9357
+Massachusetts,25,3/29/21,0.9583
+Massachusetts,25,3/30/21,0.9735
+Massachusetts,25,3/31/21,0.9941
+Massachusetts,25,4/1/21,1.0138
+Massachusetts,25,4/2/21,1.0375
+Massachusetts,25,4/3/21,1.0849
+Massachusetts,25,4/4/21,1.1277
+Massachusetts,25,4/5/21,1.1326
+Massachusetts,25,4/6/21,1.1274
+Massachusetts,25,4/7/21,1.1417
+Massachusetts,25,4/8/21,1.175
+Massachusetts,25,4/9/21,1.1907
+Massachusetts,25,4/10/21,1.2283
+Massachusetts,25,4/11/21,1.2466
+Massachusetts,25,4/12/21,1.2642
+Massachusetts,25,4/13/21,1.3024
+Massachusetts,25,4/14/21,1.3231
+Massachusetts,25,4/15/21,1.3327
+Massachusetts,25,4/16/21,1.339
+Massachusetts,25,4/17/21,1.283
+Massachusetts,25,4/18/21,1.2451
+Massachusetts,25,4/19/21,1.2241
+Massachusetts,25,4/20/21,1.213
+Massachusetts,25,4/21/21,1.187
+Massachusetts,25,4/22/21,1.1865
+Massachusetts,25,4/23/21,1.1843
+Massachusetts,25,4/24/21,1.2268
+Massachusetts,25,4/25/21,1.2566
+Massachusetts,25,4/26/21,1.271
+Massachusetts,25,4/27/21,1.2836
+Massachusetts,25,4/28/21,1.3008
+Massachusetts,25,4/29/21,1.2842
+Massachusetts,25,4/30/21,1.2675
+Massachusetts,25,5/1/21,1.2524
+Massachusetts,25,5/2/21,1.2192
+Massachusetts,25,5/3/21,1.1352
+Massachusetts,25,5/4/21,1.0907
+Massachusetts,25,5/5/21,1.0266
+Massachusetts,25,5/6/21,1.0392
+Massachusetts,25,5/7/21,1.0694
+Massachusetts,25,5/8/21,1.055
+Massachusetts,25,5/9/21,1.0232
+Massachusetts,25,5/10/21,1.0959
+Michigan,26,1/13/21,0.6392
+Michigan,26,1/14/21,0.4984
+Michigan,26,1/15/21,0.4556
+Michigan,26,1/16/21,0.4164
+Michigan,26,1/17/21,0.3929
+Michigan,26,1/18/21,0.3773
+Michigan,26,1/19/21,0.3661
+Michigan,26,1/20/21,0.3105
+Michigan,26,1/21/21,0.317
+Michigan,26,1/22/21,0.3308
+Michigan,26,1/23/21,0.37
+Michigan,26,1/24/21,0.3882
+Michigan,26,1/25/21,0.3915
+Michigan,26,1/26/21,0.37
+Michigan,26,1/27/21,0.3768
+Michigan,26,1/28/21,0.3799
+Michigan,26,1/29/21,0.3879
+Michigan,26,1/30/21,0.3859
+Michigan,26,1/31/21,0.403
+Michigan,26,2/1/21,0.3978
+Michigan,26,2/2/21,0.3908
+Michigan,26,2/3/21,0.3866
+Michigan,26,2/4/21,0.3782
+Michigan,26,2/5/21,0.3827
+Michigan,26,2/6/21,0.3873
+Michigan,26,2/7/21,0.3932
+Michigan,26,2/8/21,0.396
+Michigan,26,2/9/21,0.4211
+Michigan,26,2/10/21,0.453
+Michigan,26,2/11/21,0.4767
+Michigan,26,2/12/21,0.4741
+Michigan,26,2/13/21,0.493
+Michigan,26,2/14/21,0.505
+Michigan,26,2/15/21,0.4987
+Michigan,26,2/16/21,0.4965
+Michigan,26,2/17/21,0.4606
+Michigan,26,2/18/21,0.4388
+Michigan,26,2/19/21,0.5268
+Michigan,26,2/20/21,0.4952
+Michigan,26,2/21/21,0.4702
+Michigan,26,2/22/21,0.4881
+Michigan,26,2/23/21,0.4699
+Michigan,26,2/24/21,0.5201
+Michigan,26,2/25/21,0.5498
+Michigan,26,2/26/21,0.475
+Michigan,26,2/27/21,0.5173
+Michigan,26,2/28/21,0.5504
+Michigan,26,3/1/21,0.5508
+Michigan,26,3/2/21,0.5779
+Michigan,26,3/3/21,0.5427
+Michigan,26,3/4/21,0.5345
+Michigan,26,3/5/21,0.5567
+Michigan,26,3/6/21,0.5602
+Michigan,26,3/7/21,0.57
+Michigan,26,3/8/21,0.5841
+Michigan,26,3/9/21,0.569
+Michigan,26,3/10/21,0.5828
+Michigan,26,3/11/21,0.6044
+Michigan,26,3/12/21,0.6121
+Michigan,26,3/13/21,0.6287
+Michigan,26,3/14/21,0.6426
+Michigan,26,3/15/21,0.5786
+Michigan,26,3/16/21,0.6556
+Michigan,26,3/17/21,0.6857
+Michigan,26,3/18/21,0.711
+Michigan,26,3/19/21,0.7172
+Michigan,26,3/20/21,0.7329
+Michigan,26,3/21/21,0.7371
+Michigan,26,3/22/21,0.8264
+Michigan,26,3/23/21,0.7599
+Michigan,26,3/24/21,0.7588
+Michigan,26,3/25/21,0.7416
+Michigan,26,3/26/21,0.7474
+Michigan,26,3/27/21,0.7512
+Michigan,26,3/28/21,0.763
+Michigan,26,3/29/21,0.7842
+Michigan,26,3/30/21,0.7899
+Michigan,26,3/31/21,0.8277
+Michigan,26,4/1/21,0.8573
+Michigan,26,4/2/21,0.8761
+Michigan,26,4/3/21,0.9089
+Michigan,26,4/4/21,0.9061
+Michigan,26,4/5/21,0.8813
+Michigan,26,4/6/21,0.8704
+Michigan,26,4/7/21,0.849
+Michigan,26,4/8/21,0.8561
+Michigan,26,4/9/21,0.8641
+Michigan,26,4/10/21,0.8914
+Michigan,26,4/11/21,0.9266
+Michigan,26,4/12/21,0.963
+Michigan,26,4/13/21,0.9766
+Michigan,26,4/14/21,0.9793
+Michigan,26,4/15/21,0.9916
+Michigan,26,4/16/21,0.9984
+Michigan,26,4/17/21,0.9625
+Michigan,26,4/18/21,0.9475
+Michigan,26,4/19/21,0.8827
+Michigan,26,4/20/21,0.8781
+Michigan,26,4/21/21,0.9045
+Michigan,26,4/22/21,0.9084
+Michigan,26,4/23/21,0.9053
+Michigan,26,4/24/21,0.8821
+Michigan,26,4/25/21,0.8746
+Michigan,26,4/26/21,0.9019
+Michigan,26,4/27/21,0.8947
+Michigan,26,4/28/21,0.8838
+Michigan,26,4/29/21,0.834
+Michigan,26,4/30/21,0.8068
+Michigan,26,5/1/21,0.792
+Michigan,26,5/2/21,0.732
+Michigan,26,5/3/21,0.6868
+Michigan,26,5/4/21,0.6666
+Michigan,26,5/5/21,0.6091
+Michigan,26,5/6/21,0.6092
+Michigan,26,5/7/21,0.5984
+Michigan,26,5/8/21,0.5663
+Michigan,26,5/9/21,0.5817
+Michigan,26,5/10/21,0.6046
+Minnesota,27,1/13/21,0.0552
+Minnesota,27,1/14/21,0.1547
+Minnesota,27,1/15/21,0.2129
+Minnesota,27,1/16/21,0.2187
+Minnesota,27,1/17/21,0.2222
+Minnesota,27,1/18/21,0.2245
+Minnesota,27,1/19/21,0.2262
+Minnesota,27,1/20/21,0.2209
+Minnesota,27,1/21/21,0.202
+Minnesota,27,1/22/21,0.2026
+Minnesota,27,1/23/21,0.2374
+Minnesota,27,1/24/21,0.2439
+Minnesota,27,1/25/21,0.2752
+Minnesota,27,1/26/21,0.2759
+Minnesota,27,1/27/21,0.3112
+Minnesota,27,1/28/21,0.3653
+Minnesota,27,1/29/21,0.4106
+Minnesota,27,1/30/21,0.4574
+Minnesota,27,1/31/21,0.5004
+Minnesota,27,2/1/21,0.5053
+Minnesota,27,2/2/21,0.487
+Minnesota,27,2/3/21,0.4491
+Minnesota,27,2/4/21,0.5847
+Minnesota,27,2/5/21,0.4917
+Minnesota,27,2/6/21,0.551
+Minnesota,27,2/7/21,0.5328
+Minnesota,27,2/8/21,0.504
+Minnesota,27,2/9/21,0.4879
+Minnesota,27,2/10/21,0.4879
+Minnesota,27,2/11/21,0.3035
+Minnesota,27,2/12/21,0.3864
+Minnesota,27,2/13/21,0.3245
+Minnesota,27,2/14/21,0.3588
+Minnesota,27,2/15/21,0.3661
+Minnesota,27,2/16/21,0.4144
+Minnesota,27,2/17/21,0.4557
+Minnesota,27,2/18/21,0.5143
+Minnesota,27,2/19/21,0.6707
+Minnesota,27,2/20/21,0.6734
+Minnesota,27,2/21/21,0.6741
+Minnesota,27,2/22/21,0.6295
+Minnesota,27,2/23/21,0.6621
+Minnesota,27,2/24/21,0.6685
+Minnesota,27,2/25/21,0.6625
+Minnesota,27,2/26/21,0.5319
+Minnesota,27,2/27/21,0.5699
+Minnesota,27,2/28/21,0.6514
+Minnesota,27,3/1/21,0.7379
+Minnesota,27,3/2/21,0.6931
+Minnesota,27,3/3/21,0.7306
+Minnesota,27,3/4/21,0.7449
+Minnesota,27,3/5/21,0.7619
+Minnesota,27,3/6/21,0.7744
+Minnesota,27,3/7/21,0.7282
+Minnesota,27,3/8/21,0.7499
+Minnesota,27,3/9/21,0.7678
+Minnesota,27,3/10/21,0.7458
+Minnesota,27,3/11/21,0.7871
+Minnesota,27,3/12/21,0.7907
+Minnesota,27,3/13/21,0.9444
+Minnesota,27,3/14/21,0.8093
+Minnesota,27,3/15/21,0.7896
+Minnesota,27,3/16/21,0.7578
+Minnesota,27,3/17/21,0.7819
+Minnesota,27,3/18/21,0.7494
+Minnesota,27,3/19/21,0.7746
+Minnesota,27,3/20/21,0.6164
+Minnesota,27,3/21/21,0.7738
+Minnesota,27,3/22/21,0.7688
+Minnesota,27,3/23/21,0.779
+Minnesota,27,3/24/21,0.7599
+Minnesota,27,3/25/21,0.7553
+Minnesota,27,3/26/21,0.7562
+Minnesota,27,3/27/21,0.7949
+Minnesota,27,3/28/21,0.8251
+Minnesota,27,3/29/21,0.8229
+Minnesota,27,3/30/21,0.8826
+Minnesota,27,3/31/21,0.9405
+Minnesota,27,4/1/21,0.9703
+Minnesota,27,4/2/21,0.9833
+Minnesota,27,4/3/21,1.0081
+Minnesota,27,4/4/21,1.0047
+Minnesota,27,4/5/21,1.033
+Minnesota,27,4/6/21,0.9693
+Minnesota,27,4/7/21,0.9709
+Minnesota,27,4/8/21,0.9789
+Minnesota,27,4/9/21,0.9975
+Minnesota,27,4/10/21,0.9026
+Minnesota,27,4/11/21,0.9459
+Minnesota,27,4/12/21,1.0706
+Minnesota,27,4/13/21,1.1062
+Minnesota,27,4/14/21,1.0339
+Minnesota,27,4/15/21,1.0403
+Minnesota,27,4/16/21,1.0159
+Minnesota,27,4/17/21,1.0131
+Minnesota,27,4/18/21,0.9747
+Minnesota,27,4/19/21,0.7389
+Minnesota,27,4/20/21,0.8324
+Minnesota,27,4/21/21,0.8746
+Minnesota,27,4/22/21,0.8667
+Minnesota,27,4/23/21,0.8704
+Minnesota,27,4/24/21,0.8267
+Minnesota,27,4/25/21,0.8403
+Minnesota,27,4/26/21,1.0183
+Minnesota,27,4/27/21,0.8989
+Minnesota,27,4/28/21,0.911
+Minnesota,27,4/29/21,0.8957
+Minnesota,27,4/30/21,0.8828
+Minnesota,27,5/1/21,0.9695
+Minnesota,27,5/2/21,0.9038
+Minnesota,27,5/3/21,0.7799
+Minnesota,27,5/4/21,0.7712
+Minnesota,27,5/5/21,0.7271
+Minnesota,27,5/6/21,0.7179
+Minnesota,27,5/7/21,0.5656
+Minnesota,27,5/8/21,0.6434
+Minnesota,27,5/9/21,0.6242
+Minnesota,27,5/10/21,0.6475
+Mississippi,28,1/13/21,0.2266
+Mississippi,28,1/14/21,0.2907
+Mississippi,28,1/15/21,0.3336
+Mississippi,28,1/16/21,0.3116
+Mississippi,28,1/17/21,0.2984
+Mississippi,28,1/18/21,0.2896
+Mississippi,28,1/19/21,0.2834
+Mississippi,28,1/20/21,0.2942
+Mississippi,28,1/21/21,0.3112
+Mississippi,28,1/22/21,0.3178
+Mississippi,28,1/23/21,0.2826
+Mississippi,28,1/24/21,0.3777
+Mississippi,28,1/25/21,0.3586
+Mississippi,28,1/26/21,0.3285
+Mississippi,28,1/27/21,0.3247
+Mississippi,28,1/28/21,0.3099
+Mississippi,28,1/29/21,0.2987
+Mississippi,28,1/30/21,0.3454
+Mississippi,28,1/31/21,0.2821
+Mississippi,28,2/1/21,0.2779
+Mississippi,28,2/2/21,0.279
+Mississippi,28,2/3/21,0.2912
+Mississippi,28,2/4/21,0.2384
+Mississippi,28,2/5/21,0.303
+Mississippi,28,2/6/21,0.3743
+Mississippi,28,2/7/21,0.4062
+Mississippi,28,2/8/21,0.4251
+Mississippi,28,2/9/21,0.427
+Mississippi,28,2/10/21,0.4541
+Mississippi,28,2/11/21,0.5496
+Mississippi,28,2/12/21,0.5301
+Mississippi,28,2/13/21,0.5149
+Mississippi,28,2/14/21,0.5096
+Mississippi,28,2/15/21,0.5057
+Mississippi,28,2/16/21,0.5246
+Mississippi,28,2/17/21,0.4457
+Mississippi,28,2/18/21,0.3502
+Mississippi,28,2/19/21,0.4223
+Mississippi,28,2/20/21,0.3538
+Mississippi,28,2/21/21,0.3068
+Mississippi,28,2/22/21,0.3181
+Mississippi,28,2/23/21,0.323
+Mississippi,28,2/24/21,0.4181
+Mississippi,28,2/25/21,0.4206
+Mississippi,28,2/26/21,0.4463
+Mississippi,28,2/27/21,0.5377
+Mississippi,28,2/28/21,0.6151
+Mississippi,28,3/1/21,0.6627
+Mississippi,28,3/2/21,0.6758
+Mississippi,28,3/3/21,0.6735
+Mississippi,28,3/4/21,0.7662
+Mississippi,28,3/5/21,0.6878
+Mississippi,28,3/6/21,0.6882
+Mississippi,28,3/7/21,0.6982
+Mississippi,28,3/8/21,0.6679
+Mississippi,28,3/9/21,0.6442
+Mississippi,28,3/10/21,0.6506
+Mississippi,28,3/11/21,0.6624
+Mississippi,28,3/12/21,0.547
+Mississippi,28,3/13/21,0.7688
+Mississippi,28,3/14/21,0.635
+Mississippi,28,3/15/21,0.6134
+Mississippi,28,3/16/21,0.6024
+Mississippi,28,3/17/21,0.5765
+Mississippi,28,3/18/21,0.563
+Mississippi,28,3/19/21,0.5959
+Mississippi,28,3/20/21,0.3607
+Mississippi,28,3/21/21,0.4777
+Mississippi,28,3/22/21,0.4715
+Mississippi,28,3/23/21,0.4724
+Mississippi,28,3/24/21,0.4982
+Mississippi,28,3/25/21,0.5214
+Mississippi,28,3/26/21,0.4869
+Mississippi,28,3/27/21,0.5782
+Mississippi,28,3/28/21,0.4682
+Mississippi,28,3/29/21,0.6333
+Mississippi,28,3/30/21,0.6367
+Mississippi,28,3/31/21,0.6399
+Mississippi,28,4/1/21,0.531
+Mississippi,28,4/2/21,0.6685
+Mississippi,28,4/3/21,0.5937
+Mississippi,28,4/4/21,0.7053
+Mississippi,28,4/5/21,0.5127
+Mississippi,28,4/6/21,0.5344
+Mississippi,28,4/7/21,0.5214
+Mississippi,28,4/8/21,0.6218
+Mississippi,28,4/9/21,0.591
+Mississippi,28,4/10/21,0.5827
+Mississippi,28,4/11/21,0.5875
+Mississippi,28,4/12/21,0.5881
+Mississippi,28,4/13/21,0.5973
+Mississippi,28,4/14/21,0.6028
+Mississippi,28,4/15/21,0.5812
+Mississippi,28,4/16/21,0.5623
+Mississippi,28,4/17/21,0.4442
+Mississippi,28,4/18/21,0.4973
+Mississippi,28,4/19/21,0.4981
+Mississippi,28,4/20/21,0.4822
+Mississippi,28,4/21/21,0.4523
+Mississippi,28,4/22/21,0.4445
+Mississippi,28,4/23/21,0.4282
+Mississippi,28,4/24/21,0.4279
+Mississippi,28,4/25/21,0.2574
+Mississippi,28,4/26/21,0.2562
+Mississippi,28,4/27/21,0.3935
+Mississippi,28,4/28/21,0.3747
+Mississippi,28,4/29/21,0.2978
+Mississippi,28,4/30/21,0.3472
+Mississippi,28,5/1/21,0.3463
+Mississippi,28,5/2/21,0.3423
+Mississippi,28,5/3/21,0.3422
+Mississippi,28,5/4/21,0.294
+Mississippi,28,5/5/21,0.2898
+Mississippi,28,5/6/21,0.2919
+Mississippi,28,5/7/21,0.2631
+Mississippi,28,5/8/21,0.3068
+Mississippi,28,5/9/21,0.3067
+Mississippi,28,5/10/21,0.3062
+Missouri,29,1/13/21,0
+Missouri,29,1/14/21,0.1102
+Missouri,29,1/15/21,0.1557
+Missouri,29,1/16/21,0.1634
+Missouri,29,1/17/21,0.168
+Missouri,29,1/18/21,0.1711
+Missouri,29,1/19/21,0.1733
+Missouri,29,1/20/21,0.1925
+Missouri,29,1/21/21,0.2096
+Missouri,29,1/22/21,0.2217
+Missouri,29,1/23/21,0.2091
+Missouri,29,1/24/21,0.243
+Missouri,29,1/25/21,0.2581
+Missouri,29,1/26/21,0.2421
+Missouri,29,1/27/21,0.2646
+Missouri,29,1/28/21,0.2727
+Missouri,29,1/29/21,0.2857
+Missouri,29,1/30/21,0.2717
+Missouri,29,1/31/21,0.2948
+Missouri,29,2/1/21,0.2945
+Missouri,29,2/2/21,0.2936
+Missouri,29,2/3/21,0.2885
+Missouri,29,2/4/21,0.2855
+Missouri,29,2/5/21,0.2974
+Missouri,29,2/6/21,0.4085
+Missouri,29,2/7/21,0.4208
+Missouri,29,2/8/21,0.4219
+Missouri,29,2/9/21,0.42
+Missouri,29,2/10/21,0.4365
+Missouri,29,2/11/21,0.4417
+Missouri,29,2/12/21,0.422
+Missouri,29,2/13/21,0.5189
+Missouri,29,2/14/21,0.5188
+Missouri,29,2/15/21,0.5122
+Missouri,29,2/16/21,0.5402
+Missouri,29,2/17/21,0.5175
+Missouri,29,2/18/21,0.5132
+Missouri,29,2/19/21,0.6908
+Missouri,29,2/20/21,0.5493
+Missouri,29,2/21/21,0.5486
+Missouri,29,2/22/21,0.5596
+Missouri,29,2/23/21,0.5399
+Missouri,29,2/24/21,0.5708
+Missouri,29,2/25/21,0.5873
+Missouri,29,2/26/21,0.4637
+Missouri,29,2/27/21,0.5475
+Missouri,29,2/28/21,0.4555
+Missouri,29,3/1/21,0.6311
+Missouri,29,3/2/21,0.6358
+Missouri,29,3/3/21,0.6484
+Missouri,29,3/4/21,0.6765
+Missouri,29,3/5/21,0.6768
+Missouri,29,3/6/21,0.6379
+Missouri,29,3/7/21,0.7465
+Missouri,29,3/8/21,0.6025
+Missouri,29,3/9/21,0.6122
+Missouri,29,3/10/21,0.6274
+Missouri,29,3/11/21,0.6195
+Missouri,29,3/12/21,0.5948
+Missouri,29,3/13/21,0.7334
+Missouri,29,3/14/21,0.6217
+Missouri,29,3/15/21,0.6127
+Missouri,29,3/16/21,0.607
+Missouri,29,3/17/21,0.5922
+Missouri,29,3/18/21,0.6161
+Missouri,29,3/19/21,0.638
+Missouri,29,3/20/21,0.5134
+Missouri,29,3/21/21,0.6436
+Missouri,29,3/22/21,0.6458
+Missouri,29,3/23/21,0.6633
+Missouri,29,3/24/21,0.6748
+Missouri,29,3/25/21,0.6681
+Missouri,29,3/26/21,0.66
+Missouri,29,3/27/21,0.6604
+Missouri,29,3/28/21,0.668
+Missouri,29,3/29/21,0.6759
+Missouri,29,3/30/21,0.6719
+Missouri,29,3/31/21,0.687
+Missouri,29,4/1/21,0.6998
+Missouri,29,4/2/21,0.8166
+Missouri,29,4/3/21,0.8711
+Missouri,29,4/4/21,0.8764
+Missouri,29,4/5/21,0.9045
+Missouri,29,4/6/21,0.8835
+Missouri,29,4/7/21,0.8833
+Missouri,29,4/8/21,0.9169
+Missouri,29,4/9/21,0.8202
+Missouri,29,4/10/21,0.7858
+Missouri,29,4/11/21,0.7906
+Missouri,29,4/12/21,0.7974
+Missouri,29,4/13/21,0.8875
+Missouri,29,4/14/21,0.8355
+Missouri,29,4/15/21,0.7909
+Missouri,29,4/16/21,0.8054
+Missouri,29,4/17/21,0.8225
+Missouri,29,4/18/21,0.8424
+Missouri,29,4/19/21,0.7913
+Missouri,29,4/20/21,0.7047
+Missouri,29,4/21/21,0.7578
+Missouri,29,4/22/21,0.7657
+Missouri,29,4/23/21,0.7534
+Missouri,29,4/24/21,0.682
+Missouri,29,4/25/21,0.6899
+Missouri,29,4/26/21,0.7516
+Missouri,29,4/27/21,0.7669
+Missouri,29,4/28/21,0.7401
+Missouri,29,4/29/21,0.716
+Missouri,29,4/30/21,0.6868
+Missouri,29,5/1/21,0.6749
+Missouri,29,5/2/21,0.5983
+Missouri,29,5/3/21,0.5275
+Missouri,29,5/4/21,0.5155
+Missouri,29,5/5/21,0.4933
+Missouri,29,5/6/21,0.4772
+Missouri,29,5/7/21,0.4566
+Missouri,29,5/8/21,0.4554
+Missouri,29,5/9/21,0.4226
+Missouri,29,5/10/21,0.4683
+Montana,30,1/13/21,0.1853
+Montana,30,1/14/21,0.2122
+Montana,30,1/15/21,0.2271
+Montana,30,1/16/21,0.2085
+Montana,30,1/17/21,0.1973
+Montana,30,1/18/21,0.1899
+Montana,30,1/19/21,0.1846
+Montana,30,1/20/21,0.1759
+Montana,30,1/21/21,0.184
+Montana,30,1/22/21,0.227
+Montana,30,1/23/21,0.288
+Montana,30,1/24/21,0.3203
+Montana,30,1/25/21,0.3087
+Montana,30,1/26/21,0.2921
+Montana,30,1/27/21,0.3201
+Montana,30,1/28/21,0.3452
+Montana,30,1/29/21,0.3508
+Montana,30,1/30/21,0.3572
+Montana,30,1/31/21,0.3734
+Montana,30,2/1/21,0.3848
+Montana,30,2/2/21,0.3953
+Montana,30,2/3/21,0.3904
+Montana,30,2/4/21,0.4001
+Montana,30,2/5/21,0.4003
+Montana,30,2/6/21,0.4225
+Montana,30,2/7/21,0.4443
+Montana,30,2/8/21,0.4428
+Montana,30,2/9/21,0.4384
+Montana,30,2/10/21,0.4541
+Montana,30,2/11/21,0.4437
+Montana,30,2/12/21,0.47
+Montana,30,2/13/21,0.4876
+Montana,30,2/14/21,0.5219
+Montana,30,2/15/21,0.5342
+Montana,30,2/16/21,0.5552
+Montana,30,2/17/21,0.5378
+Montana,30,2/18/21,0.5445
+Montana,30,2/19/21,0.8492
+Montana,30,2/20/21,0.8224
+Montana,30,2/21/21,0.8059
+Montana,30,2/22/21,0.8231
+Montana,30,2/23/21,0.82
+Montana,30,2/24/21,0.8294
+Montana,30,2/25/21,0.8317
+Montana,30,2/26/21,0.5315
+Montana,30,2/27/21,0.5638
+Montana,30,2/28/21,0.5925
+Montana,30,3/1/21,0.5863
+Montana,30,3/2/21,0.5767
+Montana,30,3/3/21,0.6008
+Montana,30,3/4/21,0.6511
+Montana,30,3/5/21,0.6857
+Montana,30,3/6/21,0.7088
+Montana,30,3/7/21,0.7429
+Montana,30,3/8/21,0.7602
+Montana,30,3/9/21,0.7677
+Montana,30,3/10/21,0.776
+Montana,30,3/11/21,0.7811
+Montana,30,3/12/21,0.7775
+Montana,30,3/13/21,0.7904
+Montana,30,3/14/21,0.7855
+Montana,30,3/15/21,0.7659
+Montana,30,3/16/21,0.7769
+Montana,30,3/17/21,0.7651
+Montana,30,3/18/21,0.7326
+Montana,30,3/19/21,0.7015
+Montana,30,3/20/21,0.6693
+Montana,30,3/21/21,0.6317
+Montana,30,3/22/21,0.6525
+Montana,30,3/23/21,0.6145
+Montana,30,3/24/21,0.6434
+Montana,30,3/25/21,0.663
+Montana,30,3/26/21,0.6966
+Montana,30,3/27/21,0.7205
+Montana,30,3/28/21,0.7485
+Montana,30,3/29/21,0.7313
+Montana,30,3/30/21,0.7649
+Montana,30,3/31/21,0.9075
+Montana,30,4/1/21,0.9412
+Montana,30,4/2/21,0.9373
+Montana,30,4/3/21,0.937
+Montana,30,4/4/21,0.9455
+Montana,30,4/5/21,0.9502
+Montana,30,4/6/21,0.9406
+Montana,30,4/7/21,0.8219
+Montana,30,4/8/21,0.8314
+Montana,30,4/9/21,0.8661
+Montana,30,4/10/21,0.872
+Montana,30,4/11/21,0.8739
+Montana,30,4/12/21,0.8772
+Montana,30,4/13/21,0.8905
+Montana,30,4/14/21,0.7873
+Montana,30,4/15/21,0.7883
+Montana,30,4/16/21,0.7531
+Montana,30,4/17/21,0.7363
+Montana,30,4/18/21,0.5767
+Montana,30,4/19/21,0.6942
+Montana,30,4/20/21,0.6807
+Montana,30,4/21/21,0.7308
+Montana,30,4/22/21,0.6715
+Montana,30,4/23/21,0.6411
+Montana,30,4/24/21,0.6226
+Montana,30,4/25/21,0.7216
+Montana,30,4/26/21,0.5838
+Montana,30,4/27/21,0.5767
+Montana,30,4/28/21,0.5828
+Montana,30,4/29/21,0.5975
+Montana,30,4/30/21,0.5858
+Montana,30,5/1/21,0.5677
+Montana,30,5/2/21,0.542
+Montana,30,5/3/21,0.5263
+Montana,30,5/4/21,0.5208
+Montana,30,5/5/21,0.4863
+Montana,30,5/6/21,0.4442
+Montana,30,5/7/21,0.4094
+Montana,30,5/8/21,0.3625
+Montana,30,5/9/21,0.3563
+Montana,30,5/10/21,0.3694
+Nebraska,31,1/13/21,0.2719
+Nebraska,31,1/14/21,0.2709
+Nebraska,31,1/15/21,0.2887
+Nebraska,31,1/16/21,0.2569
+Nebraska,31,1/17/21,0.2379
+Nebraska,31,1/18/21,0.2251
+Nebraska,31,1/19/21,0.216
+Nebraska,31,1/20/21,0.1963
+Nebraska,31,1/21/21,0.1988
+Nebraska,31,1/22/21,0.2013
+Nebraska,31,1/23/21,0.2197
+Nebraska,31,1/24/21,0.2615
+Nebraska,31,1/25/21,0.2472
+Nebraska,31,1/26/21,0.2322
+Nebraska,31,1/27/21,0.2459
+Nebraska,31,1/28/21,0.2819
+Nebraska,31,1/29/21,0.2948
+Nebraska,31,1/30/21,0.3191
+Nebraska,31,1/31/21,0.3313
+Nebraska,31,2/1/21,0.3463
+Nebraska,31,2/2/21,0.3492
+Nebraska,31,2/3/21,0.3597
+Nebraska,31,2/4/21,0.3331
+Nebraska,31,2/5/21,0.338
+Nebraska,31,2/6/21,0.3776
+Nebraska,31,2/7/21,0.3926
+Nebraska,31,2/8/21,0.3925
+Nebraska,31,2/9/21,0.3906
+Nebraska,31,2/10/21,0.3898
+Nebraska,31,2/11/21,0.3896
+Nebraska,31,2/12/21,0.4119
+Nebraska,31,2/13/21,0.4102
+Nebraska,31,2/14/21,0.4049
+Nebraska,31,2/15/21,0.3996
+Nebraska,31,2/16/21,0.4086
+Nebraska,31,2/17/21,0.3976
+Nebraska,31,2/18/21,0.4222
+Nebraska,31,2/19/21,0.6488
+Nebraska,31,2/20/21,0.6398
+Nebraska,31,2/21/21,0.6421
+Nebraska,31,2/22/21,0.683
+Nebraska,31,2/23/21,0.7542
+Nebraska,31,2/24/21,0.8197
+Nebraska,31,2/25/21,0.8667
+Nebraska,31,2/26/21,0.6983
+Nebraska,31,2/27/21,0.6158
+Nebraska,31,2/28/21,0.7517
+Nebraska,31,3/1/21,0.7065
+Nebraska,31,3/2/21,0.6804
+Nebraska,31,3/3/21,0.6736
+Nebraska,31,3/4/21,0.6726
+Nebraska,31,3/5/21,0.6861
+Nebraska,31,3/6/21,0.6806
+Nebraska,31,3/7/21,0.6028
+Nebraska,31,3/8/21,0.7171
+Nebraska,31,3/9/21,0.8079
+Nebraska,31,3/10/21,0.8143
+Nebraska,31,3/11/21,0.8587
+Nebraska,31,3/12/21,0.8727
+Nebraska,31,3/13/21,0.9615
+Nebraska,31,3/14/21,0.815
+Nebraska,31,3/15/21,0.8228
+Nebraska,31,3/16/21,0.7598
+Nebraska,31,3/17/21,0.7734
+Nebraska,31,3/18/21,0.7542
+Nebraska,31,3/19/21,0.7495
+Nebraska,31,3/20/21,0.6608
+Nebraska,31,3/21/21,0.8057
+Nebraska,31,3/22/21,0.8314
+Nebraska,31,3/23/21,0.7936
+Nebraska,31,3/24/21,0.7845
+Nebraska,31,3/25/21,0.769
+Nebraska,31,3/26/21,0.7567
+Nebraska,31,3/27/21,0.7555
+Nebraska,31,3/28/21,0.7849
+Nebraska,31,3/29/21,0.758
+Nebraska,31,3/30/21,0.8275
+Nebraska,31,3/31/21,0.9048
+Nebraska,31,4/1/21,0.9639
+Nebraska,31,4/2/21,0.992
+Nebraska,31,4/3/21,0.9907
+Nebraska,31,4/4/21,0.9453
+Nebraska,31,4/5/21,0.9179
+Nebraska,31,4/6/21,0.8814
+Nebraska,31,4/7/21,0.8466
+Nebraska,31,4/8/21,0.8119
+Nebraska,31,4/9/21,0.8563
+Nebraska,31,4/10/21,0.8558
+Nebraska,31,4/11/21,0.8927
+Nebraska,31,4/12/21,0.8942
+Nebraska,31,4/13/21,1.1062
+Nebraska,31,4/14/21,1.1295
+Nebraska,31,4/15/21,1.1224
+Nebraska,31,4/16/21,1.0962
+Nebraska,31,4/17/21,1.0948
+Nebraska,31,4/18/21,1.0141
+Nebraska,31,4/19/21,0.9954
+Nebraska,31,4/20/21,0.8222
+Nebraska,31,4/21/21,0.731
+Nebraska,31,4/22/21,0.7549
+Nebraska,31,4/23/21,0.6162
+Nebraska,31,4/24/21,0.6584
+Nebraska,31,4/25/21,0.5765
+Nebraska,31,4/26/21,0.7422
+Nebraska,31,4/27/21,0.6169
+Nebraska,31,4/28/21,0.6796
+Nebraska,31,4/29/21,0.6062
+Nebraska,31,4/30/21,0.5421
+Nebraska,31,5/1/21,0.501
+Nebraska,31,5/2/21,0.6896
+Nebraska,31,5/3/21,0.6095
+Nebraska,31,5/4/21,0.6095
+Nebraska,31,5/5/21,0.5249
+Nebraska,31,5/6/21,0.5288
+Nebraska,31,5/7/21,0.6212
+Nebraska,31,5/8/21,0.7312
+Nebraska,31,5/9/21,0.7175
+Nebraska,31,5/10/21,0.6881
+Nevada,32,1/13/21,0
+Nevada,32,1/14/21,0.2466
+Nevada,32,1/15/21,0.2383
+Nevada,32,1/16/21,0.2176
+Nevada,32,1/17/21,0.2052
+Nevada,32,1/18/21,0.1969
+Nevada,32,1/19/21,0.191
+Nevada,32,1/20/21,0.2109
+Nevada,32,1/21/21,0.1815
+Nevada,32,1/22/21,0.1984
+Nevada,32,1/23/21,0.2252
+Nevada,32,1/24/21,0.2734
+Nevada,32,1/25/21,0.2867
+Nevada,32,1/26/21,0.2853
+Nevada,32,1/27/21,0.3118
+Nevada,32,1/28/21,0.3662
+Nevada,32,1/29/21,0.3883
+Nevada,32,1/30/21,0.4043
+Nevada,32,1/31/21,0.4122
+Nevada,32,2/1/21,0.4123
+Nevada,32,2/2/21,0.4119
+Nevada,32,2/3/21,0.4875
+Nevada,32,2/4/21,0.4483
+Nevada,32,2/5/21,0.4366
+Nevada,32,2/6/21,0.4548
+Nevada,32,2/7/21,0.4313
+Nevada,32,2/8/21,0.4542
+Nevada,32,2/9/21,0.4562
+Nevada,32,2/10/21,0.4029
+Nevada,32,2/11/21,0.4057
+Nevada,32,2/12/21,0.4167
+Nevada,32,2/13/21,0.4119
+Nevada,32,2/14/21,0.4376
+Nevada,32,2/15/21,0.4217
+Nevada,32,2/16/21,0.4419
+Nevada,32,2/17/21,0.402
+Nevada,32,2/18/21,0.4077
+Nevada,32,2/19/21,0.5944
+Nevada,32,2/20/21,0.671
+Nevada,32,2/21/21,0.6557
+Nevada,32,2/22/21,0.6906
+Nevada,32,2/23/21,0.7032
+Nevada,32,2/24/21,0.7134
+Nevada,32,2/25/21,0.7199
+Nevada,32,2/26/21,0.5576
+Nevada,32,2/27/21,0.5094
+Nevada,32,2/28/21,0.5375
+Nevada,32,3/1/21,0.5965
+Nevada,32,3/2/21,0.5786
+Nevada,32,3/3/21,0.5896
+Nevada,32,3/4/21,0.5935
+Nevada,32,3/5/21,0.6063
+Nevada,32,3/6/21,0.6236
+Nevada,32,3/7/21,0.6659
+Nevada,32,3/8/21,0.6529
+Nevada,32,3/9/21,0.6576
+Nevada,32,3/10/21,0.6711
+Nevada,32,3/11/21,0.7158
+Nevada,32,3/12/21,0.7304
+Nevada,32,3/13/21,0.7359
+Nevada,32,3/14/21,0.7425
+Nevada,32,3/15/21,0.7324
+Nevada,32,3/16/21,0.7197
+Nevada,32,3/17/21,0.7221
+Nevada,32,3/18/21,0.7318
+Nevada,32,3/19/21,0.7226
+Nevada,32,3/20/21,0.7305
+Nevada,32,3/21/21,0.7236
+Nevada,32,3/22/21,0.701
+Nevada,32,3/23/21,0.6971
+Nevada,32,3/24/21,0.7029
+Nevada,32,3/25/21,0.706
+Nevada,32,3/26/21,0.7301
+Nevada,32,3/27/21,0.7334
+Nevada,32,3/28/21,0.7312
+Nevada,32,3/29/21,0.7564
+Nevada,32,3/30/21,0.7633
+Nevada,32,3/31/21,0.7543
+Nevada,32,4/1/21,0.7406
+Nevada,32,4/2/21,0.7197
+Nevada,32,4/3/21,0.7303
+Nevada,32,4/4/21,0.7379
+Nevada,32,4/5/21,0.7162
+Nevada,32,4/6/21,0.7058
+Nevada,32,4/7/21,0.7264
+Nevada,32,4/8/21,0.7544
+Nevada,32,4/9/21,0.8212
+Nevada,32,4/10/21,0.8522
+Nevada,32,4/11/21,0.8851
+Nevada,32,4/12/21,0.935
+Nevada,32,4/13/21,0.9506
+Nevada,32,4/14/21,0.9484
+Nevada,32,4/15/21,0.9649
+Nevada,32,4/16/21,0.9178
+Nevada,32,4/17/21,0.8708
+Nevada,32,4/18/21,0.8419
+Nevada,32,4/19/21,0.7992
+Nevada,32,4/20/21,0.7942
+Nevada,32,4/21/21,0.7877
+Nevada,32,4/22/21,0.7266
+Nevada,32,4/23/21,0.6872
+Nevada,32,4/24/21,0.6486
+Nevada,32,4/25/21,0.6124
+Nevada,32,4/26/21,0.5981
+Nevada,32,4/27/21,0.5955
+Nevada,32,4/28/21,0.5828
+Nevada,32,4/29/21,0.5818
+Nevada,32,4/30/21,0.5976
+Nevada,32,5/1/21,0.614
+Nevada,32,5/2/21,0.6068
+Nevada,32,5/3/21,0.5727
+Nevada,32,5/4/21,0.5532
+Nevada,32,5/5/21,0.545
+Nevada,32,5/6/21,0.5547
+Nevada,32,5/7/21,0.5396
+Nevada,32,5/8/21,0.5153
+Nevada,32,5/9/21,0.5209
+Nevada,32,5/10/21,0.5521
+New Hampshire,33,1/13/21,0.3387
+New Hampshire,33,1/14/21,0.2978
+New Hampshire,33,1/15/21,0.2918
+New Hampshire,33,1/16/21,0.2604
+New Hampshire,33,1/17/21,0.2416
+New Hampshire,33,1/18/21,0.229
+New Hampshire,33,1/19/21,0.22
+New Hampshire,33,1/20/21,0.2123
+New Hampshire,33,1/21/21,0.2304
+New Hampshire,33,1/22/21,0.2425
+New Hampshire,33,1/23/21,0.2631
+New Hampshire,33,1/24/21,0.2763
+New Hampshire,33,1/25/21,0.2661
+New Hampshire,33,1/26/21,0.2673
+New Hampshire,33,1/27/21,0.2906
+New Hampshire,33,1/28/21,0.3132
+New Hampshire,33,1/29/21,0.3343
+New Hampshire,33,1/30/21,0.3564
+New Hampshire,33,1/31/21,0.3674
+New Hampshire,33,2/1/21,0.3771
+New Hampshire,33,2/2/21,0.4076
+New Hampshire,33,2/3/21,0.3697
+New Hampshire,33,2/4/21,0.3639
+New Hampshire,33,2/5/21,0.3754
+New Hampshire,33,2/6/21,0.3933
+New Hampshire,33,2/7/21,0.3948
+New Hampshire,33,2/8/21,0.3791
+New Hampshire,33,2/9/21,0.346
+New Hampshire,33,2/10/21,0.3984
+New Hampshire,33,2/11/21,0.4099
+New Hampshire,33,2/12/21,0.3989
+New Hampshire,33,2/13/21,0.4149
+New Hampshire,33,2/14/21,0.4481
+New Hampshire,33,2/15/21,0.4832
+New Hampshire,33,2/16/21,0.5035
+New Hampshire,33,2/17/21,0.4426
+New Hampshire,33,2/18/21,0.4493
+New Hampshire,33,2/19/21,0.5282
+New Hampshire,33,2/20/21,0.5214
+New Hampshire,33,2/21/21,0.5492
+New Hampshire,33,2/22/21,0.581
+New Hampshire,33,2/23/21,0.6053
+New Hampshire,33,2/24/21,0.6715
+New Hampshire,33,2/25/21,0.6765
+New Hampshire,33,2/26/21,0.6145
+New Hampshire,33,2/27/21,0.6354
+New Hampshire,33,2/28/21,0.6387
+New Hampshire,33,3/1/21,0.5979
+New Hampshire,33,3/2/21,0.5912
+New Hampshire,33,3/3/21,0.6015
+New Hampshire,33,3/4/21,0.6154
+New Hampshire,33,3/5/21,0.6159
+New Hampshire,33,3/6/21,0.634
+New Hampshire,33,3/7/21,0.6356
+New Hampshire,33,3/8/21,0.6375
+New Hampshire,33,3/9/21,0.666
+New Hampshire,33,3/10/21,0.6922
+New Hampshire,33,3/11/21,0.7232
+New Hampshire,33,3/12/21,0.7649
+New Hampshire,33,3/13/21,0.83
+New Hampshire,33,3/14/21,0.8258
+New Hampshire,33,3/15/21,0.8378
+New Hampshire,33,3/16/21,0.8147
+New Hampshire,33,3/17/21,0.7711
+New Hampshire,33,3/18/21,0.7456
+New Hampshire,33,3/19/21,0.7314
+New Hampshire,33,3/20/21,0.6757
+New Hampshire,33,3/21/21,0.7276
+New Hampshire,33,3/22/21,0.7602
+New Hampshire,33,3/23/21,0.7777
+New Hampshire,33,3/24/21,0.7999
+New Hampshire,33,3/25/21,0.8042
+New Hampshire,33,3/26/21,0.7744
+New Hampshire,33,3/27/21,0.7522
+New Hampshire,33,3/28/21,0.7196
+New Hampshire,33,3/29/21,0.6828
+New Hampshire,33,3/30/21,0.6475
+New Hampshire,33,3/31/21,0.6314
+New Hampshire,33,4/1/21,1.4865
+New Hampshire,33,4/2/21,1.5385
+New Hampshire,33,4/3/21,1.8798
+New Hampshire,33,4/4/21,1.8474
+New Hampshire,33,4/5/21,2.0394
+New Hampshire,33,4/6/21,2.0361
+New Hampshire,33,4/7/21,2.2525
+New Hampshire,33,4/8/21,1.5845
+New Hampshire,33,4/9/21,1.7654
+New Hampshire,33,4/10/21,1.6571
+New Hampshire,33,4/11/21,1.9305
+New Hampshire,33,4/12/21,1.9126
+New Hampshire,33,4/13/21,2.0562
+New Hampshire,33,4/14/21,1.877
+New Hampshire,33,4/15/21,2.0139
+New Hampshire,33,4/16/21,1.9598
+New Hampshire,33,4/17/21,1.7435
+New Hampshire,33,4/18/21,1.4844
+New Hampshire,33,4/19/21,1.2997
+New Hampshire,33,4/20/21,1.1755
+New Hampshire,33,4/21/21,1.1133
+New Hampshire,33,4/22/21,0.7059
+New Hampshire,33,4/23/21,0.471
+New Hampshire,33,4/24/21,0.3696
+New Hampshire,33,4/25/21,0.2937
+New Hampshire,33,4/26/21,0.2886
+New Hampshire,33,4/27/21,0.2501
+New Hampshire,33,4/28/21,0.2195
+New Hampshire,33,4/29/21,0.2204
+New Hampshire,33,4/30/21,0.2271
+New Hampshire,33,5/1/21,0.2493
+New Hampshire,33,5/2/21,0.2522
+New Hampshire,33,5/3/21,0.2518
+New Hampshire,33,5/4/21,0.2615
+New Hampshire,33,5/5/21,0.2599
+New Hampshire,33,5/6/21,0.2239
+New Hampshire,33,5/7/21,-0.0035
+New Hampshire,33,5/8/21,-0.0284
+New Hampshire,33,5/9/21,-0.0279
+New Hampshire,33,5/10/21,-0.0274
+New Jersey,34,1/13/21,0.4721
+New Jersey,34,1/14/21,0.2385
+New Jersey,34,1/15/21,0.3604
+New Jersey,34,1/16/21,0.3287
+New Jersey,34,1/17/21,0.3098
+New Jersey,34,1/18/21,0.2971
+New Jersey,34,1/19/21,0.2881
+New Jersey,34,1/20/21,0.2722
+New Jersey,34,1/21/21,0.2715
+New Jersey,34,1/22/21,0.2369
+New Jersey,34,1/23/21,0.2622
+New Jersey,34,1/24/21,0.2847
+New Jersey,34,1/25/21,0.2956
+New Jersey,34,1/26/21,0.2824
+New Jersey,34,1/27/21,0.2889
+New Jersey,34,1/28/21,0.3474
+New Jersey,34,1/29/21,0.4231
+New Jersey,34,1/30/21,0.4311
+New Jersey,34,1/31/21,0.4179
+New Jersey,34,2/1/21,0.3975
+New Jersey,34,2/2/21,0.4195
+New Jersey,34,2/3/21,0.3858
+New Jersey,34,2/4/21,0.3273
+New Jersey,34,2/5/21,0.253
+New Jersey,34,2/6/21,0.438
+New Jersey,34,2/7/21,0.4493
+New Jersey,34,2/8/21,0.4577
+New Jersey,34,2/9/21,0.4185
+New Jersey,34,2/10/21,0.4777
+New Jersey,34,2/11/21,0.5548
+New Jersey,34,2/12/21,0.5919
+New Jersey,34,2/13/21,0.4317
+New Jersey,34,2/14/21,0.4415
+New Jersey,34,2/15/21,0.472
+New Jersey,34,2/16/21,0.5316
+New Jersey,34,2/17/21,0.5335
+New Jersey,34,2/18/21,0.5557
+New Jersey,34,2/19/21,0.5657
+New Jersey,34,2/20/21,0.5451
+New Jersey,34,2/21/21,0.5464
+New Jersey,34,2/22/21,0.52
+New Jersey,34,2/23/21,0.5335
+New Jersey,34,2/24/21,0.5198
+New Jersey,34,2/25/21,0.5214
+New Jersey,34,2/26/21,0.5447
+New Jersey,34,2/27/21,0.5789
+New Jersey,34,2/28/21,0.6058
+New Jersey,34,3/1/21,0.619
+New Jersey,34,3/2/21,0.6888
+New Jersey,34,3/3/21,0.7178
+New Jersey,34,3/4/21,0.738
+New Jersey,34,3/5/21,0.7398
+New Jersey,34,3/6/21,0.7562
+New Jersey,34,3/7/21,0.7538
+New Jersey,34,3/8/21,0.7646
+New Jersey,34,3/9/21,0.7272
+New Jersey,34,3/10/21,0.748
+New Jersey,34,3/11/21,0.8197
+New Jersey,34,3/12/21,0.8262
+New Jersey,34,3/13/21,0.8566
+New Jersey,34,3/14/21,0.8541
+New Jersey,34,3/15/21,0.8703
+New Jersey,34,3/16/21,0.8609
+New Jersey,34,3/17/21,0.8685
+New Jersey,34,3/18/21,0.8234
+New Jersey,34,3/19/21,0.8272
+New Jersey,34,3/20/21,0.8099
+New Jersey,34,3/21/21,0.8304
+New Jersey,34,3/22/21,0.8404
+New Jersey,34,3/23/21,0.7425
+New Jersey,34,3/24/21,0.8473
+New Jersey,34,3/25/21,0.8404
+New Jersey,34,3/26/21,0.8488
+New Jersey,34,3/27/21,0.867
+New Jersey,34,3/28/21,0.9027
+New Jersey,34,3/29/21,0.9144
+New Jersey,34,3/30/21,1.0553
+New Jersey,34,3/31/21,0.9639
+New Jersey,34,4/1/21,1.0528
+New Jersey,34,4/2/21,1.1201
+New Jersey,34,4/3/21,1.1467
+New Jersey,34,4/4/21,1.146
+New Jersey,34,4/5/21,1.1347
+New Jersey,34,4/6/21,1.1054
+New Jersey,34,4/7/21,1.1468
+New Jersey,34,4/8/21,1.1304
+New Jersey,34,4/9/21,1.1197
+New Jersey,34,4/10/21,1.1721
+New Jersey,34,4/11/21,1.1822
+New Jersey,34,4/12/21,1.2285
+New Jersey,34,4/13/21,1.2702
+New Jersey,34,4/14/21,1.2558
+New Jersey,34,4/15/21,1.2086
+New Jersey,34,4/16/21,1.1655
+New Jersey,34,4/17/21,1.1146
+New Jersey,34,4/18/21,1.0919
+New Jersey,34,4/19/21,1.0732
+New Jersey,34,4/20/21,1.0388
+New Jersey,34,4/21/21,1.0219
+New Jersey,34,4/22/21,1.0093
+New Jersey,34,4/23/21,1.0363
+New Jersey,34,4/24/21,1.0262
+New Jersey,34,4/25/21,1.0279
+New Jersey,34,4/26/21,1.0192
+New Jersey,34,4/27/21,1.0244
+New Jersey,34,4/28/21,1.0023
+New Jersey,34,4/29/21,0.9832
+New Jersey,34,4/30/21,0.9358
+New Jersey,34,5/1/21,0.8917
+New Jersey,34,5/2/21,0.839
+New Jersey,34,5/3/21,0.7954
+New Jersey,34,5/4/21,0.7497
+New Jersey,34,5/5/21,0.7517
+New Jersey,34,5/6/21,0.7406
+New Jersey,34,5/7/21,0.7584
+New Jersey,34,5/8/21,0.7677
+New Jersey,34,5/9/21,0.8107
+New Jersey,34,5/10/21,0.8536
+New Mexico,35,1/13/21,0.1726
+New Mexico,35,1/14/21,0.2666
+New Mexico,35,1/15/21,0.3349
+New Mexico,35,1/16/21,0.367
+New Mexico,35,1/17/21,0.3862
+New Mexico,35,1/18/21,0.399
+New Mexico,35,1/19/21,0.4082
+New Mexico,35,1/20/21,0.4186
+New Mexico,35,1/21/21,0.4296
+New Mexico,35,1/22/21,0.4275
+New Mexico,35,1/23/21,0.5156
+New Mexico,35,1/24/21,0.5546
+New Mexico,35,1/25/21,0.5194
+New Mexico,35,1/26/21,0.4905
+New Mexico,35,1/27/21,0.5026
+New Mexico,35,1/28/21,0.4921
+New Mexico,35,1/29/21,0.5226
+New Mexico,35,1/30/21,0.4335
+New Mexico,35,1/31/21,0.4361
+New Mexico,35,2/1/21,0.4807
+New Mexico,35,2/2/21,0.4597
+New Mexico,35,2/3/21,0.4616
+New Mexico,35,2/4/21,0.4761
+New Mexico,35,2/5/21,0.4646
+New Mexico,35,2/6/21,0.5061
+New Mexico,35,2/7/21,0.4609
+New Mexico,35,2/8/21,0.4603
+New Mexico,35,2/9/21,0.4663
+New Mexico,35,2/10/21,0.4755
+New Mexico,35,2/11/21,0.513
+New Mexico,35,2/12/21,0.5577
+New Mexico,35,2/13/21,0.5267
+New Mexico,35,2/14/21,0.6001
+New Mexico,35,2/15/21,0.6052
+New Mexico,35,2/16/21,0.6629
+New Mexico,35,2/17/21,0.6319
+New Mexico,35,2/18/21,0.5871
+New Mexico,35,2/19/21,1.1839
+New Mexico,35,2/20/21,1.2196
+New Mexico,35,2/21/21,1.1996
+New Mexico,35,2/22/21,1.1794
+New Mexico,35,2/23/21,1.1523
+New Mexico,35,2/24/21,1.167
+New Mexico,35,2/25/21,1.2182
+New Mexico,35,2/26/21,0.6441
+New Mexico,35,2/27/21,0.6756
+New Mexico,35,2/28/21,0.7466
+New Mexico,35,3/1/21,0.7282
+New Mexico,35,3/2/21,0.7425
+New Mexico,35,3/3/21,0.7989
+New Mexico,35,3/4/21,0.743
+New Mexico,35,3/5/21,0.7416
+New Mexico,35,3/6/21,0.8382
+New Mexico,35,3/7/21,0.7392
+New Mexico,35,3/8/21,0.833
+New Mexico,35,3/9/21,0.8007
+New Mexico,35,3/10/21,0.7134
+New Mexico,35,3/11/21,0.8434
+New Mexico,35,3/12/21,0.8831
+New Mexico,35,3/13/21,0.764
+New Mexico,35,3/14/21,0.873
+New Mexico,35,3/15/21,0.8086
+New Mexico,35,3/16/21,0.8958
+New Mexico,35,3/17/21,0.9748
+New Mexico,35,3/18/21,0.929
+New Mexico,35,3/19/21,0.924
+New Mexico,35,3/20/21,1.0009
+New Mexico,35,3/21/21,0.9742
+New Mexico,35,3/22/21,0.9922
+New Mexico,35,3/23/21,0.8933
+New Mexico,35,3/24/21,0.8714
+New Mexico,35,3/25/21,0.8934
+New Mexico,35,3/26/21,0.8916
+New Mexico,35,3/27/21,0.8928
+New Mexico,35,3/28/21,0.9516
+New Mexico,35,3/29/21,0.9615
+New Mexico,35,3/30/21,0.9585
+New Mexico,35,3/31/21,0.9974
+New Mexico,35,4/1/21,0.9938
+New Mexico,35,4/2/21,1.0243
+New Mexico,35,4/3/21,1.028
+New Mexico,35,4/4/21,0.958
+New Mexico,35,4/5/21,0.9178
+New Mexico,35,4/6/21,0.9181
+New Mexico,35,4/7/21,0.8597
+New Mexico,35,4/8/21,0.9279
+New Mexico,35,4/9/21,0.9262
+New Mexico,35,4/10/21,0.9252
+New Mexico,35,4/11/21,0.9365
+New Mexico,35,4/12/21,0.9552
+New Mexico,35,4/13/21,0.9547
+New Mexico,35,4/14/21,0.996
+New Mexico,35,4/15/21,0.9127
+New Mexico,35,4/16/21,0.8837
+New Mexico,35,4/17/21,0.8749
+New Mexico,35,4/18/21,0.8472
+New Mexico,35,4/19/21,0.8581
+New Mexico,35,4/20/21,0.8628
+New Mexico,35,4/21/21,0.8561
+New Mexico,35,4/22/21,0.8421
+New Mexico,35,4/23/21,0.8303
+New Mexico,35,4/24/21,0.7889
+New Mexico,35,4/25/21,0.7677
+New Mexico,35,4/26/21,0.724
+New Mexico,35,4/27/21,0.7194
+New Mexico,35,4/28/21,0.7071
+New Mexico,35,4/29/21,0.6779
+New Mexico,35,4/30/21,0.642
+New Mexico,35,5/1/21,0.6474
+New Mexico,35,5/2/21,0.6493
+New Mexico,35,5/3/21,0.7083
+New Mexico,35,5/4/21,0.6992
+New Mexico,35,5/5/21,0.6876
+New Mexico,35,5/6/21,0.7006
+New Mexico,35,5/7/21,0.6854
+New Mexico,35,5/8/21,0.6682
+New Mexico,35,5/9/21,0.6274
+New Mexico,35,5/10/21,0.6004
+New York,36,1/13/21,0.2721
+New York,36,1/14/21,0.2803
+New York,36,1/15/21,0.3049
+New York,36,1/16/21,0.3067
+New York,36,1/17/21,0.3078
+New York,36,1/18/21,0.3085
+New York,36,1/19/21,0.309
+New York,36,1/20/21,0.304
+New York,36,1/21/21,0.3142
+New York,36,1/22/21,0.3279
+New York,36,1/23/21,0.341
+New York,36,1/24/21,0.3573
+New York,36,1/25/21,0.3515
+New York,36,1/26/21,0.3331
+New York,36,1/27/21,0.3468
+New York,36,1/28/21,0.3775
+New York,36,1/29/21,0.3666
+New York,36,1/30/21,0.3741
+New York,36,1/31/21,0.3746
+New York,36,2/1/21,0.374
+New York,36,2/2/21,0.3763
+New York,36,2/3/21,0.3558
+New York,36,2/4/21,0.3156
+New York,36,2/5/21,0.3151
+New York,36,2/6/21,0.3183
+New York,36,2/7/21,0.3388
+New York,36,2/8/21,0.3601
+New York,36,2/9/21,0.349
+New York,36,2/10/21,0.3912
+New York,36,2/11/21,0.4116
+New York,36,2/12/21,0.4261
+New York,36,2/13/21,0.4377
+New York,36,2/14/21,0.432
+New York,36,2/15/21,0.4404
+New York,36,2/16/21,0.4911
+New York,36,2/17/21,0.4718
+New York,36,2/18/21,0.4649
+New York,36,2/19/21,0.5397
+New York,36,2/20/21,0.5248
+New York,36,2/21/21,0.5117
+New York,36,2/22/21,0.5095
+New York,36,2/23/21,0.4863
+New York,36,2/24/21,0.472
+New York,36,2/25/21,0.4593
+New York,36,2/26/21,0.3728
+New York,36,2/27/21,0.3851
+New York,36,2/28/21,0.443
+New York,36,3/1/21,0.4728
+New York,36,3/2/21,0.531
+New York,36,3/3/21,0.5776
+New York,36,3/4/21,0.6253
+New York,36,3/5/21,0.6678
+New York,36,3/6/21,0.721
+New York,36,3/7/21,0.7434
+New York,36,3/8/21,0.779
+New York,36,3/9/21,0.756
+New York,36,3/10/21,0.7961
+New York,36,3/11/21,0.8152
+New York,36,3/12/21,0.8336
+New York,36,3/13/21,0.92
+New York,36,3/14/21,0.7765
+New York,36,3/15/21,0.7543
+New York,36,3/16/21,0.7685
+New York,36,3/17/21,0.7408
+New York,36,3/18/21,0.7436
+New York,36,3/19/21,0.738
+New York,36,3/20/21,0.6541
+New York,36,3/21/21,0.7906
+New York,36,3/22/21,0.7927
+New York,36,3/23/21,0.825
+New York,36,3/24/21,0.8346
+New York,36,3/25/21,0.8319
+New York,36,3/26/21,0.8735
+New York,36,3/27/21,0.9179
+New York,36,3/28/21,0.9421
+New York,36,3/29/21,0.9839
+New York,36,3/30/21,0.9754
+New York,36,3/31/21,1.0465
+New York,36,4/1/21,1.0333
+New York,36,4/2/21,1.2631
+New York,36,4/3/21,1.3552
+New York,36,4/4/21,1.3696
+New York,36,4/5/21,1.3051
+New York,36,4/6/21,1.2762
+New York,36,4/7/21,1.2962
+New York,36,4/8/21,1.3583
+New York,36,4/9/21,1.1787
+New York,36,4/10/21,1.1237
+New York,36,4/11/21,1.1334
+New York,36,4/12/21,1.177
+New York,36,4/13/21,1.2309
+New York,36,4/14/21,1.1796
+New York,36,4/15/21,1.1755
+New York,36,4/16/21,1.1349
+New York,36,4/17/21,1.0764
+New York,36,4/18/21,1.0787
+New York,36,4/19/21,1.053
+New York,36,4/20/21,1.0224
+New York,36,4/21/21,1.0065
+New York,36,4/22/21,0.9751
+New York,36,4/23/21,0.9619
+New York,36,4/24/21,0.9502
+New York,36,4/25/21,0.8821
+New York,36,4/26/21,0.8664
+New York,36,4/27/21,0.8464
+New York,36,4/28/21,0.8504
+New York,36,4/29/21,0.9098
+New York,36,4/30/21,0.9266
+New York,36,5/1/21,0.9455
+New York,36,5/2/21,0.9161
+New York,36,5/3/21,0.8874
+New York,36,5/4/21,0.8784
+New York,36,5/5/21,0.875
+New York,36,5/6/21,0.8385
+New York,36,5/7/21,0.7819
+New York,36,5/8/21,0.7402
+New York,36,5/9/21,0.7737
+New York,36,5/10/21,0.8106
+North Carolina,37,1/13/21,0.5275
+North Carolina,37,1/14/21,0.2698
+North Carolina,37,1/15/21,0.2899
+North Carolina,37,1/16/21,0.2758
+North Carolina,37,1/17/21,0.2673
+North Carolina,37,1/18/21,0.2617
+North Carolina,37,1/19/21,0.2577
+North Carolina,37,1/20/21,0.2187
+North Carolina,37,1/21/21,0.2793
+North Carolina,37,1/22/21,0.3025
+North Carolina,37,1/23/21,0.3401
+North Carolina,37,1/24/21,0.3877
+North Carolina,37,1/25/21,0.4083
+North Carolina,37,1/26/21,0.4072
+North Carolina,37,1/27/21,0.394
+North Carolina,37,1/28/21,0.5128
+North Carolina,37,1/29/21,0.4445
+North Carolina,37,1/30/21,0.4382
+North Carolina,37,1/31/21,0.4294
+North Carolina,37,2/1/21,0.4082
+North Carolina,37,2/2/21,0.3765
+North Carolina,37,2/3/21,0.4222
+North Carolina,37,2/4/21,0.291
+North Carolina,37,2/5/21,0.3526
+North Carolina,37,2/6/21,0.3712
+North Carolina,37,2/7/21,0.3962
+North Carolina,37,2/8/21,0.4067
+North Carolina,37,2/9/21,0.4241
+North Carolina,37,2/10/21,0.4214
+North Carolina,37,2/11/21,0.4348
+North Carolina,37,2/12/21,0.4595
+North Carolina,37,2/13/21,0.4797
+North Carolina,37,2/14/21,0.5106
+North Carolina,37,2/15/21,0.5132
+North Carolina,37,2/16/21,0.5412
+North Carolina,37,2/17/21,0.5431
+North Carolina,37,2/18/21,0.5443
+North Carolina,37,2/19/21,0.6971
+North Carolina,37,2/20/21,0.6611
+North Carolina,37,2/21/21,0.6144
+North Carolina,37,2/22/21,0.6184
+North Carolina,37,2/23/21,0.5903
+North Carolina,37,2/24/21,0.5852
+North Carolina,37,2/25/21,0.5832
+North Carolina,37,2/26/21,0.4433
+North Carolina,37,2/27/21,0.4866
+North Carolina,37,2/28/21,0.5438
+North Carolina,37,3/1/21,0.5727
+North Carolina,37,3/2/21,0.5815
+North Carolina,37,3/3/21,0.6026
+North Carolina,37,3/4/21,0.6144
+North Carolina,37,3/5/21,0.539
+North Carolina,37,3/6/21,0.5377
+North Carolina,37,3/7/21,0.4943
+North Carolina,37,3/8/21,0.4854
+North Carolina,37,3/9/21,0.4959
+North Carolina,37,3/10/21,0.5069
+North Carolina,37,3/11/21,0.5266
+North Carolina,37,3/12/21,0.6613
+North Carolina,37,3/13/21,0.8593
+North Carolina,37,3/14/21,0.7952
+North Carolina,37,3/15/21,0.8153
+North Carolina,37,3/16/21,0.8923
+North Carolina,37,3/17/21,0.8873
+North Carolina,37,3/18/21,0.9218
+North Carolina,37,3/19/21,0.8816
+North Carolina,37,3/20/21,0.6969
+North Carolina,37,3/21/21,0.8014
+North Carolina,37,3/22/21,0.7949
+North Carolina,37,3/23/21,0.7191
+North Carolina,37,3/24/21,0.7311
+North Carolina,37,3/25/21,0.7017
+North Carolina,37,3/26/21,0.7229
+North Carolina,37,3/27/21,0.7535
+North Carolina,37,3/28/21,0.745
+North Carolina,37,3/29/21,0.7251
+North Carolina,37,3/30/21,0.7045
+North Carolina,37,3/31/21,0.7141
+North Carolina,37,4/1/21,0.7373
+North Carolina,37,4/2/21,0.7064
+North Carolina,37,4/3/21,0.7514
+North Carolina,37,4/4/21,0.6921
+North Carolina,37,4/5/21,0.6856
+North Carolina,37,4/6/21,0.6934
+North Carolina,37,4/7/21,0.6861
+North Carolina,37,4/8/21,0.6959
+North Carolina,37,4/9/21,0.7351
+North Carolina,37,4/10/21,0.7069
+North Carolina,37,4/11/21,0.7939
+North Carolina,37,4/12/21,0.8376
+North Carolina,37,4/13/21,0.8622
+North Carolina,37,4/14/21,0.8845
+North Carolina,37,4/15/21,0.8773
+North Carolina,37,4/16/21,0.8742
+North Carolina,37,4/17/21,0.8457
+North Carolina,37,4/18/21,0.8221
+North Carolina,37,4/19/21,0.7978
+North Carolina,37,4/20/21,0.7872
+North Carolina,37,4/21/21,0.7514
+North Carolina,37,4/22/21,0.7352
+North Carolina,37,4/23/21,0.7161
+North Carolina,37,4/24/21,0.6845
+North Carolina,37,4/25/21,0.6587
+North Carolina,37,4/26/21,0.6367
+North Carolina,37,4/27/21,0.6607
+North Carolina,37,4/28/21,0.5896
+North Carolina,37,4/29/21,0.5613
+North Carolina,37,4/30/21,0.5606
+North Carolina,37,5/1/21,0.5828
+North Carolina,37,5/2/21,0.6001
+North Carolina,37,5/3/21,0.5888
+North Carolina,37,5/4/21,0.5624
+North Carolina,37,5/5/21,0.5958
+North Carolina,37,5/6/21,0.5862
+North Carolina,37,5/7/21,0.5421
+North Carolina,37,5/8/21,0.4869
+North Carolina,37,5/9/21,0.4493
+North Carolina,37,5/10/21,0.4411
+North Dakota,38,1/13/21,0.1639
+North Dakota,38,1/14/21,0.2163
+North Dakota,38,1/15/21,0.3031
+North Dakota,38,1/16/21,0.311
+North Dakota,38,1/17/21,0.3157
+North Dakota,38,1/18/21,0.3189
+North Dakota,38,1/19/21,0.3211
+North Dakota,38,1/20/21,0.3173
+North Dakota,38,1/21/21,0.3088
+North Dakota,38,1/22/21,0.3317
+North Dakota,38,1/23/21,0.3757
+North Dakota,38,1/24/21,0.4061
+North Dakota,38,1/25/21,0.3971
+North Dakota,38,1/26/21,0.3534
+North Dakota,38,1/27/21,0.3669
+North Dakota,38,1/28/21,0.39
+North Dakota,38,1/29/21,0.4137
+North Dakota,38,1/30/21,0.4235
+North Dakota,38,1/31/21,0.4637
+North Dakota,38,2/1/21,0.4544
+North Dakota,38,2/2/21,0.4599
+North Dakota,38,2/3/21,0.4938
+North Dakota,38,2/4/21,0.5034
+North Dakota,38,2/5/21,0.4996
+North Dakota,38,2/6/21,0.5465
+North Dakota,38,2/7/21,0.542
+North Dakota,38,2/8/21,0.5679
+North Dakota,38,2/9/21,0.5585
+North Dakota,38,2/10/21,0.4958
+North Dakota,38,2/11/21,0.5009
+North Dakota,38,2/12/21,0.498
+North Dakota,38,2/13/21,0.4393
+North Dakota,38,2/14/21,0.4141
+North Dakota,38,2/15/21,0.401
+North Dakota,38,2/16/21,0.4433
+North Dakota,38,2/17/21,0.4511
+North Dakota,38,2/18/21,0.4337
+North Dakota,38,2/19/21,0.8048
+North Dakota,38,2/20/21,0.8308
+North Dakota,38,2/21/21,0.8528
+North Dakota,38,2/22/21,0.8472
+North Dakota,38,2/23/21,0.8089
+North Dakota,38,2/24/21,0.8571
+North Dakota,38,2/25/21,0.884
+North Dakota,38,2/26/21,0.5681
+North Dakota,38,2/27/21,0.6905
+North Dakota,38,2/28/21,0.7461
+North Dakota,38,3/1/21,0.7914
+North Dakota,38,3/2/21,0.7925
+North Dakota,38,3/3/21,0.7755
+North Dakota,38,3/4/21,0.7944
+North Dakota,38,3/5/21,0.7997
+North Dakota,38,3/6/21,0.7274
+North Dakota,38,3/7/21,0.722
+North Dakota,38,3/8/21,0.7011
+North Dakota,38,3/9/21,0.731
+North Dakota,38,3/10/21,0.7419
+North Dakota,38,3/11/21,0.7537
+North Dakota,38,3/12/21,0.7934
+North Dakota,38,3/13/21,0.8355
+North Dakota,38,3/14/21,0.8306
+North Dakota,38,3/15/21,0.8565
+North Dakota,38,3/16/21,0.822
+North Dakota,38,3/17/21,0.8331
+North Dakota,38,3/18/21,0.8253
+North Dakota,38,3/19/21,0.8052
+North Dakota,38,3/20/21,0.7875
+North Dakota,38,3/21/21,0.7537
+North Dakota,38,3/22/21,0.7278
+North Dakota,38,3/23/21,0.7292
+North Dakota,38,3/24/21,0.7114
+North Dakota,38,3/25/21,0.722
+North Dakota,38,3/26/21,0.7313
+North Dakota,38,3/27/21,0.7509
+North Dakota,38,3/28/21,0.7608
+North Dakota,38,3/29/21,0.7709
+North Dakota,38,3/30/21,0.9436
+North Dakota,38,3/31/21,0.9418
+North Dakota,38,4/1/21,0.9459
+North Dakota,38,4/2/21,1.0117
+North Dakota,38,4/3/21,1.0293
+North Dakota,38,4/4/21,0.9611
+North Dakota,38,4/5/21,0.9214
+North Dakota,38,4/6/21,0.7873
+North Dakota,38,4/7/21,0.807
+North Dakota,38,4/8/21,0.8157
+North Dakota,38,4/9/21,0.7701
+North Dakota,38,4/10/21,0.7337
+North Dakota,38,4/11/21,0.7938
+North Dakota,38,4/12/21,0.852
+North Dakota,38,4/13/21,0.8136
+North Dakota,38,4/14/21,0.798
+North Dakota,38,4/15/21,0.7862
+North Dakota,38,4/16/21,0.7077
+North Dakota,38,4/17/21,0.6544
+North Dakota,38,4/18/21,0.6394
+North Dakota,38,4/19/21,0.5931
+North Dakota,38,4/20/21,0.5923
+North Dakota,38,4/21/21,0.5965
+North Dakota,38,4/22/21,0.5535
+North Dakota,38,4/23/21,0.5333
+North Dakota,38,4/24/21,0.5099
+North Dakota,38,4/25/21,0.4822
+North Dakota,38,4/26/21,0.4639
+North Dakota,38,4/27/21,0.4656
+North Dakota,38,4/28/21,0.4395
+North Dakota,38,4/29/21,0.4384
+North Dakota,38,4/30/21,0.4
+North Dakota,38,5/1/21,0.3481
+North Dakota,38,5/2/21,0.2992
+North Dakota,38,5/3/21,0.2802
+North Dakota,38,5/4/21,0.2841
+North Dakota,38,5/5/21,0.2841
+North Dakota,38,5/6/21,0.2555
+North Dakota,38,5/7/21,0.251
+North Dakota,38,5/8/21,0.2648
+North Dakota,38,5/9/21,0.2722
+North Dakota,38,5/10/21,0.2812
+Northern Mariana Islands,69,1/13/21,0.7366
+Northern Mariana Islands,69,1/14/21,0.77
+Northern Mariana Islands,69,1/15/21,0.6962
+Northern Mariana Islands,69,1/16/21,0.6821
+Northern Mariana Islands,69,1/17/21,0.6751
+Northern Mariana Islands,69,1/18/21,0.6698
+Northern Mariana Islands,69,1/19/21,0.6663
+Northern Mariana Islands,69,1/20/21,0.6663
+Northern Mariana Islands,69,1/21/21,0.6804
+Northern Mariana Islands,69,1/22/21,0.7067
+Northern Mariana Islands,69,1/23/21,0.6944
+Northern Mariana Islands,69,1/24/21,0.6909
+Northern Mariana Islands,69,1/25/21,0.6259
+Northern Mariana Islands,69,1/26/21,0.5942
+Northern Mariana Islands,69,1/27/21,0.5608
+Northern Mariana Islands,69,1/28/21,0.487
+Northern Mariana Islands,69,1/29/21,0.4588
+Northern Mariana Islands,69,1/30/21,0.4254
+Northern Mariana Islands,69,1/31/21,0.4167
+Northern Mariana Islands,69,2/1/21,0.4149
+Northern Mariana Islands,69,2/2/21,0.4184
+Northern Mariana Islands,69,2/3/21,0.4096
+Northern Mariana Islands,69,2/4/21,0.4307
+Northern Mariana Islands,69,2/5/21,0.4483
+Northern Mariana Islands,69,2/6/21,0.494
+Northern Mariana Islands,69,2/7/21,0.4624
+Northern Mariana Islands,69,2/8/21,0.443
+Northern Mariana Islands,69,2/9/21,0.4659
+Northern Mariana Islands,69,2/10/21,0.4712
+Northern Mariana Islands,69,2/11/21,0.443
+Northern Mariana Islands,69,2/12/21,0.4114
+Northern Mariana Islands,69,2/13/21,0.4254
+Northern Mariana Islands,69,2/14/21,0.4676
+Northern Mariana Islands,69,2/15/21,0.545
+Northern Mariana Islands,69,2/16/21,0.5415
+Northern Mariana Islands,69,2/17/21,0.5555
+Northern Mariana Islands,69,2/18/21,0.5995
+Northern Mariana Islands,69,2/19/21,0.6417
+Northern Mariana Islands,69,2/20/21,0.5344
+Northern Mariana Islands,69,2/21/21,0.545
+Northern Mariana Islands,69,2/22/21,0.5028
+Northern Mariana Islands,69,2/23/21,0.4922
+Northern Mariana Islands,69,2/24/21,0.5854
+Northern Mariana Islands,69,2/25/21,0.5925
+Northern Mariana Islands,69,2/26/21,0.5766
+Northern Mariana Islands,69,2/27/21,0.6522
+Northern Mariana Islands,69,2/28/21,0.6136
+Northern Mariana Islands,69,3/1/21,0.6259
+Northern Mariana Islands,69,3/2/21,0.6311
+Northern Mariana Islands,69,3/3/21,0.5397
+Northern Mariana Islands,69,3/4/21,0.5292
+Northern Mariana Islands,69,3/5/21,0.5239
+Northern Mariana Islands,69,3/6/21,0.5503
+Northern Mariana Islands,69,3/7/21,0.5098
+Northern Mariana Islands,69,3/8/21,0.4553
+Northern Mariana Islands,69,3/9/21,0.4553
+Northern Mariana Islands,69,3/10/21,0.4518
+Northern Mariana Islands,69,3/11/21,0.4377
+Northern Mariana Islands,69,3/12/21,0.436
+Northern Mariana Islands,69,3/13/21,0.4325
+Northern Mariana Islands,69,3/14/21,0.436
+Northern Mariana Islands,69,3/15/21,0.436
+Northern Mariana Islands,69,3/16/21,0.4764
+Northern Mariana Islands,69,3/17/21,0.4799
+Northern Mariana Islands,69,3/18/21,0.4887
+Northern Mariana Islands,69,3/19/21,0.5186
+Northern Mariana Islands,69,3/20/21,0.545
+Northern Mariana Islands,69,3/21/21,0.668
+Northern Mariana Islands,69,3/22/21,0.6927
+Northern Mariana Islands,69,3/23/21,0.654
+Northern Mariana Islands,69,3/24/21,0.6716
+Northern Mariana Islands,69,3/25/21,0.6909
+Northern Mariana Islands,69,3/26/21,0.6909
+Northern Mariana Islands,69,3/27/21,0.6997
+Northern Mariana Islands,69,3/28/21,0.6663
+Northern Mariana Islands,69,3/29/21,0.7261
+Northern Mariana Islands,69,3/30/21,0.7436
+Northern Mariana Islands,69,3/31/21,0.7436
+Northern Mariana Islands,69,4/1/21,0.7296
+Northern Mariana Islands,69,4/2/21,0.6206
+Northern Mariana Islands,69,4/3/21,0.6153
+Northern Mariana Islands,69,4/4/21,0.5907
+Northern Mariana Islands,69,4/5/21,0.5046
+Northern Mariana Islands,69,4/6/21,0.5309
+Northern Mariana Islands,69,4/7/21,0.5467
+Northern Mariana Islands,69,4/8/21,0.5819
+Northern Mariana Islands,69,4/9/21,0.6874
+Northern Mariana Islands,69,4/10/21,0.7015
+Northern Mariana Islands,69,4/11/21,0.777
+Northern Mariana Islands,69,4/12/21,0.777
+Northern Mariana Islands,69,4/13/21,0.7665
+Northern Mariana Islands,69,4/14/21,0.7647
+Northern Mariana Islands,69,4/15/21,0.77
+Northern Mariana Islands,69,4/16/21,0.77
+Northern Mariana Islands,69,4/17/21,0.7806
+Northern Mariana Islands,69,4/18/21,0.7964
+Northern Mariana Islands,69,4/19/21,0.821
+Northern Mariana Islands,69,4/20/21,0.8087
+Northern Mariana Islands,69,4/21/21,0.7718
+Northern Mariana Islands,69,4/22/21,0.7384
+Northern Mariana Islands,69,4/23/21,0.712
+Northern Mariana Islands,69,4/24/21,0.6698
+Northern Mariana Islands,69,4/25/21,0.5714
+Northern Mariana Islands,69,4/26/21,0.5837
+Northern Mariana Islands,69,4/27/21,0.5925
+Northern Mariana Islands,69,4/28/21,0.61
+Northern Mariana Islands,69,4/29/21,0.6241
+Northern Mariana Islands,69,4/30/21,0.6364
+Northern Mariana Islands,69,5/1/21,0.6083
+Northern Mariana Islands,69,5/2/21,0.6294
+Northern Mariana Islands,69,5/3/21,0.5925
+Northern Mariana Islands,69,5/4/21,0.5925
+Northern Mariana Islands,69,5/5/21,0.5889
+Northern Mariana Islands,69,5/6/21,0.5819
+Northern Mariana Islands,69,5/7/21,0.5678
+Northern Mariana Islands,69,5/8/21,0.5854
+Northern Mariana Islands,69,5/9/21,0.5573
+Northern Mariana Islands,69,5/10/21,0.5573
+Ohio,39,1/13/21,0.1491
+Ohio,39,1/14/21,0.1563
+Ohio,39,1/15/21,0.1812
+Ohio,39,1/16/21,0.1876
+Ohio,39,1/17/21,0.1914
+Ohio,39,1/18/21,0.194
+Ohio,39,1/19/21,0.1958
+Ohio,39,1/20/21,0.1933
+Ohio,39,1/21/21,0.1699
+Ohio,39,1/22/21,0.2079
+Ohio,39,1/23/21,0.2387
+Ohio,39,1/24/21,0.273
+Ohio,39,1/25/21,0.2905
+Ohio,39,1/26/21,0.2884
+Ohio,39,1/27/21,0.3163
+Ohio,39,1/28/21,0.3696
+Ohio,39,1/29/21,0.3637
+Ohio,39,1/30/21,0.3863
+Ohio,39,1/31/21,0.3751
+Ohio,39,2/1/21,0.3899
+Ohio,39,2/2/21,0.412
+Ohio,39,2/3/21,0.4145
+Ohio,39,2/4/21,0.4133
+Ohio,39,2/5/21,0.4084
+Ohio,39,2/6/21,0.4051
+Ohio,39,2/7/21,0.4155
+Ohio,39,2/8/21,0.4176
+Ohio,39,2/9/21,0.4016
+Ohio,39,2/10/21,0.3924
+Ohio,39,2/11/21,0.4046
+Ohio,39,2/12/21,0.4439
+Ohio,39,2/13/21,0.453
+Ohio,39,2/14/21,0.4864
+Ohio,39,2/15/21,0.4853
+Ohio,39,2/16/21,0.5148
+Ohio,39,2/17/21,0.5118
+Ohio,39,2/18/21,0.4916
+Ohio,39,2/19/21,0.5613
+Ohio,39,2/20/21,0.5547
+Ohio,39,2/21/21,0.5485
+Ohio,39,2/22/21,0.5538
+Ohio,39,2/23/21,0.5301
+Ohio,39,2/24/21,0.5658
+Ohio,39,2/25/21,0.599
+Ohio,39,2/26/21,0.5053
+Ohio,39,2/27/21,0.5315
+Ohio,39,2/28/21,0.5611
+Ohio,39,3/1/21,0.5674
+Ohio,39,3/2/21,0.6043
+Ohio,39,3/3/21,0.6134
+Ohio,39,3/4/21,0.6097
+Ohio,39,3/5/21,0.6171
+Ohio,39,3/6/21,0.6421
+Ohio,39,3/7/21,0.6495
+Ohio,39,3/8/21,0.6635
+Ohio,39,3/9/21,0.6508
+Ohio,39,3/10/21,0.6434
+Ohio,39,3/11/21,0.6607
+Ohio,39,3/12/21,0.7039
+Ohio,39,3/13/21,0.7297
+Ohio,39,3/14/21,0.7343
+Ohio,39,3/15/21,0.7523
+Ohio,39,3/16/21,0.7421
+Ohio,39,3/17/21,0.7479
+Ohio,39,3/18/21,0.7669
+Ohio,39,3/19/21,0.7705
+Ohio,39,3/20/21,0.7526
+Ohio,39,3/21/21,0.7728
+Ohio,39,3/22/21,0.7671
+Ohio,39,3/23/21,0.7783
+Ohio,39,3/24/21,0.7989
+Ohio,39,3/25/21,0.8076
+Ohio,39,3/26/21,0.8325
+Ohio,39,3/27/21,0.8629
+Ohio,39,3/28/21,0.868
+Ohio,39,3/29/21,0.8813
+Ohio,39,3/30/21,0.8792
+Ohio,39,3/31/21,0.8719
+Ohio,39,4/1/21,0.8815
+Ohio,39,4/2/21,0.8874
+Ohio,39,4/3/21,0.9088
+Ohio,39,4/4/21,0.9119
+Ohio,39,4/5/21,0.8961
+Ohio,39,4/6/21,0.8854
+Ohio,39,4/7/21,0.896
+Ohio,39,4/8/21,0.9254
+Ohio,39,4/9/21,0.9491
+Ohio,39,4/10/21,0.9403
+Ohio,39,4/11/21,0.7819
+Ohio,39,4/12/21,0.9929
+Ohio,39,4/13/21,0.9915
+Ohio,39,4/14/21,1.0006
+Ohio,39,4/15/21,0.9794
+Ohio,39,4/16/21,0.9435
+Ohio,39,4/17/21,0.9382
+Ohio,39,4/18/21,1.0745
+Ohio,39,4/19/21,0.8599
+Ohio,39,4/20/21,0.8729
+Ohio,39,4/21/21,0.867
+Ohio,39,4/22/21,0.8497
+Ohio,39,4/23/21,0.8542
+Ohio,39,4/24/21,0.8159
+Ohio,39,4/25/21,0.8104
+Ohio,39,4/26/21,0.8004
+Ohio,39,4/27/21,0.7956
+Ohio,39,4/28/21,0.7669
+Ohio,39,4/29/21,0.7351
+Ohio,39,4/30/21,0.7174
+Ohio,39,5/1/21,0.6933
+Ohio,39,5/2/21,0.6446
+Ohio,39,5/3/21,0.5999
+Ohio,39,5/4/21,0.5591
+Ohio,39,5/5/21,0.5358
+Ohio,39,5/6/21,0.5305
+Ohio,39,5/7/21,0.5066
+Ohio,39,5/8/21,0.4792
+Ohio,39,5/9/21,0.4886
+Ohio,39,5/10/21,0.5008
+Oklahoma,40,1/13/21,0.368
+Oklahoma,40,1/14/21,0.3718
+Oklahoma,40,1/15/21,0.3839
+Oklahoma,40,1/16/21,0.349
+Oklahoma,40,1/17/21,0.3281
+Oklahoma,40,1/18/21,0.3141
+Oklahoma,40,1/19/21,0.3042
+Oklahoma,40,1/20/21,0.2862
+Oklahoma,40,1/21/21,0.2894
+Oklahoma,40,1/22/21,0.3036
+Oklahoma,40,1/23/21,0.3312
+Oklahoma,40,1/24/21,0.3612
+Oklahoma,40,1/25/21,0.3398
+Oklahoma,40,1/26/21,0.3133
+Oklahoma,40,1/27/21,0.3374
+Oklahoma,40,1/28/21,0.3459
+Oklahoma,40,1/29/21,0.3581
+Oklahoma,40,1/30/21,0.3809
+Oklahoma,40,1/31/21,0.4158
+Oklahoma,40,2/1/21,0.4225
+Oklahoma,40,2/2/21,0.4217
+Oklahoma,40,2/3/21,0.4235
+Oklahoma,40,2/4/21,0.4373
+Oklahoma,40,2/5/21,0.4477
+Oklahoma,40,2/6/21,0.4728
+Oklahoma,40,2/7/21,0.4901
+Oklahoma,40,2/8/21,0.5144
+Oklahoma,40,2/9/21,0.5146
+Oklahoma,40,2/10/21,0.5198
+Oklahoma,40,2/11/21,0.5198
+Oklahoma,40,2/12/21,0.4681
+Oklahoma,40,2/13/21,0.4317
+Oklahoma,40,2/14/21,0.3921
+Oklahoma,40,2/15/21,0.3698
+Oklahoma,40,2/16/21,0.3842
+Oklahoma,40,2/17/21,0.325
+Oklahoma,40,2/18/21,0.2602
+Oklahoma,40,2/19/21,0.6252
+Oklahoma,40,2/20/21,0.614
+Oklahoma,40,2/21/21,0.6629
+Oklahoma,40,2/22/21,0.7319
+Oklahoma,40,2/23/21,0.7653
+Oklahoma,40,2/24/21,0.8629
+Oklahoma,40,2/25/21,0.9642
+Oklahoma,40,2/26/21,0.6952
+Oklahoma,40,2/27/21,0.7801
+Oklahoma,40,2/28/21,0.8282
+Oklahoma,40,3/1/21,0.8225
+Oklahoma,40,3/2/21,0.7873
+Oklahoma,40,3/3/21,0.7667
+Oklahoma,40,3/4/21,0.7722
+Oklahoma,40,3/5/21,0.7472
+Oklahoma,40,3/6/21,0.719
+Oklahoma,40,3/7/21,0.6609
+Oklahoma,40,3/8/21,0.6556
+Oklahoma,40,3/9/21,0.6593
+Oklahoma,40,3/10/21,0.6751
+Oklahoma,40,3/11/21,0.6625
+Oklahoma,40,3/12/21,0.6688
+Oklahoma,40,3/13/21,0.6835
+Oklahoma,40,3/14/21,0.6743
+Oklahoma,40,3/15/21,0.6594
+Oklahoma,40,3/16/21,0.6539
+Oklahoma,40,3/17/21,0.6671
+Oklahoma,40,3/18/21,0.6742
+Oklahoma,40,3/19/21,0.6743
+Oklahoma,40,3/20/21,0.6526
+Oklahoma,40,3/21/21,0.6767
+Oklahoma,40,3/22/21,0.6905
+Oklahoma,40,3/23/21,0.7016
+Oklahoma,40,3/24/21,0.7146
+Oklahoma,40,3/25/21,0.7292
+Oklahoma,40,3/26/21,0.7412
+Oklahoma,40,3/27/21,0.7632
+Oklahoma,40,3/28/21,0.7833
+Oklahoma,40,3/29/21,0.7706
+Oklahoma,40,3/30/21,0.7683
+Oklahoma,40,3/31/21,0.7676
+Oklahoma,40,4/1/21,0.7993
+Oklahoma,40,4/2/21,0.8333
+Oklahoma,40,4/3/21,0.8726
+Oklahoma,40,4/4/21,0.8582
+Oklahoma,40,4/5/21,0.8475
+Oklahoma,40,4/6/21,0.8422
+Oklahoma,40,4/7/21,0.8435
+Oklahoma,40,4/8/21,0.8067
+Oklahoma,40,4/9/21,0.7737
+Oklahoma,40,4/10/21,0.7384
+Oklahoma,40,4/11/21,0.7403
+Oklahoma,40,4/12/21,0.7485
+Oklahoma,40,4/13/21,0.79
+Oklahoma,40,4/14/21,0.696
+Oklahoma,40,4/15/21,0.6754
+Oklahoma,40,4/16/21,0.6504
+Oklahoma,40,4/17/21,0.6158
+Oklahoma,40,4/18/21,0.587
+Oklahoma,40,4/19/21,0.6146
+Oklahoma,40,4/20/21,0.5732
+Oklahoma,40,4/21/21,0.6102
+Oklahoma,40,4/22/21,0.5796
+Oklahoma,40,4/23/21,0.5393
+Oklahoma,40,4/24/21,0.5356
+Oklahoma,40,4/25/21,0.5108
+Oklahoma,40,4/26/21,0.4588
+Oklahoma,40,4/27/21,0.4568
+Oklahoma,40,4/28/21,0.4484
+Oklahoma,40,4/29/21,0.4357
+Oklahoma,40,4/30/21,0.4198
+Oklahoma,40,5/1/21,0.3849
+Oklahoma,40,5/2/21,0.3587
+Oklahoma,40,5/3/21,0.3379
+Oklahoma,40,5/4/21,0.327
+Oklahoma,40,5/5/21,0.314
+Oklahoma,40,5/6/21,0.302
+Oklahoma,40,5/7/21,0.2942
+Oklahoma,40,5/8/21,0.2703
+Oklahoma,40,5/9/21,0.2557
+Oklahoma,40,5/10/21,0.2576
+Oregon,41,1/13/21,0.2481
+Oregon,41,1/14/21,0.2986
+Oregon,41,1/15/21,0.3283
+Oregon,41,1/16/21,0.3511
+Oregon,41,1/17/21,0.3648
+Oregon,41,1/18/21,0.3739
+Oregon,41,1/19/21,0.3804
+Oregon,41,1/20/21,0.345
+Oregon,41,1/21/21,0.2951
+Oregon,41,1/22/21,0.3643
+Oregon,41,1/23/21,0.3611
+Oregon,41,1/24/21,0.3536
+Oregon,41,1/25/21,0.3436
+Oregon,41,1/26/21,0.3087
+Oregon,41,1/27/21,0.3677
+Oregon,41,1/28/21,0.4181
+Oregon,41,1/29/21,0.358
+Oregon,41,1/30/21,0.3791
+Oregon,41,1/31/21,0.4131
+Oregon,41,2/1/21,0.4164
+Oregon,41,2/2/21,0.4411
+Oregon,41,2/3/21,0.4362
+Oregon,41,2/4/21,0.4457
+Oregon,41,2/5/21,0.4327
+Oregon,41,2/6/21,0.4318
+Oregon,41,2/7/21,0.4229
+Oregon,41,2/8/21,0.4431
+Oregon,41,2/9/21,0.4552
+Oregon,41,2/10/21,0.4565
+Oregon,41,2/11/21,0.3965
+Oregon,41,2/12/21,0.3451
+Oregon,41,2/13/21,0.4778
+Oregon,41,2/14/21,0.4694
+Oregon,41,2/15/21,0.4194
+Oregon,41,2/16/21,0.3811
+Oregon,41,2/17/21,0.3514
+Oregon,41,2/18/21,0.4049
+Oregon,41,2/19/21,0.6049
+Oregon,41,2/20/21,0.4872
+Oregon,41,2/21/21,0.5094
+Oregon,41,2/22/21,0.5621
+Oregon,41,2/23/21,0.6088
+Oregon,41,2/24/21,0.5859
+Oregon,41,2/25/21,0.6129
+Oregon,41,2/26/21,0.5427
+Oregon,41,2/27/21,0.5619
+Oregon,41,2/28/21,0.5849
+Oregon,41,3/1/21,0.6091
+Oregon,41,3/2/21,0.5873
+Oregon,41,3/3/21,0.6243
+Oregon,41,3/4/21,0.6216
+Oregon,41,3/5/21,0.5762
+Oregon,41,3/6/21,0.6002
+Oregon,41,3/7/21,0.6044
+Oregon,41,3/8/21,0.5949
+Oregon,41,3/9/21,0.622
+Oregon,41,3/10/21,0.6394
+Oregon,41,3/11/21,0.5648
+Oregon,41,3/12/21,0.5884
+Oregon,41,3/13/21,0.6645
+Oregon,41,3/14/21,0.6558
+Oregon,41,3/15/21,0.6372
+Oregon,41,3/16/21,0.6446
+Oregon,41,3/17/21,0.5937
+Oregon,41,3/18/21,0.6547
+Oregon,41,3/19/21,0.7172
+Oregon,41,3/20/21,0.6433
+Oregon,41,3/21/21,0.6588
+Oregon,41,3/22/21,0.666
+Oregon,41,3/23/21,0.659
+Oregon,41,3/24/21,0.7201
+Oregon,41,3/25/21,0.7586
+Oregon,41,3/26/21,0.7157
+Oregon,41,3/27/21,0.7234
+Oregon,41,3/28/21,0.7178
+Oregon,41,3/29/21,0.7388
+Oregon,41,3/30/21,0.727
+Oregon,41,3/31/21,0.7702
+Oregon,41,4/1/21,0.8013
+Oregon,41,4/2/21,0.8346
+Oregon,41,4/3/21,0.8499
+Oregon,41,4/4/21,0.8843
+Oregon,41,4/5/21,0.8946
+Oregon,41,4/6/21,0.907
+Oregon,41,4/7/21,0.9121
+Oregon,41,4/8/21,0.9037
+Oregon,41,4/9/21,0.9172
+Oregon,41,4/10/21,0.9408
+Oregon,41,4/11/21,0.975
+Oregon,41,4/12/21,0.9805
+Oregon,41,4/13/21,0.9994
+Oregon,41,4/14/21,0.9891
+Oregon,41,4/15/21,1.0002
+Oregon,41,4/16/21,0.9809
+Oregon,41,4/17/21,0.9599
+Oregon,41,4/18/21,0.9265
+Oregon,41,4/19/21,0.9213
+Oregon,41,4/20/21,0.9126
+Oregon,41,4/21/21,0.8982
+Oregon,41,4/22/21,0.7644
+Oregon,41,4/23/21,0.9101
+Oregon,41,4/24/21,0.9157
+Oregon,41,4/25/21,0.9452
+Oregon,41,4/26/21,0.9493
+Oregon,41,4/27/21,0.9569
+Oregon,41,4/28/21,0.964
+Oregon,41,4/29/21,1.1032
+Oregon,41,4/30/21,0.9375
+Oregon,41,5/1/21,0.7705
+Oregon,41,5/2/21,0.8909
+Oregon,41,5/3/21,0.852
+Oregon,41,5/4/21,0.8207
+Oregon,41,5/5/21,0.8209
+Oregon,41,5/6/21,0.7863
+Oregon,41,5/7/21,0.7754
+Oregon,41,5/8/21,0.9606
+Oregon,41,5/9/21,0.8725
+Oregon,41,5/10/21,0.924
+Pennsylvania,42,1/13/21,0.2968
+Pennsylvania,42,1/14/21,0.2674
+Pennsylvania,42,1/15/21,0.2765
+Pennsylvania,42,1/16/21,0.2544
+Pennsylvania,42,1/17/21,0.2411
+Pennsylvania,42,1/18/21,0.2323
+Pennsylvania,42,1/19/21,0.2259
+Pennsylvania,42,1/20/21,0.2106
+Pennsylvania,42,1/21/21,0.2176
+Pennsylvania,42,1/22/21,0.2285
+Pennsylvania,42,1/23/21,0.2496
+Pennsylvania,42,1/24/21,0.2771
+Pennsylvania,42,1/25/21,0.2862
+Pennsylvania,42,1/26/21,0.2856
+Pennsylvania,42,1/27/21,0.3162
+Pennsylvania,42,1/28/21,0.28
+Pennsylvania,42,1/29/21,0.3569
+Pennsylvania,42,1/30/21,0.3756
+Pennsylvania,42,1/31/21,0.3834
+Pennsylvania,42,2/1/21,0.3988
+Pennsylvania,42,2/2/21,0.3968
+Pennsylvania,42,2/3/21,0.3416
+Pennsylvania,42,2/4/21,0.4044
+Pennsylvania,42,2/5/21,0.3334
+Pennsylvania,42,2/6/21,0.3415
+Pennsylvania,42,2/7/21,0.3567
+Pennsylvania,42,2/8/21,0.3428
+Pennsylvania,42,2/9/21,0.3596
+Pennsylvania,42,2/10/21,0.424
+Pennsylvania,42,2/11/21,0.4193
+Pennsylvania,42,2/12/21,0.4434
+Pennsylvania,42,2/13/21,0.3791
+Pennsylvania,42,2/14/21,0.4625
+Pennsylvania,42,2/15/21,0.4309
+Pennsylvania,42,2/16/21,0.3955
+Pennsylvania,42,2/17/21,0.4599
+Pennsylvania,42,2/18/21,0.4556
+Pennsylvania,42,2/19/21,0.5759
+Pennsylvania,42,2/20/21,0.6177
+Pennsylvania,42,2/21/21,0.5407
+Pennsylvania,42,2/22/21,0.5921
+Pennsylvania,42,2/23/21,0.612
+Pennsylvania,42,2/24/21,0.5303
+Pennsylvania,42,2/25/21,0.5436
+Pennsylvania,42,2/26/21,0.4214
+Pennsylvania,42,2/27/21,0.4957
+Pennsylvania,42,2/28/21,0.4966
+Pennsylvania,42,3/1/21,0.5326
+Pennsylvania,42,3/2/21,0.5639
+Pennsylvania,42,3/3/21,0.5838
+Pennsylvania,42,3/4/21,0.6098
+Pennsylvania,42,3/5/21,0.6774
+Pennsylvania,42,3/6/21,0.695
+Pennsylvania,42,3/7/21,0.6332
+Pennsylvania,42,3/8/21,0.5582
+Pennsylvania,42,3/9/21,0.7117
+Pennsylvania,42,3/10/21,0.7693
+Pennsylvania,42,3/11/21,0.782
+Pennsylvania,42,3/12/21,0.6577
+Pennsylvania,42,3/13/21,0.887
+Pennsylvania,42,3/14/21,0.9731
+Pennsylvania,42,3/15/21,1.0577
+Pennsylvania,42,3/16/21,0.9112
+Pennsylvania,42,3/17/21,0.952
+Pennsylvania,42,3/18/21,0.9536
+Pennsylvania,42,3/19/21,0.9528
+Pennsylvania,42,3/20/21,0.6068
+Pennsylvania,42,3/21/21,0.5007
+Pennsylvania,42,3/22/21,0.5191
+Pennsylvania,42,3/23/21,0.9041
+Pennsylvania,42,3/24/21,0.8915
+Pennsylvania,42,3/25/21,0.8185
+Pennsylvania,42,3/26/21,1.0084
+Pennsylvania,42,3/27/21,1.1533
+Pennsylvania,42,3/28/21,1.2895
+Pennsylvania,42,3/29/21,1.2776
+Pennsylvania,42,3/30/21,0.8891
+Pennsylvania,42,3/31/21,0.8556
+Pennsylvania,42,4/1/21,0.9782
+Pennsylvania,42,4/2/21,0.9685
+Pennsylvania,42,4/3/21,0.9822
+Pennsylvania,42,4/4/21,0.9759
+Pennsylvania,42,4/5/21,0.9634
+Pennsylvania,42,4/6/21,0.9539
+Pennsylvania,42,4/7/21,0.8507
+Pennsylvania,42,4/8/21,0.7151
+Pennsylvania,42,4/9/21,0.5982
+Pennsylvania,42,4/10/21,1.0118
+Pennsylvania,42,4/11/21,0.9928
+Pennsylvania,42,4/12/21,1.0383
+Pennsylvania,42,4/13/21,1.1256
+Pennsylvania,42,4/14/21,1.2474
+Pennsylvania,42,4/15/21,1.3858
+Pennsylvania,42,4/16/21,1.4831
+Pennsylvania,42,4/17/21,1.0419
+Pennsylvania,42,4/18/21,1.0691
+Pennsylvania,42,4/19/21,1.0091
+Pennsylvania,42,4/20/21,0.9815
+Pennsylvania,42,4/21/21,1.0427
+Pennsylvania,42,4/22/21,1.0298
+Pennsylvania,42,4/23/21,1.1045
+Pennsylvania,42,4/24/21,1.1599
+Pennsylvania,42,4/25/21,1.127
+Pennsylvania,42,4/26/21,1.1402
+Pennsylvania,42,4/27/21,1.1224
+Pennsylvania,42,4/28/21,1.0365
+Pennsylvania,42,4/29/21,1.0311
+Pennsylvania,42,4/30/21,0.9062
+Pennsylvania,42,5/1/21,0.9013
+Pennsylvania,42,5/2/21,0.8585
+Pennsylvania,42,5/3/21,0.841
+Pennsylvania,42,5/4/21,0.8274
+Pennsylvania,42,5/5/21,0.8156
+Pennsylvania,42,5/6/21,0.7963
+Pennsylvania,42,5/7/21,0.7888
+Pennsylvania,42,5/8/21,0.7131
+Pennsylvania,42,5/9/21,0.7317
+Pennsylvania,42,5/10/21,0.7121
+Puerto Rico,72,1/13/21,0.3091
+Puerto Rico,72,1/14/21,0.3181
+Puerto Rico,72,1/15/21,0.3087
+Puerto Rico,72,1/16/21,0.2812
+Puerto Rico,72,1/17/21,0.2647
+Puerto Rico,72,1/18/21,0.2538
+Puerto Rico,72,1/19/21,0.2459
+Puerto Rico,72,1/20/21,0.2335
+Puerto Rico,72,1/21/21,0.2367
+Puerto Rico,72,1/22/21,0.2567
+Puerto Rico,72,1/23/21,0.2807
+Puerto Rico,72,1/24/21,0.3012
+Puerto Rico,72,1/25/21,0.2882
+Puerto Rico,72,1/26/21,0.2646
+Puerto Rico,72,1/27/21,0.2824
+Puerto Rico,72,1/28/21,0.288
+Puerto Rico,72,1/29/21,0.2808
+Puerto Rico,72,1/30/21,0.281
+Puerto Rico,72,1/31/21,0.2917
+Puerto Rico,72,2/1/21,0.2944
+Puerto Rico,72,2/2/21,0.2897
+Puerto Rico,72,2/3/21,0.2993
+Puerto Rico,72,2/4/21,0.2959
+Puerto Rico,72,2/5/21,0.285
+Puerto Rico,72,2/6/21,0.2847
+Puerto Rico,72,2/7/21,0.225
+Puerto Rico,72,2/8/21,0.2069
+Puerto Rico,72,2/9/21,0.2711
+Puerto Rico,72,2/10/21,0.2581
+Puerto Rico,72,2/11/21,0.2623
+Puerto Rico,72,2/12/21,0.2189
+Puerto Rico,72,2/13/21,0.3182
+Puerto Rico,72,2/14/21,0.3714
+Puerto Rico,72,2/15/21,0.3814
+Puerto Rico,72,2/16/21,0.3271
+Puerto Rico,72,2/17/21,0.3031
+Puerto Rico,72,2/18/21,0.318
+Puerto Rico,72,2/19/21,0.5001
+Puerto Rico,72,2/20/21,0.4146
+Puerto Rico,72,2/21/21,0.4194
+Puerto Rico,72,2/22/21,0.4102
+Puerto Rico,72,2/23/21,0.4172
+Puerto Rico,72,2/24/21,0.4606
+Puerto Rico,72,2/25/21,0.4562
+Puerto Rico,72,2/26/21,0.3919
+Puerto Rico,72,2/27/21,0.3335
+Puerto Rico,72,2/28/21,0.3272
+Puerto Rico,72,3/1/21,0.349
+Puerto Rico,72,3/2/21,0.3322
+Puerto Rico,72,3/3/21,0.3261
+Puerto Rico,72,3/4/21,0.381
+Puerto Rico,72,3/5/21,0.2673
+Puerto Rico,72,3/6/21,0.3287
+Puerto Rico,72,3/7/21,0.3524
+Puerto Rico,72,3/8/21,0.3519
+Puerto Rico,72,3/9/21,0.3608
+Puerto Rico,72,3/10/21,0.4769
+Puerto Rico,72,3/11/21,0.3594
+Puerto Rico,72,3/12/21,0.4561
+Puerto Rico,72,3/13/21,0.6142
+Puerto Rico,72,3/14/21,0.5389
+Puerto Rico,72,3/15/21,0.5173
+Puerto Rico,72,3/16/21,0.5797
+Puerto Rico,72,3/17/21,0.5079
+Puerto Rico,72,3/18/21,0.6199
+Puerto Rico,72,3/19/21,0.6346
+Puerto Rico,72,3/20/21,0.5117
+Puerto Rico,72,3/21/21,0.6151
+Puerto Rico,72,3/22/21,0.6583
+Puerto Rico,72,3/23/21,0.6168
+Puerto Rico,72,3/24/21,0.593
+Puerto Rico,72,3/25/21,0.6188
+Puerto Rico,72,3/26/21,0.6318
+Puerto Rico,72,3/27/21,0.6819
+Puerto Rico,72,3/28/21,0.7051
+Puerto Rico,72,3/29/21,0.715
+Puerto Rico,72,3/30/21,0.7148
+Puerto Rico,72,3/31/21,0.7484
+Puerto Rico,72,4/1/21,0.7255
+Puerto Rico,72,4/2/21,0.7469
+Puerto Rico,72,4/3/21,0.68
+Puerto Rico,72,4/4/21,0.5694
+Puerto Rico,72,4/5/21,0.5468
+Puerto Rico,72,4/6/21,0.5378
+Puerto Rico,72,4/7/21,0.5268
+Puerto Rico,72,4/8/21,0.4945
+Puerto Rico,72,4/9/21,0.4247
+Puerto Rico,72,4/10/21,0.485
+Puerto Rico,72,4/11/21,0.6274
+Puerto Rico,72,4/12/21,0.7612
+Puerto Rico,72,4/13/21,0.8149
+Puerto Rico,72,4/14/21,0.8285
+Puerto Rico,72,4/15/21,1.0889
+Puerto Rico,72,4/16/21,1.1611
+Puerto Rico,72,4/17/21,1.1378
+Puerto Rico,72,4/18/21,1.1174
+Puerto Rico,72,4/19/21,1.0157
+Puerto Rico,72,4/20/21,0.985
+Puerto Rico,72,4/21/21,1.0014
+Puerto Rico,72,4/22/21,0.8257
+Puerto Rico,72,4/23/21,0.8384
+Puerto Rico,72,4/24/21,0.8965
+Puerto Rico,72,4/25/21,0.8876
+Puerto Rico,72,4/26/21,0.8835
+Puerto Rico,72,4/27/21,0.8726
+Puerto Rico,72,4/28/21,0.8955
+Puerto Rico,72,4/29/21,0.884
+Puerto Rico,72,4/30/21,0.8743
+Puerto Rico,72,5/1/21,0.8627
+Puerto Rico,72,5/2/21,0.8897
+Puerto Rico,72,5/3/21,0.8756
+Puerto Rico,72,5/4/21,0.8664
+Puerto Rico,72,5/5/21,0.8554
+Puerto Rico,72,5/6/21,0.8568
+Puerto Rico,72,5/7/21,0.8859
+Puerto Rico,72,5/8/21,0.9544
+Puerto Rico,72,5/9/21,0.9634
+Puerto Rico,72,5/10/21,1.0155
+Rhode Island,44,1/13/21,0.2322
+Rhode Island,44,1/14/21,0.2503
+Rhode Island,44,1/15/21,0.2511
+Rhode Island,44,1/16/21,0.2268
+Rhode Island,44,1/17/21,0.2123
+Rhode Island,44,1/18/21,0.2027
+Rhode Island,44,1/19/21,0.1957
+Rhode Island,44,1/20/21,0.1967
+Rhode Island,44,1/21/21,0.1907
+Rhode Island,44,1/22/21,0.1946
+Rhode Island,44,1/23/21,0.1897
+Rhode Island,44,1/24/21,0.2259
+Rhode Island,44,1/25/21,0.2423
+Rhode Island,44,1/26/21,0.2452
+Rhode Island,44,1/27/21,0.2653
+Rhode Island,44,1/28/21,0.2849
+Rhode Island,44,1/29/21,0.2917
+Rhode Island,44,1/30/21,0.335
+Rhode Island,44,1/31/21,0.3184
+Rhode Island,44,2/1/21,0.3212
+Rhode Island,44,2/2/21,0.3679
+Rhode Island,44,2/3/21,0.3397
+Rhode Island,44,2/4/21,0.3201
+Rhode Island,44,2/5/21,0.3148
+Rhode Island,44,2/6/21,0.3201
+Rhode Island,44,2/7/21,0.3492
+Rhode Island,44,2/8/21,0.3539
+Rhode Island,44,2/9/21,0.304
+Rhode Island,44,2/10/21,0.3167
+Rhode Island,44,2/11/21,0.3243
+Rhode Island,44,2/12/21,0.3366
+Rhode Island,44,2/13/21,0.3381
+Rhode Island,44,2/14/21,0.3248
+Rhode Island,44,2/15/21,0.3183
+Rhode Island,44,2/16/21,0.3363
+Rhode Island,44,2/17/21,0.357
+Rhode Island,44,2/18/21,0.4315
+Rhode Island,44,2/19/21,0.6717
+Rhode Island,44,2/20/21,0.7281
+Rhode Island,44,2/21/21,0.775
+Rhode Island,44,2/22/21,0.8354
+Rhode Island,44,2/23/21,0.8717
+Rhode Island,44,2/24/21,0.9043
+Rhode Island,44,2/25/21,0.9004
+Rhode Island,44,2/26/21,0.7169
+Rhode Island,44,2/27/21,0.7378
+Rhode Island,44,2/28/21,0.7839
+Rhode Island,44,3/1/21,0.856
+Rhode Island,44,3/2/21,0.865
+Rhode Island,44,3/3/21,0.8667
+Rhode Island,44,3/4/21,0.8667
+Rhode Island,44,3/5/21,0.8852
+Rhode Island,44,3/6/21,0.8722
+Rhode Island,44,3/7/21,0.8444
+Rhode Island,44,3/8/21,0.7716
+Rhode Island,44,3/9/21,0.7795
+Rhode Island,44,3/10/21,0.7853
+Rhode Island,44,3/11/21,0.8094
+Rhode Island,44,3/12/21,0.7953
+Rhode Island,44,3/13/21,0.7705
+Rhode Island,44,3/14/21,0.7393
+Rhode Island,44,3/15/21,0.8319
+Rhode Island,44,3/16/21,0.8528
+Rhode Island,44,3/17/21,0.8367
+Rhode Island,44,3/18/21,0.8191
+Rhode Island,44,3/19/21,0.8886
+Rhode Island,44,3/20/21,0.9852
+Rhode Island,44,3/21/21,1.0841
+Rhode Island,44,3/22/21,1.0894
+Rhode Island,44,3/23/21,1.122
+Rhode Island,44,3/24/21,1.1463
+Rhode Island,44,3/25/21,1.1565
+Rhode Island,44,3/26/21,1.1017
+Rhode Island,44,3/27/21,1.0082
+Rhode Island,44,3/28/21,0.9642
+Rhode Island,44,3/29/21,0.9336
+Rhode Island,44,3/30/21,0.9805
+Rhode Island,44,3/31/21,0.9594
+Rhode Island,44,4/1/21,0.931
+Rhode Island,44,4/2/21,1.0332
+Rhode Island,44,4/3/21,1.0916
+Rhode Island,44,4/4/21,1.1492
+Rhode Island,44,4/5/21,1.1885
+Rhode Island,44,4/6/21,1.1937
+Rhode Island,44,4/7/21,1.2087
+Rhode Island,44,4/8/21,1.2452
+Rhode Island,44,4/9/21,1.1264
+Rhode Island,44,4/10/21,1.1374
+Rhode Island,44,4/11/21,1.1504
+Rhode Island,44,4/12/21,1.1169
+Rhode Island,44,4/13/21,1.161
+Rhode Island,44,4/14/21,1.137
+Rhode Island,44,4/15/21,1.1249
+Rhode Island,44,4/16/21,1.1899
+Rhode Island,44,4/17/21,1.1344
+Rhode Island,44,4/18/21,1.0717
+Rhode Island,44,4/19/21,1.0564
+Rhode Island,44,4/20/21,0.9968
+Rhode Island,44,4/21/21,1.0047
+Rhode Island,44,4/22/21,1.033
+Rhode Island,44,4/23/21,0.9891
+Rhode Island,44,4/24/21,1.0819
+Rhode Island,44,4/25/21,1.1194
+Rhode Island,44,4/26/21,1.1375
+Rhode Island,44,4/27/21,1.1434
+Rhode Island,44,4/28/21,1.1523
+Rhode Island,44,4/29/21,1.0798
+Rhode Island,44,4/30/21,1.1368
+Rhode Island,44,5/1/21,1.0808
+Rhode Island,44,5/2/21,1.0196
+Rhode Island,44,5/3/21,0.9251
+Rhode Island,44,5/4/21,0.8275
+Rhode Island,44,5/5/21,0.7857
+Rhode Island,44,5/6/21,0.7936
+Rhode Island,44,5/7/21,0.7459
+Rhode Island,44,5/8/21,0.7037
+Rhode Island,44,5/9/21,0.7202
+Rhode Island,44,5/10/21,0.7479
+South Carolina,45,1/13/21,0.3654
+South Carolina,45,1/14/21,0.3378
+South Carolina,45,1/15/21,0.2639
+South Carolina,45,1/16/21,0.2772
+South Carolina,45,1/17/21,0.2852
+South Carolina,45,1/18/21,0.2906
+South Carolina,45,1/19/21,0.2944
+South Carolina,45,1/20/21,0.2573
+South Carolina,45,1/21/21,0.2602
+South Carolina,45,1/22/21,0.2973
+South Carolina,45,1/23/21,0.3079
+South Carolina,45,1/24/21,0.3449
+South Carolina,45,1/25/21,0.3788
+South Carolina,45,1/26/21,0.3608
+South Carolina,45,1/27/21,0.3729
+South Carolina,45,1/28/21,0.4171
+South Carolina,45,1/29/21,0.4333
+South Carolina,45,1/30/21,0.4403
+South Carolina,45,1/31/21,0.446
+South Carolina,45,2/1/21,0.4312
+South Carolina,45,2/2/21,0.4259
+South Carolina,45,2/3/21,0.4223
+South Carolina,45,2/4/21,0.3815
+South Carolina,45,2/5/21,0.3711
+South Carolina,45,2/6/21,0.3746
+South Carolina,45,2/7/21,0.359
+South Carolina,45,2/8/21,0.3411
+South Carolina,45,2/9/21,0.3191
+South Carolina,45,2/10/21,0.3575
+South Carolina,45,2/11/21,0.3636
+South Carolina,45,2/12/21,0.362
+South Carolina,45,2/13/21,0.3661
+South Carolina,45,2/14/21,0.3753
+South Carolina,45,2/15/21,0.3763
+South Carolina,45,2/16/21,0.4239
+South Carolina,45,2/17/21,0.4089
+South Carolina,45,2/18/21,0.4151
+South Carolina,45,2/19/21,0.5513
+South Carolina,45,2/20/21,0.5686
+South Carolina,45,2/21/21,0.5729
+South Carolina,45,2/22/21,0.5862
+South Carolina,45,2/23/21,0.5623
+South Carolina,45,2/24/21,0.6056
+South Carolina,45,2/25/21,0.6097
+South Carolina,45,2/26/21,0.4918
+South Carolina,45,2/27/21,0.4944
+South Carolina,45,2/28/21,0.488
+South Carolina,45,3/1/21,0.5112
+South Carolina,45,3/2/21,0.5047
+South Carolina,45,3/3/21,0.4897
+South Carolina,45,3/4/21,0.5685
+South Carolina,45,3/5/21,0.5745
+South Carolina,45,3/6/21,0.6287
+South Carolina,45,3/7/21,0.7236
+South Carolina,45,3/8/21,0.7317
+South Carolina,45,3/9/21,0.7611
+South Carolina,45,3/10/21,0.757
+South Carolina,45,3/11/21,0.7184
+South Carolina,45,3/12/21,0.7242
+South Carolina,45,3/13/21,0.8294
+South Carolina,45,3/14/21,0.6553
+South Carolina,45,3/15/21,0.6613
+South Carolina,45,3/16/21,0.6375
+South Carolina,45,3/17/21,0.6271
+South Carolina,45,3/18/21,0.623
+South Carolina,45,3/19/21,0.6388
+South Carolina,45,3/20/21,0.4495
+South Carolina,45,3/21/21,0.5821
+South Carolina,45,3/22/21,0.5996
+South Carolina,45,3/23/21,0.6132
+South Carolina,45,3/24/21,0.6672
+South Carolina,45,3/25/21,0.6663
+South Carolina,45,3/26/21,0.683
+South Carolina,45,3/27/21,0.7549
+South Carolina,45,3/28/21,0.758
+South Carolina,45,3/29/21,0.7608
+South Carolina,45,3/30/21,0.7667
+South Carolina,45,3/31/21,0.7241
+South Carolina,45,4/1/21,0.7356
+South Carolina,45,4/2/21,0.7588
+South Carolina,45,4/3/21,0.6295
+South Carolina,45,4/4/21,0.6629
+South Carolina,45,4/5/21,0.6091
+South Carolina,45,4/6/21,0.6035
+South Carolina,45,4/7/21,0.6423
+South Carolina,45,4/8/21,0.8317
+South Carolina,45,4/9/21,0.8221
+South Carolina,45,4/10/21,0.9627
+South Carolina,45,4/11/21,0.9664
+South Carolina,45,4/12/21,1.0148
+South Carolina,45,4/13/21,1.0149
+South Carolina,45,4/14/21,0.979
+South Carolina,45,4/15/21,0.7884
+South Carolina,45,4/16/21,0.7773
+South Carolina,45,4/17/21,0.7624
+South Carolina,45,4/18/21,0.7074
+South Carolina,45,4/19/21,0.7027
+South Carolina,45,4/20/21,0.7084
+South Carolina,45,4/21/21,0.6927
+South Carolina,45,4/22/21,0.5838
+South Carolina,45,4/23/21,0.5604
+South Carolina,45,4/24/21,0.5333
+South Carolina,45,4/25/21,0.5158
+South Carolina,45,4/26/21,0.4534
+South Carolina,45,4/27/21,0.5553
+South Carolina,45,4/28/21,0.5508
+South Carolina,45,4/29/21,0.6188
+South Carolina,45,4/30/21,0.6107
+South Carolina,45,5/1/21,0.5966
+South Carolina,45,5/2/21,0.5673
+South Carolina,45,5/3/21,0.5657
+South Carolina,45,5/4/21,0.4268
+South Carolina,45,5/5/21,0.4058
+South Carolina,45,5/6/21,0.4139
+South Carolina,45,5/7/21,0.4104
+South Carolina,45,5/8/21,0.3891
+South Carolina,45,5/9/21,0.389
+South Carolina,45,5/10/21,0.4136
+South Dakota,46,1/13/21,0.2277
+South Dakota,46,1/14/21,0.3157
+South Dakota,46,1/15/21,0.3167
+South Dakota,46,1/16/21,0.2659
+South Dakota,46,1/17/21,0.2353
+South Dakota,46,1/18/21,0.215
+South Dakota,46,1/19/21,0.2005
+South Dakota,46,1/20/21,0.1907
+South Dakota,46,1/21/21,0.1792
+South Dakota,46,1/22/21,0.2186
+South Dakota,46,1/23/21,0.3084
+South Dakota,46,1/24/21,0.3445
+South Dakota,46,1/25/21,0.3617
+South Dakota,46,1/26/21,0.3505
+South Dakota,46,1/27/21,0.3951
+South Dakota,46,1/28/21,0.4263
+South Dakota,46,1/29/21,0.4293
+South Dakota,46,1/30/21,0.4142
+South Dakota,46,1/31/21,0.4121
+South Dakota,46,2/1/21,0.4065
+South Dakota,46,2/2/21,0.4066
+South Dakota,46,2/3/21,0.3873
+South Dakota,46,2/4/21,0.3859
+South Dakota,46,2/5/21,0.3934
+South Dakota,46,2/6/21,0.3996
+South Dakota,46,2/7/21,0.4115
+South Dakota,46,2/8/21,0.4099
+South Dakota,46,2/9/21,0.4074
+South Dakota,46,2/10/21,0.4113
+South Dakota,46,2/11/21,0.4207
+South Dakota,46,2/12/21,0.4372
+South Dakota,46,2/13/21,0.443
+South Dakota,46,2/14/21,0.4648
+South Dakota,46,2/15/21,0.46
+South Dakota,46,2/16/21,0.4788
+South Dakota,46,2/17/21,0.4752
+South Dakota,46,2/18/21,0.4754
+South Dakota,46,2/19/21,1.1228
+South Dakota,46,2/20/21,1.1436
+South Dakota,46,2/21/21,1.1707
+South Dakota,46,2/22/21,1.2016
+South Dakota,46,2/23/21,1.2006
+South Dakota,46,2/24/21,1.2409
+South Dakota,46,2/25/21,1.2764
+South Dakota,46,2/26/21,0.6678
+South Dakota,46,2/27/21,0.7015
+South Dakota,46,2/28/21,0.7358
+South Dakota,46,3/1/21,0.7446
+South Dakota,46,3/2/21,0.7323
+South Dakota,46,3/3/21,0.7258
+South Dakota,46,3/4/21,0.7194
+South Dakota,46,3/5/21,0.7239
+South Dakota,46,3/6/21,0.7314
+South Dakota,46,3/7/21,0.7214
+South Dakota,46,3/8/21,0.7137
+South Dakota,46,3/9/21,0.7136
+South Dakota,46,3/10/21,0.717
+South Dakota,46,3/11/21,0.7234
+South Dakota,46,3/12/21,0.7207
+South Dakota,46,3/13/21,0.7442
+South Dakota,46,3/14/21,0.8091
+South Dakota,46,3/15/21,0.8435
+South Dakota,46,3/16/21,0.8583
+South Dakota,46,3/17/21,0.8547
+South Dakota,46,3/18/21,0.8628
+South Dakota,46,3/19/21,0.8784
+South Dakota,46,3/20/21,0.8686
+South Dakota,46,3/21/21,0.8356
+South Dakota,46,3/22/21,0.8005
+South Dakota,46,3/23/21,0.7931
+South Dakota,46,3/24/21,0.8285
+South Dakota,46,3/25/21,0.8421
+South Dakota,46,3/26/21,0.8665
+South Dakota,46,3/27/21,0.9237
+South Dakota,46,3/28/21,0.9319
+South Dakota,46,3/29/21,0.9684
+South Dakota,46,3/30/21,0.977
+South Dakota,46,3/31/21,0.9739
+South Dakota,46,4/1/21,0.9679
+South Dakota,46,4/2/21,0.9421
+South Dakota,46,4/3/21,0.9404
+South Dakota,46,4/4/21,0.9269
+South Dakota,46,4/5/21,0.8944
+South Dakota,46,4/6/21,0.8831
+South Dakota,46,4/7/21,0.8693
+South Dakota,46,4/8/21,0.8911
+South Dakota,46,4/9/21,0.8999
+South Dakota,46,4/10/21,0.8773
+South Dakota,46,4/11/21,0.8803
+South Dakota,46,4/12/21,0.8798
+South Dakota,46,4/13/21,0.885
+South Dakota,46,4/14/21,0.8638
+South Dakota,46,4/15/21,0.8313
+South Dakota,46,4/16/21,0.7867
+South Dakota,46,4/17/21,0.7024
+South Dakota,46,4/18/21,0.6656
+South Dakota,46,4/19/21,0.6614
+South Dakota,46,4/20/21,0.6587
+South Dakota,46,4/21/21,0.643
+South Dakota,46,4/22/21,0.6276
+South Dakota,46,4/23/21,0.6604
+South Dakota,46,4/24/21,0.6713
+South Dakota,46,4/25/21,0.6656
+South Dakota,46,4/26/21,0.6647
+South Dakota,46,4/27/21,0.6632
+South Dakota,46,4/28/21,0.6671
+South Dakota,46,4/29/21,0.6668
+South Dakota,46,4/30/21,0.6207
+South Dakota,46,5/1/21,0.6695
+South Dakota,46,5/2/21,0.5554
+South Dakota,46,5/3/21,0.5079
+South Dakota,46,5/4/21,0.5326
+South Dakota,46,5/5/21,0.5029
+South Dakota,46,5/6/21,0.4588
+South Dakota,46,5/7/21,0.4085
+South Dakota,46,5/8/21,0.3326
+South Dakota,46,5/9/21,0.3348
+South Dakota,46,5/10/21,0.3341
+Tennessee,47,1/13/21,0.197
+Tennessee,47,1/14/21,0.0985
+Tennessee,47,1/15/21,0.2542
+Tennessee,47,1/16/21,0.235
+Tennessee,47,1/17/21,0.2235
+Tennessee,47,1/18/21,0.2158
+Tennessee,47,1/19/21,0.2103
+Tennessee,47,1/20/21,0.1963
+Tennessee,47,1/21/21,0.2321
+Tennessee,47,1/22/21,0.2055
+Tennessee,47,1/23/21,0.2274
+Tennessee,47,1/24/21,0.2604
+Tennessee,47,1/25/21,0.2572
+Tennessee,47,1/26/21,0.2429
+Tennessee,47,1/27/21,0.2701
+Tennessee,47,1/28/21,0.2811
+Tennessee,47,1/29/21,0.3019
+Tennessee,47,1/30/21,0.3138
+Tennessee,47,1/31/21,0.3288
+Tennessee,47,2/1/21,0.3457
+Tennessee,47,2/2/21,0.343
+Tennessee,47,2/3/21,0.356
+Tennessee,47,2/4/21,0.3644
+Tennessee,47,2/5/21,0.361
+Tennessee,47,2/6/21,0.3727
+Tennessee,47,2/7/21,0.3803
+Tennessee,47,2/8/21,0.3719
+Tennessee,47,2/9/21,0.3769
+Tennessee,47,2/10/21,0.3804
+Tennessee,47,2/11/21,0.381
+Tennessee,47,2/12/21,0.3831
+Tennessee,47,2/13/21,0.365
+Tennessee,47,2/14/21,0.3683
+Tennessee,47,2/15/21,0.3646
+Tennessee,47,2/16/21,0.3784
+Tennessee,47,2/17/21,0.3343
+Tennessee,47,2/18/21,0.3096
+Tennessee,47,2/19/21,0.3806
+Tennessee,47,2/20/21,0.3578
+Tennessee,47,2/21/21,0.3139
+Tennessee,47,2/22/21,0.3154
+Tennessee,47,2/23/21,0.3072
+Tennessee,47,2/24/21,0.3692
+Tennessee,47,2/25/21,0.4096
+Tennessee,47,2/26/21,0.3635
+Tennessee,47,2/27/21,0.4261
+Tennessee,47,2/28/21,0.5068
+Tennessee,47,3/1/21,0.5519
+Tennessee,47,3/2/21,0.556
+Tennessee,47,3/3/21,0.5847
+Tennessee,47,3/4/21,0.5908
+Tennessee,47,3/5/21,0.5922
+Tennessee,47,3/6/21,0.5841
+Tennessee,47,3/7/21,0.5757
+Tennessee,47,3/8/21,0.5535
+Tennessee,47,3/9/21,0.5481
+Tennessee,47,3/10/21,0.5355
+Tennessee,47,3/11/21,0.554
+Tennessee,47,3/12/21,0.5682
+Tennessee,47,3/13/21,0.5964
+Tennessee,47,3/14/21,0.5998
+Tennessee,47,3/15/21,0.6132
+Tennessee,47,3/16/21,0.6129
+Tennessee,47,3/17/21,0.6193
+Tennessee,47,3/18/21,0.6214
+Tennessee,47,3/19/21,0.5895
+Tennessee,47,3/20/21,0.5773
+Tennessee,47,3/21/21,0.5799
+Tennessee,47,3/22/21,0.5844
+Tennessee,47,3/23/21,0.597
+Tennessee,47,3/24/21,0.6067
+Tennessee,47,3/25/21,0.6257
+Tennessee,47,3/26/21,0.6751
+Tennessee,47,3/27/21,0.7028
+Tennessee,47,3/28/21,0.7255
+Tennessee,47,3/29/21,0.7328
+Tennessee,47,3/30/21,0.7328
+Tennessee,47,3/31/21,0.7483
+Tennessee,47,4/1/21,0.7778
+Tennessee,47,4/2/21,0.7804
+Tennessee,47,4/3/21,0.8076
+Tennessee,47,4/4/21,0.7523
+Tennessee,47,4/5/21,0.7256
+Tennessee,47,4/6/21,0.7081
+Tennessee,47,4/7/21,0.6979
+Tennessee,47,4/8/21,0.6965
+Tennessee,47,4/9/21,0.6966
+Tennessee,47,4/10/21,0.6811
+Tennessee,47,4/11/21,0.7323
+Tennessee,47,4/12/21,0.7477
+Tennessee,47,4/13/21,0.7624
+Tennessee,47,4/14/21,0.6941
+Tennessee,47,4/15/21,0.6777
+Tennessee,47,4/16/21,0.6751
+Tennessee,47,4/17/21,0.6526
+Tennessee,47,4/18/21,0.6437
+Tennessee,47,4/19/21,0.6219
+Tennessee,47,4/20/21,0.6241
+Tennessee,47,4/21/21,0.6769
+Tennessee,47,4/22/21,0.6643
+Tennessee,47,4/23/21,0.641
+Tennessee,47,4/24/21,0.6312
+Tennessee,47,4/25/21,0.6118
+Tennessee,47,4/26/21,0.6136
+Tennessee,47,4/27/21,0.6099
+Tennessee,47,4/28/21,0.5879
+Tennessee,47,4/29/21,0.5626
+Tennessee,47,4/30/21,0.5391
+Tennessee,47,5/1/21,0.5271
+Tennessee,47,5/2/21,0.5021
+Tennessee,47,5/3/21,0.4865
+Tennessee,47,5/4/21,0.4754
+Tennessee,47,5/5/21,0.4712
+Tennessee,47,5/6/21,0.4925
+Tennessee,47,5/7/21,0.5246
+Tennessee,47,5/8/21,0.5258
+Tennessee,47,5/9/21,0.5263
+Tennessee,47,5/10/21,0.5424
+Texas,48,1/13/21,0.2296
+Texas,48,1/14/21,0.2279
+Texas,48,1/15/21,0.286
+Texas,48,1/16/21,0.267
+Texas,48,1/17/21,0.2557
+Texas,48,1/18/21,0.2481
+Texas,48,1/19/21,0.2427
+Texas,48,1/20/21,0.2432
+Texas,48,1/21/21,0.2468
+Texas,48,1/22/21,0.2387
+Texas,48,1/23/21,0.2496
+Texas,48,1/24/21,0.2371
+Texas,48,1/25/21,0.2271
+Texas,48,1/26/21,0.2532
+Texas,48,1/27/21,0.2476
+Texas,48,1/28/21,0.2771
+Texas,48,1/29/21,0.2833
+Texas,48,1/30/21,0.3019
+Texas,48,1/31/21,0.3181
+Texas,48,2/1/21,0.341
+Texas,48,2/2/21,0.2849
+Texas,48,2/3/21,0.3343
+Texas,48,2/4/21,0.3441
+Texas,48,2/5/21,0.3502
+Texas,48,2/6/21,0.378
+Texas,48,2/7/21,0.4127
+Texas,48,2/8/21,0.4069
+Texas,48,2/9/21,0.4631
+Texas,48,2/10/21,0.4512
+Texas,48,2/11/21,0.4449
+Texas,48,2/12/21,0.4645
+Texas,48,2/13/21,0.4434
+Texas,48,2/14/21,0.4371
+Texas,48,2/15/21,0.4301
+Texas,48,2/16/21,0.4041
+Texas,48,2/17/21,0.3664
+Texas,48,2/18/21,0.3081
+Texas,48,2/19/21,0.3296
+Texas,48,2/20/21,0.2989
+Texas,48,2/21/21,0.2661
+Texas,48,2/22/21,0.2543
+Texas,48,2/23/21,0.268
+Texas,48,2/24/21,0.3014
+Texas,48,2/25/21,0.3811
+Texas,48,2/26/21,0.3599
+Texas,48,2/27/21,0.3844
+Texas,48,2/28/21,0.4398
+Texas,48,3/1/21,0.4244
+Texas,48,3/2/21,0.5697
+Texas,48,3/3/21,0.6245
+Texas,48,3/4/21,0.6266
+Texas,48,3/5/21,0.6494
+Texas,48,3/6/21,0.7067
+Texas,48,3/7/21,0.6757
+Texas,48,3/8/21,0.7385
+Texas,48,3/9/21,0.6618
+Texas,48,3/10/21,0.6593
+Texas,48,3/11/21,0.6659
+Texas,48,3/12/21,0.6968
+Texas,48,3/13/21,0.7055
+Texas,48,3/14/21,0.731
+Texas,48,3/15/21,0.7273
+Texas,48,3/16/21,0.6705
+Texas,48,3/17/21,0.6507
+Texas,48,3/18/21,0.6525
+Texas,48,3/19/21,0.6069
+Texas,48,3/20/21,0.5751
+Texas,48,3/21/21,0.5863
+Texas,48,3/22/21,0.5847
+Texas,48,3/23/21,0.5835
+Texas,48,3/24/21,0.4884
+Texas,48,3/25/21,0.5314
+Texas,48,3/26/21,0.5831
+Texas,48,3/27/21,0.6268
+Texas,48,3/28/21,0.6553
+Texas,48,3/29/21,0.6877
+Texas,48,3/30/21,0.745
+Texas,48,3/31/21,0.8684
+Texas,48,4/1/21,0.8954
+Texas,48,4/2/21,0.9347
+Texas,48,4/3/21,0.9186
+Texas,48,4/4/21,0.9195
+Texas,48,4/5/21,0.9534
+Texas,48,4/6/21,0.956
+Texas,48,4/7/21,0.9505
+Texas,48,4/8/21,0.9238
+Texas,48,4/9/21,0.9369
+Texas,48,4/10/21,1.0449
+Texas,48,4/11/21,1.06
+Texas,48,4/12/21,1.028
+Texas,48,4/13/21,1.0079
+Texas,48,4/14/21,1.0232
+Texas,48,4/15/21,1.0208
+Texas,48,4/16/21,0.9599
+Texas,48,4/17/21,0.8539
+Texas,48,4/18/21,0.7781
+Texas,48,4/19/21,0.785
+Texas,48,4/20/21,0.7525
+Texas,48,4/21/21,0.7171
+Texas,48,4/22/21,0.6945
+Texas,48,4/23/21,0.6778
+Texas,48,4/24/21,0.6715
+Texas,48,4/25/21,0.7095
+Texas,48,4/26/21,0.6644
+Texas,48,4/27/21,0.6641
+Texas,48,4/28/21,0.6552
+Texas,48,4/29/21,0.6477
+Texas,48,4/30/21,0.6612
+Texas,48,5/1/21,0.6445
+Texas,48,5/2/21,0.604
+Texas,48,5/3/21,0.5828
+Texas,48,5/4/21,0.5575
+Texas,48,5/5/21,0.5539
+Texas,48,5/6/21,0.5262
+Texas,48,5/7/21,0.4922
+Texas,48,5/8/21,0.478
+Texas,48,5/9/21,0.4977
+Texas,48,5/10/21,0.5064
+United States,0,12/21/20,0.0174
+United States,0,12/22/20,0.0384
+United States,0,12/23/20,0.0454
+United States,0,12/24/20,0.0575
+United States,0,12/25/20,0.0648
+United States,0,12/26/20,0.0697
+United States,0,12/27/20,0.0637
+United States,0,12/28/20,0.0651
+United States,0,12/29/20,0.071
+United States,0,12/30/20,0.0769
+United States,0,12/31/20,0.084
+United States,0,1/1/21,0.0911
+United States,0,1/2/21,0.0982
+United States,0,1/3/21,0.1015
+United States,0,1/4/21,0.1048
+United States,0,1/5/21,0.1022
+United States,0,1/6/21,0.1081
+United States,0,1/7/21,0.1139
+United States,0,1/8/21,0.1265
+United States,0,1/9/21,0.1389
+United States,0,1/10/21,0.1647
+United States,0,1/11/21,0.1904
+United States,0,1/12/21,0.1932
+United States,0,1/13/21,0.2139
+United States,0,1/14/21,0.225
+United States,0,1/15/21,0.2406
+United States,0,1/16/21,0.2445
+United States,0,1/17/21,0.2484
+United States,0,1/18/21,0.2523
+United States,0,1/19/21,0.2745
+United States,0,1/20/21,0.2688
+United States,0,1/21/21,0.2753
+United States,0,1/22/21,0.2938
+United States,0,1/23/21,0.3185
+United States,0,1/24/21,0.338
+United States,0,1/25/21,0.3392
+United States,0,1/26/21,0.3371
+United States,0,1/27/21,0.3497
+United States,0,1/28/21,0.3721
+United States,0,1/29/21,0.3777
+United States,0,1/30/21,0.389
+United States,0,1/31/21,0.3991
+United States,0,2/1/21,0.4083
+United States,0,2/2/21,0.3976
+United States,0,2/3/21,0.397
+United States,0,2/4/21,0.3877
+United States,0,2/5/21,0.3845
+United States,0,2/6/21,0.4071
+United States,0,2/7/21,0.4341
+United States,0,2/8/21,0.4387
+United States,0,2/9/21,0.4486
+United States,0,2/10/21,0.4687
+United States,0,2/11/21,0.4814
+United States,0,2/12/21,0.4988
+United States,0,2/13/21,0.4993
+United States,0,2/14/21,0.5023
+United States,0,2/15/21,0.5006
+United States,0,2/16/21,0.517
+United States,0,2/17/21,0.4954
+United States,0,2/18/21,0.4883
+United States,0,2/19/21,0.4808
+United States,0,2/20/21,0.4582
+United States,0,2/21/21,0.4392
+United States,0,2/22/21,0.4357
+United States,0,2/23/21,0.4222
+United States,0,2/24/21,0.4382
+United States,0,2/25/21,0.4534
+United States,0,2/26/21,0.4677
+United States,0,2/27/21,0.4956
+United States,0,2/28/21,0.5226
+United States,0,3/1/21,0.5474
+United States,0,3/2/21,0.5852
+United States,0,3/3/21,0.6057
+United States,0,3/4/21,0.6153
+United States,0,3/5/21,0.6263
+United States,0,3/6/21,0.65
+United States,0,3/7/21,0.6504
+United States,0,3/8/21,0.6536
+United States,0,3/9/21,0.6481
+United States,0,3/10/21,0.6532
+United States,0,3/11/21,0.6726
+United States,0,3/12/21,0.6936
+United States,0,3/13/21,0.7656
+United States,0,3/14/21,0.719
+United States,0,3/15/21,0.7312
+United States,0,3/16/21,0.7335
+United States,0,3/17/21,0.7451
+United States,0,3/18/21,0.7541
+United States,0,3/19/21,0.7395
+United States,0,3/20/21,0.6772
+United States,0,3/21/21,0.7496
+United States,0,3/22/21,0.7499
+United States,0,3/23/21,0.7521
+United States,0,3/24/21,0.7503
+United States,0,3/25/21,0.7563
+United States,0,3/26/21,0.7905
+United States,0,3/27/21,0.8063
+United States,0,3/28/21,0.8168
+United States,0,3/29/21,0.8306
+United States,0,3/30/21,0.8341
+United States,0,3/31/21,0.852
+United States,0,4/1/21,0.8746
+United States,0,4/2/21,0.9003
+United States,0,4/3/21,0.9255
+United States,0,4/4/21,0.9291
+United States,0,4/5/21,0.9198
+United States,0,4/6/21,0.9032
+United States,0,4/7/21,0.9124
+United States,0,4/8/21,0.9143
+United States,0,4/9/21,0.9136
+United States,0,4/10/21,0.9372
+United States,0,4/11/21,0.9464
+United States,0,4/12/21,0.9684
+United States,0,4/13/21,1.0194
+United States,0,4/14/21,1.0032
+United States,0,4/15/21,1.0085
+United States,0,4/16/21,1.0088
+United States,0,4/17/21,0.964
+United States,0,4/18/21,0.9621
+United States,0,4/19/21,0.9419
+United States,0,4/20/21,0.9082
+United States,0,4/21/21,0.9105
+United States,0,4/22/21,0.8877
+United States,0,4/23/21,0.8623
+United States,0,4/24/21,0.8506
+United States,0,4/25/21,0.8285
+United States,0,4/26/21,0.8256
+United States,0,4/27/21,0.8184
+United States,0,4/28/21,0.8041
+United States,0,4/29/21,0.7923
+United States,0,4/30/21,0.7675
+United States,0,5/1/21,0.7669
+United States,0,5/2/21,0.7285
+United States,0,5/3/21,0.689
+United States,0,5/4/21,0.661
+United States,0,5/5/21,0.6423
+United States,0,5/6/21,0.6288
+United States,0,5/7/21,0.6291
+United States,0,5/8/21,0.5974
+United States,0,5/9/21,0.6078
+United States,0,5/10/21,0.6377
+Utah,49,1/13/21,0.2748
+Utah,49,1/14/21,0.3144
+Utah,49,1/15/21,0.343
+Utah,49,1/16/21,0.3254
+Utah,49,1/17/21,0.3149
+Utah,49,1/18/21,0.3079
+Utah,49,1/19/21,0.3029
+Utah,49,1/20/21,0.3465
+Utah,49,1/21/21,0.3306
+Utah,49,1/22/21,0.3321
+Utah,49,1/23/21,0.2931
+Utah,49,1/24/21,0.2541
+Utah,49,1/25/21,0.3322
+Utah,49,1/26/21,0.2995
+Utah,49,1/27/21,0.2585
+Utah,49,1/28/21,0.2238
+Utah,49,1/29/21,0.3048
+Utah,49,1/30/21,0.3733
+Utah,49,1/31/21,0.3733
+Utah,49,2/1/21,0.419
+Utah,49,2/2/21,0.4198
+Utah,49,2/3/21,0.378
+Utah,49,2/4/21,0.5065
+Utah,49,2/5/21,0.4695
+Utah,49,2/6/21,0.507
+Utah,49,2/7/21,0.507
+Utah,49,2/8/21,0.8181
+Utah,49,2/9/21,0.8272
+Utah,49,2/10/21,0.8272
+Utah,49,2/11/21,0.6987
+Utah,49,2/12/21,0.5961
+Utah,49,2/13/21,0.4901
+Utah,49,2/14/21,0.4901
+Utah,49,2/15/21,0.066
+Utah,49,2/16/21,0.0997
+Utah,49,2/17/21,0.0997
+Utah,49,2/18/21,0.1848
+Utah,49,2/19/21,0.3314
+Utah,49,2/20/21,0.4447
+Utah,49,2/21/21,0.447
+Utah,49,2/22/21,0.3985
+Utah,49,2/23/21,0.3494
+Utah,49,2/24/21,0.4302
+Utah,49,2/25/21,0.4914
+Utah,49,2/26/21,0.3472
+Utah,49,2/27/21,0.3467
+Utah,49,2/28/21,0.3472
+Utah,49,3/1/21,0.3459
+Utah,49,3/2/21,0.4957
+Utah,49,3/3/21,0.5202
+Utah,49,3/4/21,0.376
+Utah,49,3/5/21,0.5979
+Utah,49,3/6/21,0.6441
+Utah,49,3/7/21,0.6446
+Utah,49,3/8/21,0.647
+Utah,49,3/9/21,0.7028
+Utah,49,3/10/21,0.7004
+Utah,49,3/11/21,0.7012
+Utah,49,3/12/21,0.6623
+Utah,49,3/13/21,0.6474
+Utah,49,3/14/21,0.7768
+Utah,49,3/15/21,0.7792
+Utah,49,3/16/21,0.6711
+Utah,49,3/17/21,0.665
+Utah,49,3/18/21,0.7397
+Utah,49,3/19/21,0.5563
+Utah,49,3/20/21,0.4155
+Utah,49,3/21/21,0.5786
+Utah,49,3/22/21,0.5745
+Utah,49,3/23/21,0.5579
+Utah,49,3/24/21,0.5629
+Utah,49,3/25/21,0.6416
+Utah,49,3/26/21,0.6412
+Utah,49,3/27/21,0.9117
+Utah,49,3/28/21,0.6184
+Utah,49,3/29/21,0.618
+Utah,49,3/30/21,0.7638
+Utah,49,3/31/21,0.6632
+Utah,49,4/1/21,0.7451
+Utah,49,4/2/21,0.7446
+Utah,49,4/3/21,0.8487
+Utah,49,4/4/21,0.8487
+Utah,49,4/5/21,0.9919
+Utah,49,4/6/21,0.8526
+Utah,49,4/7/21,0.963
+Utah,49,4/8/21,0.8573
+Utah,49,4/9/21,1.0407
+Utah,49,4/10/21,0.8741
+Utah,49,4/11/21,0.8739
+Utah,49,4/12/21,0.734
+Utah,49,4/13/21,0.9244
+Utah,49,4/14/21,0.9455
+Utah,49,4/15/21,0.9401
+Utah,49,4/16/21,0.9004
+Utah,49,4/17/21,0.9306
+Utah,49,4/18/21,0.9292
+Utah,49,4/19/21,1.135
+Utah,49,4/20/21,0.8564
+Utah,49,4/21/21,0.8089
+Utah,49,4/22/21,0.8308
+Utah,49,4/23/21,0.8411
+Utah,49,4/24/21,0.7322
+Utah,49,4/25/21,0.7327
+Utah,49,4/26/21,0.5234
+Utah,49,4/27/21,0.6708
+Utah,49,4/28/21,0.6942
+Utah,49,4/29/21,0.6476
+Utah,49,4/30/21,0.493
+Utah,49,5/1/21,0.5895
+Utah,49,5/2/21,0.5893
+Utah,49,5/3/21,0.5895
+Utah,49,5/4/21,0.5893
+Utah,49,5/5/21,0.5894
+Utah,49,5/6/21,0.5663
+Utah,49,5/7/21,0.5659
+Utah,49,5/8/21,0.4266
+Utah,49,5/9/21,0.4264
+Utah,49,5/10/21,0.4267
+Vermont,50,1/13/21,0.6112
+Vermont,50,1/14/21,0.3056
+Vermont,50,1/15/21,0.3587
+Vermont,50,1/16/21,0.3502
+Vermont,50,1/17/21,0.3452
+Vermont,50,1/18/21,0.3418
+Vermont,50,1/19/21,0.3394
+Vermont,50,1/20/21,0.2574
+Vermont,50,1/21/21,0.3037
+Vermont,50,1/22/21,0.32
+Vermont,50,1/23/21,0.3418
+Vermont,50,1/24/21,0.3513
+Vermont,50,1/25/21,0.345
+Vermont,50,1/26/21,0.3167
+Vermont,50,1/27/21,0.3333
+Vermont,50,1/28/21,0.3672
+Vermont,50,1/29/21,0.35
+Vermont,50,1/30/21,0.3285
+Vermont,50,1/31/21,0.3505
+Vermont,50,2/1/21,0.4305
+Vermont,50,2/2/21,0.4489
+Vermont,50,2/3/21,0.4428
+Vermont,50,2/4/21,0.4196
+Vermont,50,2/5/21,0.4194
+Vermont,50,2/6/21,0.4399
+Vermont,50,2/7/21,0.4579
+Vermont,50,2/8/21,0.4098
+Vermont,50,2/9/21,0.4354
+Vermont,50,2/10/21,0.4383
+Vermont,50,2/11/21,0.4513
+Vermont,50,2/12/21,0.4575
+Vermont,50,2/13/21,0.4516
+Vermont,50,2/14/21,0.4489
+Vermont,50,2/15/21,0.4707
+Vermont,50,2/16/21,0.5026
+Vermont,50,2/17/21,0.5059
+Vermont,50,2/18/21,0.487
+Vermont,50,2/19/21,0.6314
+Vermont,50,2/20/21,0.6729
+Vermont,50,2/21/21,0.695
+Vermont,50,2/22/21,0.6994
+Vermont,50,2/23/21,0.6662
+Vermont,50,2/24/21,0.6641
+Vermont,50,2/25/21,0.6787
+Vermont,50,2/26/21,0.5476
+Vermont,50,2/27/21,0.5681
+Vermont,50,2/28/21,0.5819
+Vermont,50,3/1/21,0.6093
+Vermont,50,3/2/21,0.629
+Vermont,50,3/3/21,0.6458
+Vermont,50,3/4/21,0.6396
+Vermont,50,3/5/21,0.642
+Vermont,50,3/6/21,0.6273
+Vermont,50,3/7/21,0.6633
+Vermont,50,3/8/21,0.7026
+Vermont,50,3/9/21,0.7404
+Vermont,50,3/10/21,0.7768
+Vermont,50,3/11/21,0.8309
+Vermont,50,3/12/21,0.868
+Vermont,50,3/13/21,1.0826
+Vermont,50,3/14/21,0.9176
+Vermont,50,3/15/21,0.9249
+Vermont,50,3/16/21,0.913
+Vermont,50,3/17/21,0.9055
+Vermont,50,3/18/21,0.9244
+Vermont,50,3/19/21,0.954
+Vermont,50,3/20/21,0.7901
+Vermont,50,3/21/21,0.9747
+Vermont,50,3/22/21,0.8765
+Vermont,50,3/23/21,0.8992
+Vermont,50,3/24/21,0.9093
+Vermont,50,3/25/21,0.8755
+Vermont,50,3/26/21,0.859
+Vermont,50,3/27/21,0.8499
+Vermont,50,3/28/21,0.82
+Vermont,50,3/29/21,0.8866
+Vermont,50,3/30/21,0.9234
+Vermont,50,3/31/21,0.9632
+Vermont,50,4/1/21,0.9843
+Vermont,50,4/2/21,1.0276
+Vermont,50,4/3/21,1.3002
+Vermont,50,4/4/21,1.1617
+Vermont,50,4/5/21,1.2383
+Vermont,50,4/6/21,1.2104
+Vermont,50,4/7/21,1.1726
+Vermont,50,4/8/21,1.1758
+Vermont,50,4/9/21,1.2141
+Vermont,50,4/10/21,1.0633
+Vermont,50,4/11/21,1.2814
+Vermont,50,4/12/21,1.3217
+Vermont,50,4/13/21,1.4907
+Vermont,50,4/14/21,1.3999
+Vermont,50,4/15/21,1.4451
+Vermont,50,4/16/21,1.4159
+Vermont,50,4/17/21,1.1502
+Vermont,50,4/18/21,1.3305
+Vermont,50,4/19/21,1.2555
+Vermont,50,4/20/21,1.1537
+Vermont,50,4/21/21,1.2667
+Vermont,50,4/22/21,1.2414
+Vermont,50,4/23/21,1.1515
+Vermont,50,4/24/21,1.3524
+Vermont,50,4/25/21,1.1632
+Vermont,50,4/26/21,1.2527
+Vermont,50,4/27/21,1.193
+Vermont,50,4/28/21,1.2119
+Vermont,50,4/29/21,1.229
+Vermont,50,4/30/21,1.2979
+Vermont,50,5/1/21,1.26
+Vermont,50,5/2/21,1.2659
+Vermont,50,5/3/21,1.1939
+Vermont,50,5/4/21,1.1789
+Vermont,50,5/5/21,1.1649
+Vermont,50,5/6/21,1.1473
+Vermont,50,5/7/21,1.1024
+Vermont,50,5/8/21,1.0502
+Vermont,50,5/9/21,1.1781
+Vermont,50,5/10/21,1.1486
+Virgin Islands,78,1/13/21,0.3009
+Virgin Islands,78,1/14/21,0.2598
+Virgin Islands,78,1/15/21,0.2388
+Virgin Islands,78,1/16/21,0.2092
+Virgin Islands,78,1/17/21,0.192
+Virgin Islands,78,1/18/21,0.1796
+Virgin Islands,78,1/19/21,0.171
+Virgin Islands,78,1/20/21,0.1672
+Virgin Islands,78,1/21/21,0.1806
+Virgin Islands,78,1/22/21,0.1968
+Virgin Islands,78,1/23/21,0.2178
+Virgin Islands,78,1/24/21,0.2044
+Virgin Islands,78,1/25/21,0.1901
+Virgin Islands,78,1/26/21,0.2197
+Virgin Islands,78,1/27/21,0.2398
+Virgin Islands,78,1/28/21,0.256
+Virgin Islands,78,1/29/21,0.2981
+Virgin Islands,78,1/30/21,0.3563
+Virgin Islands,78,1/31/21,0.3592
+Virgin Islands,78,2/1/21,0.3707
+Virgin Islands,78,2/2/21,0.4041
+Virgin Islands,78,2/3/21,0.4385
+Virgin Islands,78,2/4/21,0.4901
+Virgin Islands,78,2/5/21,0.4948
+Virgin Islands,78,2/6/21,0.4776
+Virgin Islands,78,2/7/21,0.4738
+Virgin Islands,78,2/8/21,0.4662
+Virgin Islands,78,2/9/21,0.4576
+Virgin Islands,78,2/10/21,0.4547
+Virgin Islands,78,2/11/21,0.4031
+Virgin Islands,78,2/12/21,0.3831
+Virgin Islands,78,2/13/21,0.3707
+Virgin Islands,78,2/14/21,0.384
+Virgin Islands,78,2/15/21,0.385
+Virgin Islands,78,2/16/21,0.321
+Virgin Islands,78,2/17/21,0.3334
+Virgin Islands,78,2/18/21,0.3382
+Virgin Islands,78,2/19/21,0.4308
+Virgin Islands,78,2/20/21,0.4977
+Virgin Islands,78,2/21/21,0.5235
+Virgin Islands,78,2/22/21,0.5235
+Virgin Islands,78,2/23/21,0.6104
+Virgin Islands,78,2/24/21,0.5846
+Virgin Islands,78,2/25/21,0.5636
+Virgin Islands,78,2/26/21,0.5235
+Virgin Islands,78,2/27/21,0.449
+Virgin Islands,78,2/28/21,0.4433
+Virgin Islands,78,3/1/21,0.448
+Virgin Islands,78,3/2/21,0.3878
+Virgin Islands,78,3/3/21,0.3687
+Virgin Islands,78,3/4/21,0.5235
+Virgin Islands,78,3/5/21,0.5025
+Virgin Islands,78,3/6/21,0.5321
+Virgin Islands,78,3/7/21,0.4996
+Virgin Islands,78,3/8/21,0.4891
+Virgin Islands,78,3/9/21,0.5483
+Virgin Islands,78,3/10/21,0.6095
+Virgin Islands,78,3/11/21,0.5111
+Virgin Islands,78,3/12/21,0.5235
+Virgin Islands,78,3/13/21,0.5694
+Virgin Islands,78,3/14/21,0.5703
+Virgin Islands,78,3/15/21,0.5741
+Virgin Islands,78,3/16/21,0.5951
+Virgin Islands,78,3/17/21,0.6305
+Virgin Islands,78,3/18/21,0.6506
+Virgin Islands,78,3/19/21,0.6744
+Virgin Islands,78,3/20/21,0.6668
+Virgin Islands,78,3/21/21,0.6773
+Virgin Islands,78,3/22/21,0.6725
+Virgin Islands,78,3/23/21,0.6993
+Virgin Islands,78,3/24/21,0.7146
+Virgin Islands,78,3/25/21,0.7642
+Virgin Islands,78,3/26/21,0.7537
+Virgin Islands,78,3/27/21,0.7776
+Virgin Islands,78,3/28/21,0.8254
+Virgin Islands,78,3/29/21,0.8282
+Virgin Islands,78,3/30/21,0.8569
+Virgin Islands,78,3/31/21,0.8884
+Virgin Islands,78,4/1/21,0.897
+Virgin Islands,78,4/2/21,0.9085
+Virgin Islands,78,4/3/21,0.8263
+Virgin Islands,78,4/4/21,0.7652
+Virgin Islands,78,4/5/21,0.7595
+Virgin Islands,78,4/6/21,0.7451
+Virgin Islands,78,4/7/21,0.7394
+Virgin Islands,78,4/8/21,0.8024
+Virgin Islands,78,4/9/21,0.8196
+Virgin Islands,78,4/10/21,0.875
+Virgin Islands,78,4/11/21,0.9018
+Virgin Islands,78,4/12/21,0.918
+Virgin Islands,78,4/13/21,0.9219
+Virgin Islands,78,4/14/21,0.897
+Virgin Islands,78,4/15/21,0.812
+Virgin Islands,78,4/16/21,0.7805
+Virgin Islands,78,4/17/21,0.8034
+Virgin Islands,78,4/18/21,0.7996
+Virgin Islands,78,4/19/21,0.7881
+Virgin Islands,78,4/20/21,0.747
+Virgin Islands,78,4/21/21,0.6916
+Virgin Islands,78,4/22/21,0.6037
+Virgin Islands,78,4/23/21,0.5474
+Virgin Islands,78,4/24/21,0.4528
+Virgin Islands,78,4/25/21,0.449
+Virgin Islands,78,4/26/21,0.4471
+Virgin Islands,78,4/27/21,0.4089
+Virgin Islands,78,4/28/21,0.3955
+Virgin Islands,78,4/29/21,0.4165
+Virgin Islands,78,4/30/21,0.4423
+Virgin Islands,78,5/1/21,0.4662
+Virgin Islands,78,5/2/21,0.4643
+Virgin Islands,78,5/3/21,0.4652
+Virgin Islands,78,5/4/21,0.4719
+Virgin Islands,78,5/5/21,0.3716
+Virgin Islands,78,5/6/21,0.4203
+Virgin Islands,78,5/7/21,0.3773
+Virgin Islands,78,5/8/21,0.3601
+Virgin Islands,78,5/9/21,0.3515
+Virgin Islands,78,5/10/21,0.3506
+Virginia,51,1/13/21,0.319
+Virginia,51,1/14/21,0.1595
+Virginia,51,1/15/21,0.2094
+Virginia,51,1/16/21,0.2176
+Virginia,51,1/17/21,0.2225
+Virginia,51,1/18/21,0.2258
+Virginia,51,1/19/21,0.2281
+Virginia,51,1/20/21,0.2101
+Virginia,51,1/21/21,0.2414
+Virginia,51,1/22/21,0.2631
+Virginia,51,1/23/21,0.2751
+Virginia,51,1/24/21,0.278
+Virginia,51,1/25/21,0.2958
+Virginia,51,1/26/21,0.4484
+Virginia,51,1/27/21,0.4781
+Virginia,51,1/28/21,0.5127
+Virginia,51,1/29/21,0.5411
+Virginia,51,1/30/21,0.5969
+Virginia,51,1/31/21,0.6386
+Virginia,51,2/1/21,0.6491
+Virginia,51,2/2/21,0.5128
+Virginia,51,2/3/21,0.4919
+Virginia,51,2/4/21,0.4697
+Virginia,51,2/5/21,0.4504
+Virginia,51,2/6/21,0.4463
+Virginia,51,2/7/21,0.4521
+Virginia,51,2/8/21,0.4432
+Virginia,51,2/9/21,0.4358
+Virginia,51,2/10/21,0.4425
+Virginia,51,2/11/21,0.4588
+Virginia,51,2/12/21,0.4703
+Virginia,51,2/13/21,0.4648
+Virginia,51,2/14/21,0.4215
+Virginia,51,2/15/21,0.4314
+Virginia,51,2/16/21,0.4517
+Virginia,51,2/17/21,0.4565
+Virginia,51,2/18/21,0.4696
+Virginia,51,2/19/21,0.6203
+Virginia,51,2/20/21,0.5706
+Virginia,51,2/21/21,0.5859
+Virginia,51,2/22/21,0.5725
+Virginia,51,2/23/21,0.5597
+Virginia,51,2/24/21,0.5747
+Virginia,51,2/25/21,0.5774
+Virginia,51,2/26/21,0.4641
+Virginia,51,2/27/21,0.5549
+Virginia,51,2/28/21,0.6375
+Virginia,51,3/1/21,0.6719
+Virginia,51,3/2/21,0.6787
+Virginia,51,3/3/21,0.6982
+Virginia,51,3/4/21,0.7292
+Virginia,51,3/5/21,0.7024
+Virginia,51,3/6/21,0.6526
+Virginia,51,3/7/21,0.6021
+Virginia,51,3/8/21,0.585
+Virginia,51,3/9/21,0.6398
+Virginia,51,3/10/21,0.663
+Virginia,51,3/11/21,0.6711
+Virginia,51,3/12/21,0.6887
+Virginia,51,3/13/21,0.7282
+Virginia,51,3/14/21,0.7471
+Virginia,51,3/15/21,0.7791
+Virginia,51,3/16/21,0.7257
+Virginia,51,3/17/21,0.6876
+Virginia,51,3/18/21,0.6803
+Virginia,51,3/19/21,0.6885
+Virginia,51,3/20/21,0.6961
+Virginia,51,3/21/21,0.6977
+Virginia,51,3/22/21,0.6835
+Virginia,51,3/23/21,0.6736
+Virginia,51,3/24/21,0.74
+Virginia,51,3/25/21,0.7323
+Virginia,51,3/26/21,0.7529
+Virginia,51,3/27/21,0.7108
+Virginia,51,3/28/21,0.7853
+Virginia,51,3/29/21,0.848
+Virginia,51,3/30/21,0.9843
+Virginia,51,3/31/21,0.9828
+Virginia,51,4/1/21,1.0233
+Virginia,51,4/2/21,1.0671
+Virginia,51,4/3/21,1.1829
+Virginia,51,4/4/21,1.184
+Virginia,51,4/5/21,1.1235
+Virginia,51,4/6/21,1.0269
+Virginia,51,4/7/21,1.0198
+Virginia,51,4/8/21,1.0101
+Virginia,51,4/9/21,0.9983
+Virginia,51,4/10/21,0.9793
+Virginia,51,4/11/21,0.9806
+Virginia,51,4/12/21,0.9819
+Virginia,51,4/13/21,0.9918
+Virginia,51,4/14/21,1.0075
+Virginia,51,4/15/21,1.0057
+Virginia,51,4/16/21,1.0595
+Virginia,51,4/17/21,1.0595
+Virginia,51,4/18/21,1.0074
+Virginia,51,4/19/21,1.0299
+Virginia,51,4/20/21,1.0427
+Virginia,51,4/21/21,1.0123
+Virginia,51,4/22/21,1.0426
+Virginia,51,4/23/21,1.0053
+Virginia,51,4/24/21,1.0102
+Virginia,51,4/25/21,1.0012
+Virginia,51,4/26/21,1.0107
+Virginia,51,4/27/21,0.9963
+Virginia,51,4/28/21,0.9783
+Virginia,51,4/29/21,0.9582
+Virginia,51,4/30/21,0.9386
+Virginia,51,5/1/21,0.9278
+Virginia,51,5/2/21,0.9286
+Virginia,51,5/3/21,0.8427
+Virginia,51,5/4/21,0.8143
+Virginia,51,5/5/21,0.8189
+Virginia,51,5/6/21,0.8419
+Virginia,51,5/7/21,0.808
+Virginia,51,5/8/21,0.7274
+Virginia,51,5/9/21,0.6804
+Virginia,51,5/10/21,0.7639
+Washington,53,1/13/21,0.1664
+Washington,53,1/14/21,0.1948
+Washington,53,1/15/21,0.2059
+Washington,53,1/16/21,0.2189
+Washington,53,1/17/21,0.2268
+Washington,53,1/18/21,0.232
+Washington,53,1/19/21,0.2357
+Washington,53,1/20/21,0.2599
+Washington,53,1/21/21,0.278
+Washington,53,1/22/21,0.3012
+Washington,53,1/23/21,0.3278
+Washington,53,1/24/21,0.3142
+Washington,53,1/25/21,0.3513
+Washington,53,1/26/21,0.3497
+Washington,53,1/27/21,0.3521
+Washington,53,1/28/21,0.3709
+Washington,53,1/29/21,0.3826
+Washington,53,1/30/21,0.3883
+Washington,53,1/31/21,0.4408
+Washington,53,2/1/21,0.4349
+Washington,53,2/2/21,0.4393
+Washington,53,2/3/21,0.4343
+Washington,53,2/4/21,0.4244
+Washington,53,2/5/21,0.4144
+Washington,53,2/6/21,0.4199
+Washington,53,2/7/21,0.4142
+Washington,53,2/8/21,0.4077
+Washington,53,2/9/21,0.3929
+Washington,53,2/10/21,0.4559
+Washington,53,2/11/21,0.4553
+Washington,53,2/12/21,0.4738
+Washington,53,2/13/21,0.4765
+Washington,53,2/14/21,0.4903
+Washington,53,2/15/21,0.4614
+Washington,53,2/16/21,0.4692
+Washington,53,2/17/21,0.407
+Washington,53,2/18/21,0.4047
+Washington,53,2/19/21,0.5285
+Washington,53,2/20/21,0.5355
+Washington,53,2/21/21,0.5216
+Washington,53,2/22/21,0.5543
+Washington,53,2/23/21,0.5483
+Washington,53,2/24/21,0.5412
+Washington,53,2/25/21,0.5753
+Washington,53,2/26/21,0.4634
+Washington,53,2/27/21,0.487
+Washington,53,2/28/21,0.5341
+Washington,53,3/1/21,0.6016
+Washington,53,3/2/21,0.6521
+Washington,53,3/3/21,0.7012
+Washington,53,3/4/21,0.7137
+Washington,53,3/5/21,0.7351
+Washington,53,3/6/21,0.7591
+Washington,53,3/7/21,0.778
+Washington,53,3/8/21,0.7753
+Washington,53,3/9/21,0.7767
+Washington,53,3/10/21,0.779
+Washington,53,3/11/21,0.8228
+Washington,53,3/12/21,0.8269
+Washington,53,3/13/21,0.8073
+Washington,53,3/14/21,0.7853
+Washington,53,3/15/21,0.7744
+Washington,53,3/16/21,0.7701
+Washington,53,3/17/21,0.7549
+Washington,53,3/18/21,0.716
+Washington,53,3/19/21,0.716
+Washington,53,3/20/21,0.7273
+Washington,53,3/21/21,0.7692
+Washington,53,3/22/21,0.7871
+Washington,53,3/23/21,0.7566
+Washington,53,3/24/21,0.7551
+Washington,53,3/25/21,0.7646
+Washington,53,3/26/21,0.8029
+Washington,53,3/27/21,0.8281
+Washington,53,3/28/21,0.8386
+Washington,53,3/29/21,0.8555
+Washington,53,3/30/21,0.8784
+Washington,53,3/31/21,0.8975
+Washington,53,4/1/21,0.9178
+Washington,53,4/2/21,0.9267
+Washington,53,4/3/21,0.9446
+Washington,53,4/4/21,0.9548
+Washington,53,4/5/21,0.9632
+Washington,53,4/6/21,0.9461
+Washington,53,4/7/21,0.9563
+Washington,53,4/8/21,0.9568
+Washington,53,4/9/21,0.9589
+Washington,53,4/10/21,0.956
+Washington,53,4/11/21,0.9514
+Washington,53,4/12/21,0.9603
+Washington,53,4/13/21,1.0068
+Washington,53,4/14/21,1.0222
+Washington,53,4/15/21,1.0188
+Washington,53,4/16/21,0.9945
+Washington,53,4/17/21,0.9954
+Washington,53,4/18/21,0.9939
+Washington,53,4/19/21,0.9816
+Washington,53,4/20/21,0.9563
+Washington,53,4/21/21,0.9539
+Washington,53,4/22/21,0.9591
+Washington,53,4/23/21,0.9938
+Washington,53,4/24/21,0.9803
+Washington,53,4/25/21,0.9768
+Washington,53,4/26/21,0.9828
+Washington,53,4/27/21,0.986
+Washington,53,4/28/21,0.9722
+Washington,53,4/29/21,0.9811
+Washington,53,4/30/21,0.9604
+Washington,53,5/1/21,0.9575
+Washington,53,5/2/21,0.9335
+Washington,53,5/3/21,0.8767
+Washington,53,5/4/21,0.8306
+Washington,53,5/5/21,0.8086
+Washington,53,5/6/21,0.7783
+Washington,53,5/7/21,0.7417
+Washington,53,5/8/21,0.7246
+Washington,53,5/9/21,0.7193
+Washington,53,5/10/21,0.7773
+West Virginia,54,1/13/21,0.4117
+West Virginia,54,1/14/21,0.4277
+West Virginia,54,1/15/21,0.5743
+West Virginia,54,1/16/21,0.495
+West Virginia,54,1/17/21,0.4475
+West Virginia,54,1/18/21,0.4158
+West Virginia,54,1/19/21,0.3932
+West Virginia,54,1/20/21,0.3819
+West Virginia,54,1/21/21,0.3897
+West Virginia,54,1/22/21,0.3711
+West Virginia,54,1/23/21,0.4466
+West Virginia,54,1/24/21,0.4739
+West Virginia,54,1/25/21,0.4459
+West Virginia,54,1/26/21,0.461
+West Virginia,54,1/27/21,0.4488
+West Virginia,54,1/28/21,0.4548
+West Virginia,54,1/29/21,0.4719
+West Virginia,54,1/30/21,0.4907
+West Virginia,54,1/31/21,0.4535
+West Virginia,54,2/1/21,0.4491
+West Virginia,54,2/2/21,0.4281
+West Virginia,54,2/3/21,0.4236
+West Virginia,54,2/4/21,0.4157
+West Virginia,54,2/5/21,0.4134
+West Virginia,54,2/6/21,0.4661
+West Virginia,54,2/7/21,0.4964
+West Virginia,54,2/8/21,0.5027
+West Virginia,54,2/9/21,0.5039
+West Virginia,54,2/10/21,0.5142
+West Virginia,54,2/11/21,0.5104
+West Virginia,54,2/12/21,0.4751
+West Virginia,54,2/13/21,0.4882
+West Virginia,54,2/14/21,0.5145
+West Virginia,54,2/15/21,0.5319
+West Virginia,54,2/16/21,0.5279
+West Virginia,54,2/17/21,0.5057
+West Virginia,54,2/18/21,0.5002
+West Virginia,54,2/19/21,0.7109
+West Virginia,54,2/20/21,0.6535
+West Virginia,54,2/21/21,0.6132
+West Virginia,54,2/22/21,0.6017
+West Virginia,54,2/23/21,0.6138
+West Virginia,54,2/24/21,0.6255
+West Virginia,54,2/25/21,0.6537
+West Virginia,54,2/26/21,0.4886
+West Virginia,54,2/27/21,0.5418
+West Virginia,54,2/28/21,0.5483
+West Virginia,54,3/1/21,0.5457
+West Virginia,54,3/2/21,0.5252
+West Virginia,54,3/3/21,0.5339
+West Virginia,54,3/4/21,0.5414
+West Virginia,54,3/5/21,0.5784
+West Virginia,54,3/6/21,0.5425
+West Virginia,54,3/7/21,0.5512
+West Virginia,54,3/8/21,0.5449
+West Virginia,54,3/9/21,0.5565
+West Virginia,54,3/10/21,0.5553
+West Virginia,54,3/11/21,0.5795
+West Virginia,54,3/12/21,0.6167
+West Virginia,54,3/13/21,0.6794
+West Virginia,54,3/14/21,0.6608
+West Virginia,54,3/15/21,0.667
+West Virginia,54,3/16/21,0.6641
+West Virginia,54,3/17/21,0.6715
+West Virginia,54,3/18/21,0.6666
+West Virginia,54,3/19/21,0.6425
+West Virginia,54,3/20/21,0.6143
+West Virginia,54,3/21/21,0.632
+West Virginia,54,3/22/21,0.6283
+West Virginia,54,3/23/21,0.6354
+West Virginia,54,3/24/21,0.6583
+West Virginia,54,3/25/21,0.6679
+West Virginia,54,3/26/21,0.6924
+West Virginia,54,3/27/21,0.7191
+West Virginia,54,3/28/21,0.7437
+West Virginia,54,3/29/21,0.7397
+West Virginia,54,3/30/21,0.7706
+West Virginia,54,3/31/21,0.7694
+West Virginia,54,4/1/21,0.8197
+West Virginia,54,4/2/21,0.8438
+West Virginia,54,4/3/21,0.7694
+West Virginia,54,4/4/21,0.7157
+West Virginia,54,4/5/21,0.7112
+West Virginia,54,4/6/21,0.6854
+West Virginia,54,4/7/21,0.6739
+West Virginia,54,4/8/21,0.6187
+West Virginia,54,4/9/21,0.5582
+West Virginia,54,4/10/21,0.5839
+West Virginia,54,4/11/21,0.6228
+West Virginia,54,4/12/21,0.6274
+West Virginia,54,4/13/21,0.6256
+West Virginia,54,4/14/21,0.62
+West Virginia,54,4/15/21,0.5815
+West Virginia,54,4/16/21,0.5407
+West Virginia,54,4/17/21,0.5005
+West Virginia,54,4/18/21,0.4743
+West Virginia,54,4/19/21,0.4706
+West Virginia,54,4/20/21,0.4765
+West Virginia,54,4/21/21,0.489
+West Virginia,54,4/22/21,0.49
+West Virginia,54,4/23/21,0.4899
+West Virginia,54,4/24/21,0.4452
+West Virginia,54,4/25/21,0.4365
+West Virginia,54,4/26/21,0.4371
+West Virginia,54,4/27/21,0.4198
+West Virginia,54,4/28/21,0.4007
+West Virginia,54,4/29/21,0.4136
+West Virginia,54,4/30/21,0.3902
+West Virginia,54,5/1/21,0.3789
+West Virginia,54,5/2/21,0.3715
+West Virginia,54,5/3/21,0.3707
+West Virginia,54,5/4/21,0.365
+West Virginia,54,5/5/21,0.324
+West Virginia,54,5/6/21,0.2937
+West Virginia,54,5/7/21,0.2422
+West Virginia,54,5/8/21,0.2383
+West Virginia,54,5/9/21,0.2416
+West Virginia,54,5/10/21,0.2682
+Wisconsin,55,1/13/21,0
+Wisconsin,55,1/14/21,0.1091
+Wisconsin,55,1/15/21,0.1863
+Wisconsin,55,1/16/21,0.1867
+Wisconsin,55,1/17/21,0.1869
+Wisconsin,55,1/18/21,0.187
+Wisconsin,55,1/19/21,0.1871
+Wisconsin,55,1/20/21,0.2091
+Wisconsin,55,1/21/21,0.2179
+Wisconsin,55,1/22/21,0.2233
+Wisconsin,55,1/23/21,0.2574
+Wisconsin,55,1/24/21,0.2862
+Wisconsin,55,1/25/21,0.278
+Wisconsin,55,1/26/21,0.2566
+Wisconsin,55,1/27/21,0.2773
+Wisconsin,55,1/28/21,0.3022
+Wisconsin,55,1/29/21,0.3583
+Wisconsin,55,1/30/21,0.4039
+Wisconsin,55,1/31/21,0.4484
+Wisconsin,55,2/1/21,0.4846
+Wisconsin,55,2/2/21,0.5004
+Wisconsin,55,2/3/21,0.5218
+Wisconsin,55,2/4/21,0.4588
+Wisconsin,55,2/5/21,0.462
+Wisconsin,55,2/6/21,0.4613
+Wisconsin,55,2/7/21,0.617
+Wisconsin,55,2/8/21,0.6131
+Wisconsin,55,2/9/21,0.6067
+Wisconsin,55,2/10/21,0.6098
+Wisconsin,55,2/11/21,0.6805
+Wisconsin,55,2/12/21,0.6608
+Wisconsin,55,2/13/21,0.6818
+Wisconsin,55,2/14/21,0.5223
+Wisconsin,55,2/15/21,0.516
+Wisconsin,55,2/16/21,0.5456
+Wisconsin,55,2/17/21,0.5295
+Wisconsin,55,2/18/21,0.5247
+Wisconsin,55,2/19/21,0.6696
+Wisconsin,55,2/20/21,0.6686
+Wisconsin,55,2/21/21,0.6752
+Wisconsin,55,2/22/21,0.684
+Wisconsin,55,2/23/21,0.6574
+Wisconsin,55,2/24/21,0.663
+Wisconsin,55,2/25/21,0.6724
+Wisconsin,55,2/26/21,0.546
+Wisconsin,55,2/27/21,0.5712
+Wisconsin,55,2/28/21,0.5887
+Wisconsin,55,3/1/21,0.61
+Wisconsin,55,3/2/21,0.6417
+Wisconsin,55,3/3/21,0.6638
+Wisconsin,55,3/4/21,0.6922
+Wisconsin,55,3/5/21,0.7282
+Wisconsin,55,3/6/21,0.7359
+Wisconsin,55,3/7/21,0.7348
+Wisconsin,55,3/8/21,0.7459
+Wisconsin,55,3/9/21,0.7146
+Wisconsin,55,3/10/21,0.7031
+Wisconsin,55,3/11/21,0.7008
+Wisconsin,55,3/12/21,0.7067
+Wisconsin,55,3/13/21,0.8599
+Wisconsin,55,3/14/21,0.7429
+Wisconsin,55,3/15/21,0.7434
+Wisconsin,55,3/16/21,0.7814
+Wisconsin,55,3/17/21,0.7879
+Wisconsin,55,3/18/21,0.8053
+Wisconsin,55,3/19/21,0.8008
+Wisconsin,55,3/20/21,0.6668
+Wisconsin,55,3/21/21,0.8589
+Wisconsin,55,3/22/21,0.869
+Wisconsin,55,3/23/21,0.8572
+Wisconsin,55,3/24/21,0.8722
+Wisconsin,55,3/25/21,0.8995
+Wisconsin,55,3/26/21,0.9412
+Wisconsin,55,3/27/21,0.9646
+Wisconsin,55,3/28/21,0.9472
+Wisconsin,55,3/29/21,0.9615
+Wisconsin,55,3/30/21,0.9582
+Wisconsin,55,3/31/21,0.9544
+Wisconsin,55,4/1/21,0.9632
+Wisconsin,55,4/2/21,0.9683
+Wisconsin,55,4/3/21,0.9898
+Wisconsin,55,4/4/21,0.9795
+Wisconsin,55,4/5/21,0.9728
+Wisconsin,55,4/6/21,0.9525
+Wisconsin,55,4/7/21,0.9545
+Wisconsin,55,4/8/21,0.978
+Wisconsin,55,4/9/21,1.0102
+Wisconsin,55,4/10/21,1.0253
+Wisconsin,55,4/11/21,1.0901
+Wisconsin,55,4/12/21,1.128
+Wisconsin,55,4/13/21,1.1476
+Wisconsin,55,4/14/21,1.1403
+Wisconsin,55,4/15/21,1.0794
+Wisconsin,55,4/16/21,1.0531
+Wisconsin,55,4/17/21,1.0405
+Wisconsin,55,4/18/21,1.0031
+Wisconsin,55,4/19/21,1.0257
+Wisconsin,55,4/20/21,1.0264
+Wisconsin,55,4/21/21,1.0299
+Wisconsin,55,4/22/21,1.0605
+Wisconsin,55,4/23/21,1.0742
+Wisconsin,55,4/24/21,1.0121
+Wisconsin,55,4/25/21,0.971
+Wisconsin,55,4/26/21,0.8886
+Wisconsin,55,4/27/21,0.8762
+Wisconsin,55,4/28/21,0.8707
+Wisconsin,55,4/29/21,0.835
+Wisconsin,55,4/30/21,0.7757
+Wisconsin,55,5/1/21,0.751
+Wisconsin,55,5/2/21,0.6986
+Wisconsin,55,5/3/21,0.6653
+Wisconsin,55,5/4/21,0.6498
+Wisconsin,55,5/5/21,0.6198
+Wisconsin,55,5/6/21,0.6148
+Wisconsin,55,5/7/21,0.5651
+Wisconsin,55,5/8/21,0.533
+Wisconsin,55,5/9/21,0.5385
+Wisconsin,55,5/10/21,0.5685
+Wyoming,56,1/13/21,0.2293
+Wyoming,56,1/14/21,0.2858
+Wyoming,56,1/15/21,0.3616
+Wyoming,56,1/16/21,0.3286
+Wyoming,56,1/17/21,0.3088
+Wyoming,56,1/18/21,0.2955
+Wyoming,56,1/19/21,0.2861
+Wyoming,56,1/20/21,0.2842
+Wyoming,56,1/21/21,0.2353
+Wyoming,56,1/22/21,0.2913
+Wyoming,56,1/23/21,0.333
+Wyoming,56,1/24/21,0.3801
+Wyoming,56,1/25/21,0.3561
+Wyoming,56,1/26/21,0.3278
+Wyoming,56,1/27/21,0.3485
+Wyoming,56,1/28/21,0.3485
+Wyoming,56,1/29/21,0.3608
+Wyoming,56,1/30/21,0.2865
+Wyoming,56,1/31/21,0.4003
+Wyoming,56,2/1/21,0.4335
+Wyoming,56,2/2/21,0.4365
+Wyoming,56,2/3/21,0.4283
+Wyoming,56,2/4/21,0.4283
+Wyoming,56,2/5/21,0.4504
+Wyoming,56,2/6/21,0.5602
+Wyoming,56,2/7/21,0.3661
+Wyoming,56,2/8/21,0.4378
+Wyoming,56,2/9/21,0.4304
+Wyoming,56,2/10/21,0.4625
+Wyoming,56,2/11/21,0.4625
+Wyoming,56,2/12/21,0.5361
+Wyoming,56,2/13/21,0.4266
+Wyoming,56,2/14/21,0.6725
+Wyoming,56,2/15/21,0.5723
+Wyoming,56,2/16/21,0.5857
+Wyoming,56,2/17/21,0.5102
+Wyoming,56,2/18/21,0.6396
+Wyoming,56,2/19/21,0.8682
+Wyoming,56,2/20/21,0.9854
+Wyoming,56,2/21/21,0.7497
+Wyoming,56,2/22/21,0.8885
+Wyoming,56,2/23/21,0.8881
+Wyoming,56,2/24/21,0.8931
+Wyoming,56,2/25/21,0.8916
+Wyoming,56,2/26/21,0.5249
+Wyoming,56,2/27/21,0.556
+Wyoming,56,2/28/21,0.6647
+Wyoming,56,3/1/21,0.5209
+Wyoming,56,3/2/21,0.5088
+Wyoming,56,3/3/21,0.6554
+Wyoming,56,3/4/21,0.5344
+Wyoming,56,3/5/21,0.5216
+Wyoming,56,3/6/21,0.6396
+Wyoming,56,3/7/21,0.5341
+Wyoming,56,3/8/21,0.7119
+Wyoming,56,3/9/21,0.7167
+Wyoming,56,3/10/21,0.673
+Wyoming,56,3/11/21,0.6758
+Wyoming,56,3/12/21,0.8028
+Wyoming,56,3/13/21,0.7058
+Wyoming,56,3/14/21,0.8361
+Wyoming,56,3/15/21,0.6645
+Wyoming,56,3/16/21,0.6949
+Wyoming,56,3/17/21,0.5883
+Wyoming,56,3/18/21,0.5795
+Wyoming,56,3/19/21,0.5308
+Wyoming,56,3/20/21,0.3679
+Wyoming,56,3/21/21,0.2327
+Wyoming,56,3/22/21,0.221
+Wyoming,56,3/23/21,0.5234
+Wyoming,56,3/24/21,0.5284
+Wyoming,56,3/25/21,0.7126
+Wyoming,56,3/26/21,0.5579
+Wyoming,56,3/27/21,0.5581
+Wyoming,56,3/28/21,0.5603
+Wyoming,56,3/29/21,0.9996
+Wyoming,56,3/30/21,0.6612
+Wyoming,56,3/31/21,0.6661
+Wyoming,56,4/1/21,0.674
+Wyoming,56,4/2/21,0.673
+Wyoming,56,4/3/21,0.6728
+Wyoming,56,4/4/21,1.0526
+Wyoming,56,4/5/21,0.6175
+Wyoming,56,4/6/21,0.6493
+Wyoming,56,4/7/21,0.6462
+Wyoming,56,4/8/21,0.4587
+Wyoming,56,4/9/21,0.4549
+Wyoming,56,4/10/21,0.4561
+Wyoming,56,4/11/21,0.5928
+Wyoming,56,4/12/21,0.5875
+Wyoming,56,4/13/21,0.6393
+Wyoming,56,4/14/21,0.7041
+Wyoming,56,4/15/21,0.7012
+Wyoming,56,4/16/21,0.8484
+Wyoming,56,4/17/21,0.8454
+Wyoming,56,4/18/21,0.3209
+Wyoming,56,4/19/21,0.3255
+Wyoming,56,4/20/21,0.4591
+Wyoming,56,4/21/21,0.3905
+Wyoming,56,4/22/21,0.5019
+Wyoming,56,4/23/21,0.429
+Wyoming,56,4/24/21,0.4269
+Wyoming,56,4/25/21,0.4302
+Wyoming,56,4/26/21,0.6103
+Wyoming,56,4/27/21,0.3933
+Wyoming,56,4/28/21,0.3938
+Wyoming,56,4/29/21,0.391
+Wyoming,56,4/30/21,0.377
+Wyoming,56,5/1/21,0.4278
+Wyoming,56,5/2/21,0.4292
+Wyoming,56,5/3/21,0.2435
+Wyoming,56,5/4/21,0.3086
+Wyoming,56,5/5/21,0.3521
+Wyoming,56,5/6/21,0.2466
+Wyoming,56,5/7/21,0.2837
+Wyoming,56,5/8/21,0.2851
+Wyoming,56,5/9/21,0.283
+Wyoming,56,5/10/21,0.283

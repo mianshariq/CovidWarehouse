@@ -1,0 +1,58 @@
+fips,State,State_Initial,Country
+1,Alabama,AL,USA
+2,Alaska,AK,USA
+4,Arizona,AZ,USA
+5,Arkansas,AR,USA
+6,California,CA,USA
+8,Colorado,CO,USA
+9,Connecticut,CT,USA
+10,Delaware,DE,USA
+11,Washington DC,DC,USA
+12,Florida,FL,USA
+13,Georgia,GA,USA
+15,Hawaii,HI,USA
+16,Idaho,ID,USA
+17,Illinois,IL,USA
+18,Indiana,IN,USA
+19,Iowa,IA,USA
+20,Kansas,KS,USA
+21,Kentucky,KY,USA
+22,Louisiana,LA,USA
+23,Maine,ME,USA
+24,Maryland,MD,USA
+25,Massachusetts,MA,USA
+26,Michigan,MI,USA
+27,Minnesota,MN,USA
+28,Mississippi,MS,USA
+29,Missouri,MO,USA
+30,Montana,MT,USA
+31,Nebraska,NE,USA
+32,Nevada,NV,USA
+33,New Hampshire,NH,USA
+34,New Jersey,NJ,USA
+35,New Mexico,NM,USA
+36,New York,NY,USA
+37,North Carolina,NC,USA
+38,North Dakota,ND,USA
+39,Ohio,OH,USA
+40,Oklahoma,OK,USA
+41,Oregon,OR,USA
+42,Pennsylvania,PA,USA
+44,Rhode Island,RI,USA
+45,South Carolina,SC,USA
+46,South Dakota,SD,USA
+47,Tennessee,TN,USA
+48,Texas,TX,USA
+49,Utah,UT,USA
+50,Vermont,VT,USA
+51,Virginia,VA,USA
+53,Washington,WA,USA
+54,West Virginia,WV,USA
+55,Wisconsin,WI,USA
+56,Wyoming,WY,USA
+60,American Samoa,AS,USA
+66,Guam,GU,USA
+69,Northern Mariana Islands,MP,USA
+72,Puerto Rico,PR,USA
+78,Virgin Islands,VI,USA
+0,United States,USA,USA
